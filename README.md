@@ -42,7 +42,7 @@ C |
 G |
 M |
 N |
-Notulae Systematicae | 0374-9223 | [Q6045778](https://alec-demo.herokuapp.com/?id=Q6045778) | [314](https://www.biodiversitylibrary.org/bibliography/314) | NOTUL | ![Coverage](https://rdmpage.github.io/bhl-article-coverage/314.png) [new](https://rdmpage.github.io/bhl-article-coverage/314.html) [old](http://direct.biostor.org/issn/0374-9223) | 1909-1960 | [local](https://github.com/rdmpage/bibliotheques-mnhn-fr/raw/main/tsv/Notulae%20Systematicae.tsv)
+Notulae Systematicae | 0374-9223 | [Q6045778](https://alec-demo.herokuapp.com/?id=Q6045778) | [314](https://www.biodiversitylibrary.org/bibliography/314) | NOTUL | ![Coverage](https://rdmpage.github.io/bhl-article-coverage/314.png) [new](https://rdmpage.github.io/bhl-article-coverage/314.html) [old](http://direct.biostor.org/issn/0374-9223) | 1909-1960 | [local](https://github.com/rdmpage/bibliotheques-mnhn-fr/blob/main/tsv/Notulae%20Systematicae.tsv)
 R |
 Revue de mycologie  | 0484-8578 | [Q39125612](https://alec-demo.herokuapp.com/?id=Q39125612) | [169397](https://www.biodiversitylibrary.org/bibliography/169397) | [MNHN_REMYC](https://bibliotheques.mnhn.fr/EXPLOITATION/infodoc/digitalCollections/viewerpopup.aspx?seid=MNHN_REMYC_1979_T043_N004) | ![Coverage](https://rdmpage.github.io/bhl-article-coverage/169397.png) [new](https://rdmpage.github.io/bhl-article-coverage/169397.html) [old](http://direct.biostor.org/issn/0484-8578) | |[BioStor](http://direct.biostor.org/issn/0484-8578.tsv)
 
