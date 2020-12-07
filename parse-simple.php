@@ -148,6 +148,8 @@ function authors_from_string($authorstring, $split_on_commas = false)
 
 
 $basedir = 'html-NOTUL';
+$basedir = 'html-BMBAD';
+$basedir = 'html-BMBOT';
 
 
 
@@ -173,6 +175,7 @@ foreach ($files as $filename)
 	if (preg_match('/\.html$/', $filename))
 	{	
 		$journal 	= '';
+		$series     = '';
 		$issn 		= '';
 		$volume 	= '';
 		$issue 		= '';
@@ -193,9 +196,47 @@ foreach ($files as $filename)
 		}
 		else
 		{
+			//echo "Bad\n";
+			
+		}
+		
+		// BMBAD_S004_1981_T003_N003
+		if (preg_match('/(?<code>BMBAD_S0*(?<series>\d+)_(?<year>[0-9]{4})_T0*(?<volume>\d+)_N0*(?<issue>\d+))/', $filename, $m))
+		{
+			$journal 	= 'Bulletin du Muséum National d\'Histoire Naturelle Section B,Adansonia, botanique, phytochimie';
+			$series 	= $m['series'];
+			$issn		= '0240–8937';
+			$volume 	= $m['volume'];
+			$issue 		= $m['issue'];
+			$year 		= $m['year'];
+			
+			$code 		= $m['code'];
+		}
+		else
+		{
+			//echo "Bad\n";
+			
+		}
+		
+		if (preg_match('/(?<code>BMBOT_S0*(?<series>\d+)_(?<year>[0-9]{4})_T0*(?<volume>\d+)_N0*(?<issue>\d+))/', $filename, $m))
+		{
+			$journal 	= 'Bulletin du Muséum national d\'histoire naturelle. Section B, botanique, biologie et écologie végétales, phytochimie';
+			$series 	= $m['series'];
+			$issn		= '0181-0634';
+			$volume 	= $m['volume'];
+			$issue 		= $m['issue'];
+			$year 		= $m['year'];
+			
+			$code 		= $m['code'];
+		}
+		else
+		{
 			echo "Bad\n";
 			
 		}
+		
+		
+		
 	
 		$html = file_get_contents($basedir . '/' . $filename);
 		
@@ -236,8 +277,11 @@ foreach ($files as $filename)
 					$reference->journal 	= $journal;
 					$reference->issn 		= $issn;
 				
+					if ($series != '')
+					{
+						$reference->series = $series;
+					}
 				
-					//$reference->series = $series;
 					$reference->volume = $volume;
 					$reference->issue = $issue;
 					$reference->date = $year;
