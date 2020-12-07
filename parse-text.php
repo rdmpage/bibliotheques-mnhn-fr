@@ -6,6 +6,8 @@ $basedir = 'pdf-NOTUL';
 
 $basedir = 'pdf-BMBOT';
 
+$basedir = 'pdf-BMBAD';
+
 
 $files = scandir(dirname(__FILE__) . '/' . $basedir);
 
@@ -14,6 +16,8 @@ $files = scandir(dirname(__FILE__) . '/' . $basedir);
 //$files = array('NOTUL_S000_1909_T001_N001.pdf');
 
 //$files = array('NOTUL_S000_1920_T004_N001.pdf');
+
+//$files = array('BMBAD_S004_1996_T018_N003.pdf');
 
 
 foreach ($files as $filename)
@@ -39,6 +43,8 @@ foreach ($files as $filename)
 		$text = file_get_contents($text_filename);
 
 		$pages = explode("\f", $text);
+		
+		//print_r($pages);
 		
 		//$tsv_rows = array();
 
@@ -71,6 +77,11 @@ foreach ($files as $filename)
 				$page_number = $m['page'];
 			}
 			
+			// — 360 —
+			if (preg_match('/—\s*(?<page>\d+)\s*—/u', $lines[0], $m))
+			{
+				$page_number = $m['page'];
+			}
 
 			/*
 			if (preg_match('/(?<page>' . $pattern . ')\s*\.?$/', $lines[0], $m))
@@ -84,7 +95,7 @@ foreach ($files as $filename)
 			
 			// second line has artcle page range
 			// section B, n∞ 3 : 131-169.		
-			if (preg_match('/section B, n° \d+\s+:\s+(?<spage>\d+)(-(?<epage>\d+))?/u', $lines[1], $m))
+			if (preg_match('/section B, n°\s+\d+\s+:\s+(?<spage>\d+)(-(?<epage>\d+))?/u', $lines[1], $m))
 			{
 				$page_number = $m['spage'];
 				if ($m['epage'] != '')
@@ -92,6 +103,18 @@ foreach ($files as $filename)
 					$end_page = $m['epage'];
 				}
 			}
+			
+			// section B, Adansonia
+			//section B, Adansonia, n o s 3-4 : 239-274.
+			if (preg_match('/section B,\s+Adansonia,\s+(n°|n\s*[o|"]\s*s)\s+(\d+(-\d+)?)\s+:\s+(?<spage>\d+)(-(?<epage>\d+))?/u', $lines[1], $m))
+			{
+				$page_number = $m['spage'];
+				if ($m['epage'] != '')
+				{
+					$end_page = $m['epage'];
+				}
+			}
+			
 
 
 			$scanned_page = new stdclass;
