@@ -3,7 +3,13 @@
 // extract all text files
 
 $basedir = 'pdf-NOTUL';
+
+$basedir = 'pdf-BMBOT';
+
+
 $files = scandir(dirname(__FILE__) . '/' . $basedir);
+
+//$files = array('BMBOT_S004_1979_T001_N003.pdf');
 
 //$files = array('NOTUL_S000_1909_T001_N001.pdf');
 
@@ -21,8 +27,8 @@ foreach ($files as $filename)
 		
 		if (!file_exists($text_filename))
 		{	
-			$command = "pdftotext -layout '" . $pdf_filename . "'";		
-			echo $command . "\n";		
+			$command = "pdftotext -enc UTF-8 -layout '" . $pdf_filename . "'";		
+			echo "-- $command\n";		
 			system ($command);
 		}
 				
@@ -36,7 +42,6 @@ foreach ($files as $filename)
 		
 		//$tsv_rows = array();
 
-		//print_r($pages);
 		
 		$scan_info = new stdclass;
 		$scan_info->pages = array();
@@ -47,8 +52,12 @@ foreach ($files as $filename)
 		foreach ($pages as $page)
 		{
 			$page_number = '';
+			
+			$end_page 	= '';
 
 			$lines = explode("\n", $page);
+			
+			//print_r($lines);
 
 			// -- 265 --
 
@@ -72,6 +81,17 @@ foreach ($files as $filename)
 
 			$page_number = str_replace('I', '1', $page_number);
 			$page_number = str_replace('i', '1', $page_number);
+			
+			// second line has artcle page range
+			// section B, n∞ 3 : 131-169.		
+			if (preg_match('/section B, n° \d+\s+:\s+(?<spage>\d+)(-(?<epage>\d+))?/u', $lines[1], $m))
+			{
+				$page_number = $m['spage'];
+				if ($m['epage'] != '')
+				{
+					$end_page = $m['epage'];
+				}
+			}
 
 
 			$scanned_page = new stdclass;
@@ -87,6 +107,12 @@ foreach ($files as $filename)
 					$scan_info->page_map[$page_number] = array();
 				}
 				$scan_info->page_map[$page_number][] = $scanned_page->index;
+				
+				if ($end_page != '')
+				{
+					$scanned_page->end_page = $end_page;	
+				}			
+				
 			}
 			
 			$scan_info->pages[] = $scanned_page;
@@ -104,6 +130,8 @@ foreach ($files as $filename)
 		for ($i = 0; $i < $n; $i++)
 		{
 			$page_number = -1;
+			
+			$end_page_number = -1;
 			
 			if (isset($scan_info->pages[$i]->page_number))
 			{
@@ -125,11 +153,21 @@ foreach ($files as $filename)
 			
 			}
 			
+			
+			
 			if ($page_number > -1)
 			{
 				echo 'UPDATE publications_mnhn SET spage="'. $page_number . '" WHERE scan="' . $scan_name . '" AND scan_page="' . $i . '";' . "\n";
 			
 			}
+			
+			if (isset($scan_info->pages[$i]->end_page))
+			{
+				echo 'UPDATE publications_mnhn SET epage="'. $scan_info->pages[$i]->end_page . '" WHERE scan="' . $scan_name . '" AND scan_page="' . $i . '";' . "\n";
+			}
+			
+			
+			
 		
 		
 		}
