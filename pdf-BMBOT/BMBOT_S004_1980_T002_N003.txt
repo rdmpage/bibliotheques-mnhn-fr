@@ -1,0 +1,2403 @@
+                                                                                                                                                                                         ISSN 0181-0634
+
+            BULLETIN
+du MUSEUM NATIONAL
+d'HISTOIRE NATURELLE
+
+                                                                              PUBLICATION TRIMESTRIELLE
+
+                                                                                           SECTION B
+
+                                                                            botanique
+
+                                                                       biologie et écologie
+                                                                                        végétales
+
+                                                                                   phytochimie
+
+4e SERIE T. 2 1980  3
+
+                                                       Septembre 1980
+                                                    BULLETIN
+                                                            du
+
+                  MUSÉUM NATIONAL D'HISTOIRE NATURELLE
+
+                                                    57, rue Cuvier, 75005 Paris
+
+                         Directeurs : P R S E . - R . B R Y G O O et M . V A C H O N .
+                         Comité de rédaction : M M . et M M E S M . - L . B A U C H O T , E . - R . B R Y G O O , J . D O R S T ,
+
+                                   P . D U P É R I E R , C. D U P U I S , J . F A B R I È S , J.-C. FISCHER, N . H A L L E , J . - L . H A M E L ,
+                                   S. J O V E T , R . L A F F I T T E , Y . LAISSUS, C. L É V I , D. M O L H O , C. M O N N I O T ,
+                                  M. VACHON.
+
+       Fondé en 1895, le Bulletin du Muséum d'Histoire naturelle est devenu à partir de 1907 :
+Bulletin du Muséum national d'Histoire naturelle. Des travaux originaux relatifs aux diverses
+disciplines scientifiques représentées au Muséum y sont publiés. Il s'agit essentiellement
+d'études de Systématique portant sur les collections conservées dans ses laboratoires, mais
+la revue est également ouverte, depuis 1970 surtout, à des articles portant sur d'autres
+aspects de la Science : biologie, écologie, etc.
+
+       La 7 r 8 série (années 1895 à 1928) comprend un tome par an (t. 1 à 34), divisé chacun en
+six fascicules regroupant divers articles.
+
+       La 2* série (années 1929 à 1970) a la même présentation : un tome (t. 1 à 42), six fasci-
+cules par an.
+
+       La 3 e série (années 1971 à 1978) est également bimestrielle. Le Bulletin est alors divisé
+en cinq Sections et les articles paraissent par fascicules séparés (sauf pour l'année 1978
+où ils ont été regroupés par fascicules bimestriels). Durant ces années chaque fascicule est
+numéroté à la suite ( n o s 1 à 522), ainsi qu'à l'intérieur de chaque Section, soit : Zoologie,
+n o s 1 à 356 ; Sciences de la Terre, n o s 1 à 70 ; Botanique, n 0 8 1 à 3 5 ; Écologie générale,
+n o s 1 à 42 ; Sciences physico-chimiques, n o s 1 à 19.
+
+       La 4e série débute avec l'année 1979. Le Bulletin est divisé en trois Sections : A : Zoolo-
+gie, biologie et écologie animales -- B : Botanique, biologie et écologie végétales, phyto-
+chimie -- C : Sciences de la Terre, paléontologie, géologie, minéralogie. La revue est tri-
+mestrielle ; les articles sont regroupés en quatre numéros par an pour chacune des Sections ;
+un tome annuel réunit les trois Sections.
+
+                                                                          S'adresser :
+              -- pour les échanges, à la Bibliothèque centrale du Muséum national d'Histoire naturelle,
+
+                          38, rue Geoffroy Saint-Hilaire, 75005 Paris, tél. 331-71-24 ; 331-95-60.
+              -- pour les abonnements et achats au numéro, au Service de vente des Publications
+
+                          du Muséum, 38, rue Geoffroy Saint-Hilaire, 75005 Paris, tél. 331-71-24 ; 331-95-60.
+                          C.C.P. Paris 9062-62.
+              -- pour tout ce qui concerne la rédaction, au Secrétariat du Bulletin, 57, rue Cuvier,
+                          75005 Paris, tél. 587-19-17.
+
+                                                         Abonnements pour l'année 1980
+
+                  ABONNEMENT GÉNÉRAL : 640 F .
+
+              SECTION A : Zoologie, biologie et écologie animales : 490 F .
+              SECTION B : Botanique, biologie et écologie végétales, phytochimie : 100 F .
+              SECTION C : Sciences de la Terre, paléontologie, géologie, minéralogie : 130 F .
+
+                                        Les Directeurs de la Publication : P" E . - R . BBYGOO et M . VACHON.
+                                 d'inscription à la Omission parit. des public, et agences de presse 1404 A D
+BULLETIN DU MUSÉUM NATIONAL D'HISTOIRE          NATURELLE
+
+4 e série, 2, 1980, section B (Botanique, Biologie et Écologie végétales. Phytochimie), n° 3
+
+                           SOMMAIRE
+
+G. PARADIS. -- Un cas particulier de zones dénudées dans les mangroves d'Afrique
+
+de l'Ouest : celles dues à l'extraction de sel                                                227
+
+M. NIGAUD. -- Relations entre la structure exinique, la morphologie tectale du pollen,
+
+les conditions climatiques et écologiques chez certaines espèces du genre Peu-
+
+cedanum L. (Umbelliferae)                                                                     263
+
+J . - P . R E D U R O N . -- La morphologie florale des espèces françaises de Peucedanum
+
+(Umbelliferae) en liaison avec leur écologie et leur palynologie                              279
+
+                                                                  3, 2 2
+                                      Bull. Mus. natn. Hist, nal., Paris, 4 e ser., 2, 1980,
+
+                                                                 section B, n° 3 : 227-261.
+
+                         Un cas particulier de zones dénudées
+
+                    dans les mangroves d'Afrique de l'Ouest :
+
+                             celles dues à l'extraction de sel
+
+                                                               par Guilhan PARADIS *
+
+       Résumé. -- En climat à longue saison sèche, les mangroves présentent des zones nues dues
+aux remontées de sel par capillarité. Mais au Bénin, en climat subéquatorial sec, les zones nues
+sont de création anthropique pour l'extraction de terre salée, en vue de la fabrication de sel. En
+beaucoup de pays d'Afrique occidentale cette extraction se pratique aujourd'hui et a été impor-
+tante au cours des siècles depuis le Moyen Age. Il est probable que c'est elle qui, en climat relative-
+ment humide (Sierra Leone, Ghana, Guinée), a provoqué la formation des zones nues. En climat
+plus sec (Casamance, Gambie), cette extraction a pu favoriser l'agrandissement des zones nues.
+
+       Abstract. -- A special case of denuded areas in the mangrove swamps of West Africa : those due
+to salt extraction. -- In climate with a long dry season, the mangrove swamps exhibit bare flats
+due to raising of salt by capillarity. But in Bénin, in a dry subéquatorial climate, the bare zones
+are of human creation, because of the extraction of salty soil to make salt. In many countries
+of West Africa this extraction is done today and has been great since the Middle Ages. Probably
+it is this extraction in a relatively humid climate (Sierra Leone, Ghana, Guinea) that had caused
+the formation of denuded areas. In a drier climate (Casamance, Gambia), this extraction might
+have contributed to the extension of denuded zones.
+
+                                                                                INTRODUCTION
+
+        Dans de nombreuses régions du globe subissant une forte saison sèche, les mangroves
+présentent des aires dénudées (appelées aussi zones nues, tannes, tanns, tans 1 , zones sur-
+salées, areas denuded, bare flats, etc.). C'est le cas de plusieurs pays d'Afrique de l'Ouest
+(Sénégal, Gambie, Sierra Leone, Guinée, Ghana, Bénin). Généralement, ces zones nues
+sont interprétées par des phénomènes naturels : abaissement de la nappe phréatique et
+remontée des sels par évaporation en saison sèche, ces deux facteurs détruisant la végé-
+tation et provoquant une modification pédologique. Cet article se propose de nuancer
+cette opinion et de montrer qu'à côté du cas général de ces tannes d'origine naturelle existent
+en pays un peu moins secs des tannes créés et agrandis par l'extraction de terre salée,
+c'est-à-dire d'origine anthropique. Ce cas particulier, même s'il est limité à une partie de
+l'Afrique occidentale, mérite d'être signalé.
+
+* École Normale Supérieure. 08 B.P. 10 Abidjan, Côte d'Ivoire.
+
+1. Le terme « tan » signifie « terrains salés » en langue wolof (VILLIERS, 1 9 5 4 ) .
+
+                                                                                        3. 2 3
+                                                                  -- 228 --
+
+       Notre travail s'appuie, d'une part, sur une étude du littoral du Bénin où, actuellement,
+se voit la création des aires dénudées et, d'autre part, sur l'analyse des descriptions des
+tannes de plusieurs contrées d'Afrique de l'Ouest, où une interprétation anthropique nous
+paraît possible.
+
+       La première partie rappelle la description et les mécanismes de formation des tannes
+d'origine naturelle. La deuxième partie décrit les paysages du Bénin en rapport avec l'extrac-
+tion de sel. La dernière partie est une discussion de l'action anthropique possible sur des
+aires nues de plusieurs pays d'Afrique de l'Ouest. Enfin la conclusion cherche à situer
+ces aires dans l'écologie littorale de l'Afrique occidentale, en rapport avec les variations
+récentes du niveau marin, les divers climats et l'emprise humaine (surtout passée) sur le
+milieu.
+
+                                           I. R A P P E L D U CAS G É N É R A L :
+                               LES ZONES NUES D'ORIGINE NATURELLE
+
+                                             A. -- AILLEURS QU'EN AFRIQUE OCCIDENTALE
+
+        De nombreux chercheurs ont décrit des zones nues en arrière des mangroves de plu-
+sieurs pays du monde à climat sec. Elles correspondent aux zones 3 (inondée aux grandes
+marées d'équinoxe) et 4 (zone des sols salés) de KIENER (1978).
+
+       En Afrique de l'Est, WALTER & STEINER (1936) ont noté que l'évaporation concen-
+trait les sels en saison sèche et que les pluies lessivaient le sol à d'autres périodes de l'année :
+ni les halophytes, ni les glycophytes ne peuvent supporter de telles conditions.
+
+       FOSBERG (1961) a observé des zones nues au Queensland (8 mois secs), en Equateur
+(8 mois secs), au Salvador (6 mois secs) et au Honduras (5 mois secs). Toutes ces contrées
+ont un climat sec (moins de 1 0 0 0 mm) ou saisonnièrement sec (plusieurs mois sans pluie)
+et subissent une grande amplitude de marée (plus de 2,2 m en moyenne). La végétation
+de l'arrière-pays est décidue et sclérophylle (forêt claire ou savane).
+
+       Pour l'ouest de l'Australie, T H O M et al. ( 1 9 7 5 ) décrivent aussi, en climat sec et en très
+forte amplitude de marée, des zones nues (bare flats) très étendues.
+
+       En prenant la Nouvelle-Calédonie comme exemple de climat tropical à nuance subaride
+(1 m de pluie), BALTZER & LAFOND ( 1 9 7 1 ) , insistent sur l'importance déterminante de la
+saison sèche, en régime de faible amplitude de marée ( 1 , 7 m en moyenne). La zonation
+végétale, en rapport avec la topographie, reflète l'évaporation de la nappe phréatique.
+Depuis le lagon j u s q u ' à la savane non halophile, on trouve : une ceinture à Rhizophora
+mucronata, une à Avicennia ofpcinalis, une à Salicornia australis, une zone à voile algaire
+
+et une zone nue (BALTZER, 1 9 6 9 ) .
+
+       A Madagascar, SALOMON (1978) indique qu'il a pu rouler en Land Rover sur des kilo-
+mètres de vases nues, couvertes d'une fine pellicule de sels remontés par capillarité.
+
+       CHAPMAN ( 1 9 7 6 : 1 1 ) a aussi noté que dans les zones rarement inondées, l'éléva-
+tion de la concentration en sels rend impossible la vie des palétuviers et autres halo-
+phytes.
+                                                        B. -- E N AFRIQUE OCCIDENTALE
+
+       Grâce au climat à longue saison sèche (cf. tabl. I) et malgré la faible amplitude des
+marées, c'est au Sénégal et en Gambie qu'abondent les zones nues d'origine naturelle.
+
+        I. Sénégal
+       GRUVEL ( 1 9 0 8 : 2 2 6 ) a signalé les « thanns » ou salines naturelles du Siné-Saloum et
+M A U N Y ( 1 9 6 1 : 3 2 4 ; fig. 6 6 ) a insisté sur le recueil des sels dans celles-ci depuis le Cap Tini-
+ris jusqu'à la Guinée-Bissau.
+
+Région du Siné-Saloum et du Bao Bolon
+
+A D A M ( 1 9 5 8 : 5 1 6 ; fig. 2 et 3 ; pl. II) a étudié pour le Siné-Saloum la végétation entou-
+
+rant les tannes : ceintures à Sesuçium portulacaslrum, Philoxerus vermicularis,  Sporobolus
+virginicus, Paspalum vaginatum avec diverses Cypéracées.
+
+         Dans le Bao Bolon, BONFILS & FAURE ( 1 9 6 1 ) ont indiqué la présence de zones dénu-
+
+dées. « Sur des points légèrement surélevés (anciens bourrelets) se sont établis quelques
+Mitragyna inermis, souvent entourés d'une prairie basse de Philoxerus vermicularis. La
+
+partie la plus élevée de ces points hauts est souvent desséchée ; sa surface craquelée ne
+porte alors aucune végétation : on aboutit au « tan » stérile » (p. 128). Les auteurs indiquent
+
+qu'en hivernage les eaux saumâtres de la Gambie remontent le Bolon et s'évaporent durant
+la saison sèche dans « une suite de cuvettes ».
+
+       Dans le delta du Saloum, SALL & DIOP ( 1 9 7 5 ) décrivent les tannes comme « des vasières
+inactuelles pouvant présenter en surface des efïlorescences salines » ; en fonction de la topo-
+
+graphie et du lessivage des sels, ils distinguent un tanne nu, un tanne herbu et un tanne
+herbacé. En divers points la mangrove progresse sur les tannes (îles du Gandoul par exem-
+ple) ; ailleurs, il y a recul « de certaines vasières consécutif à un défrichement de la man-
+
+grove et au dessèchement progressif du climat ». Des accumulations éoliennes de sable fin
+et de limon « constituent de pseudo-lunettes qui soulignent les bords de certains tannes
+
+et empiètent sur les marges de la mangrove ».
+
+       Casamance 1
+
+         Les sols de mangrove ont été remarquablement étudiés par VIEILLEFON ( 1 9 6 9 , 1 9 7 7 ) .
+
+Cet auteur décrit les tannes de Casamance comme des étendues sans végétation « situées
+à l'arrière des mangroves, qui ne sont plus atteintes par la submersion quotidienne, sauf
+aux grandes marées, mais subissent une alternance annuelle d'inondation et d'assèchement,
+que favorise le climat tropical alterné, saison sèche et saison des pluies étant nettement
+tranchées » (1969 : 117). VIEILLEFON pense que c'est l'alternance seulement annuelle qui
+est le principal responsable de la formation des tannes, à cause d'une déshydratation et
+d'un tassement irréversible, avec concentration des sels en surface. « Les Avicennia ne
+peuvent résister à ces conditions et leur disparition accentue encore l'évaporation » (p. 123).
+
+       1. Après la rédaction de cet article nous avons eu connaissance de l'étude de MARIUS, C. (1976), Effets
+de la sécheresse sur l'évolution des sols de mangrove. Casamance, Gambie. ORSTOM, Dakar, 79 p., 22 fig.
+                                                                  -- 230 --
+
+La nappe phréatique s'abaisse fortement dans les tannes. A cause de la disparition de la
+végétation, il y a diminution de la matière organique et cela concourt au tassement et
+à la déshydratation. « Au cours de la saison des pluies, la submersion des tannes est quasi
+totale et permanente. En saison sèche, sécheresse et sursalure donnent à la surface du sol
+une structure poudreuse qui est favorable à la déflation éolienne et à la formation de lunet-
+tes » (p. 125).
+
+       L'auteur distingue sept zones de végétation, dont la cinquième et la sixième ressemblent
+à ce qui s'observe au Bénin près de Gbéhoué :
+
+       -- 5 e . Frange souvent interrompue d'Avicennia a v e c une strate herbacée à Sporo-
+bolus robustus et Sesuvium portulacastrum.
+
+       -- 6 e . Zone dénudée, à surface boueuse ou poudreuse suivant les saisons, avec de
+rares Philoxerus vermicularis.
+
+       -- 7 e . Z o n e herbeuse à Eleocharis spp. (tanne herbacé).
+
+       La végétation de la lunette « présente un aspect particulier. Les parties basses sont
+couvertes de Paspalum vaginatum et les parties hautes portent une végétation inhabi-
+tuelle au milieu de la m a n g r o v e , puisque constituée de Phoenix reclinata, de Spondias mom-
+bin, de Stereospermum kuntianum, parfois m ê m e d'Adansonia avec au-dessous un igname
+sauvage ».
+
+       2. Gambie
+
+        De même, la Gambie, dont le climat est voisin de celui de la Basse Casamance (AUBRÉ-
+VILLE, 1950), présente des aires dénudées décrites par GIGLIOLI & THORNTON (1965). « The
+mud flats are slightly more elevate (6-12 in.) than the surrounding mangrove areas, and
+are usually entirely without vegetation, because they are continuously dessicated during
+the long dry season, and their soils contain high concentrations of soluble salts » (p. 85).
+« Where the mud flats are low enough to receive periodic flooding during the dry season
+from the high spring tides, t h e y often, but not always, support perennial lawns of Sesuvium
+portulacastrum and more rarely, at the end of the rains, seasonal lawns of Heleocharis spp.
+sedges, and beds of Paspalum vaginatum are restricted to narrow strips along the land-
+ward edge of the swamps » (p. 86). « From February to May, a salty crust, hard enough
+to support a motor car, is formed above the water-table, which falls during this period
+to 2-4 ft below the surface » (p. 86). Avant le commencement des pluies il y a hydratation
+de la croûte, remontée de la nappe par baisse de l'évaporation ; la marée inonde les zones
+nues et cette inondation sera permanente à la fin des pluies. Durant la saison sèche le vent
+N - E crée de petites dunes. « If undisturbed these dunes grow slowly over the years to form
+small islands or tans. Growth and emergence of a tan above the surrounding saline swamp
+is associated with a plant succession starting with Sesuvium. This is late replaced b y Paspa-
+lum, and eventually the l o w tree Mitragyna inermis b e c o m e s established. In the final
+phase of its evolution a tan is an island, relatively free of salt in its upper layer, owing to
+repeated leaching by rain » (p. 86).
+
+        On peut remarquer que les auteurs emploient le terme « tan » à la place du terme
+« lunette » de VIEILLEFON. On verra qu'au Bénin se trouvent aussi des Mitragyna inermis,
+mais là notre interprétation est différente.
+                                                                   -- 231 --
+
+                                       C. -- REMARQUE SUR LA GENÈSE DES ZONES NUES
+
+       Puisque les zones nues du monde entier ont été enforestées auparavant (ce sont des
+« aires dénudées »), leur genèse doit faire intervenir, à côté du climat, la régression récente
+postérieure à un niveau marin plus haut. Ce haut niveau peut être Nouakchottien ( = Flan-
+drien) pour le Sénégal (Casamance exceptée) ou plus récent pour la Gambie et la Casamance
+
+(cf. F A U R E et al., 1 9 7 4 ; F A U R E , 1 9 7 5 ; T R I C A R T , 1 9 7 8 ) . P E R T H U I S O T ( 1 9 7 5 ) a insisté sur
+
+cette régression récente pour expliquer, avec d'autres facteurs, la genèse des sebkhas para-
+liques des plaines supratidales.
+
+       Mais en climat plus humide, un phénomène anthropique peut être à l'origine des zones
+nues, c o m m e au Bénin.
+
+CRÉATION                   II. CAS DU BÉNIN :  (TANNES)
+          ANTHROPIQUE DE ZONES DÉNUDÉES
+
+                    PAR EXTRACTION DE SEL
+
+A. -- SCHÉMA PROPOSÉ POUR LA MISE EN PLACE DE LA VÉGÉTATION CÔTIÈRE DU B É N I N
+
+       Le Bas-Bénin, qui subit un régime de faible amplitude de marée et un climat subéqua-
+torial sec avec un gradient décroissant de pluviométrie d'est en ouest (1 350 m m à Cotonou,
+1 180 mm à Ouidah, 920 m m à Grand Popo), présente une grande variété de formations
+végétales schématisées sur la figure 1 A . Celle-ci a été établie d'après des études antérieures
+
+(GUINKO, 1974 ; PARADIS, 1975 a et b ; 1976 a et b ; PARADIS & ADJANOHOUN, 1974 ; PARA-
+
+DIS et al., 1978). L'étude g é o m o r p h o l o g i q u e (GUILCHER, 1959 ; T A S T E T , 1975 et 1979), les
+datations au C 14 de tourbes, charbons et coquillages de l'Holocène récent (GERMAIN,
+1975 ; PARADIS, 1977, 1978), la répartition et le dynamisme actuels des formations végé-
+tales permettent de présenter le schéma suivant de mise en place de la végétation côtière.
+
+       1. Ouverture sur la mer, permettant le d é v e l o p p e m e n t des mangroves dans toutes
+les basses vallées (tourbes de 5430 B P au sud de Porto N o v o et de 5700 B P au nord du lac
+Ahémé 1 ) .
+
+       2. Régularisation de la ligne de côte avec la formation d'un cordon littoral à rides
+incurvées visible aujourd'hui d'Ekpé à Djeffa et du cordon de sable jaune (charbon de
+2670 B P à Cocotomey, coquillages de Djeffa de 3900 B P x ) . Les lagunes c o m m e n c e n t à se
+remplir de sédiments (coquillages de Djègbamé de 2900 BP, de Bembé de 2670 BP). Pen-
+dant cette période, les mangroves ont dû se contracter sur les bords des lagunes en arrière
+des cordons.
+
+       3. Allongement du cours des fleuves littoraux : ils apportent des sédiments silteux
+jusqu'à proximité de la mer au-dessus des dépôts correspondant aux deux phases précé-
+
+        1. Pour les datations, cf. nos études de 1975a, 19766, 1977 et 1978.
+                                             FIG. 1. -- A : Carte phytogéographique schématique du Bas-Bénin.
+1, formations non hydromorphes (palmeraies à Elaeis, forêts denses semi-décidues, jachères à divers stades) ; 2, idem mais avec
+
+       Adansonia digitata abondants ; 3, savanes apparemment incluses dans l'ancienne extension de la forêt dense semi-déci-
+       due ; 4, forêts claires et savanes à Lophira lanceolata ; 5, prairie basse à Cynodon dactylon (du bourrelet de berge de l'Ouémé) ;
+       6, forêt ombrophile riveraine (vallée de l'Ouémé) ; 7, savanes à Mitragyna inermis et Andropogon gayanus ; 8, prairie
+      moyenne à Echinochloa pyramidalis (vallée de l'Ouémé) ; 9, formations périodiquement inondées sur sable littoral (forêt
+       à Symphonia globulifera, prairie à Fuirena umbellata) ; 10, forêt marécageuse d'eau douce (à Ficus congensis et autres
+       espèces) et formations dégradées (à Typha, à Cyrtosperma, à Cyclosorus striatus...) ; 11, mangrove ; 12, prairie basse à Pas-
+      palum vaginatum ; 13, végétation sur sable de bord de mer (pelouse littorale, fourré littoral, cocoteraies...) ; 14, entrées d'eau
+       salée (les flèches indiquent la pénétration d'eau salée dans le lac Ahémé et la lagune de Porto Novo).
+
+              B : Localisation des figures 2, 4, 5 et 6 (1, d'après les cartes topographiques au 1/50 0 0 0 e ; 2, d'après les photos aériennes
+        au 1/20 000e).
+                                                                   -- 233 --
+
+dentés. Leur estuaire devait se trouver près de l'emplacement de Lagos au Nigeria, car
+de Cotonou à cette ville existe un large cordon à rides parallèles (PARADIS, 1977), formé
+de 560 av. J.-C. à 500 ap. J.-C. environ. Dans les basses plaines d'inondation de ces fleuves
+ont dû prospérer les Mitragyna inermis 1 et les espèces riveraines fluviátiles, d o n t les sta-
+tions actuelles disjointes (fig. 1 A) sont les témoins d'une vraisemblable continuité passée.
+Sur le sable jaune se sont étendus les Lophira lanceolata et sur les parties hautes des îlots
+sableux de la vallée du Kouffo au nord du lac A h é m é devait s'étendre la flore des savanes.
+
+       4. Ouverture (par des rejeux néotectoniques ?) des plans d'eau des lacs Ahémé et
+N o k o u é et modifications des tracés côtiers de certains fleuves : une pénétration d'eau
+salée a sans doute envahi le cours de ces fleuves (petite transgression) et favorisé le déve-
+loppement des coquillages de Kpodji (970 BP), de Djassin (640 BP), puis l'extension des
+palétuviers et des Acrostichum aureum dans toutes les dépressions du Bas-Bénin. Ainsi
+les palétuviers ont pu remonter en forêt-galerie dans les affluents du Mono, de la Sazué
+et jusqu'au nord du lac A h é m é (le long du bas Kouffo). Ils ont dû aussi occuper toute la
+dépression au nord du cordon littoral de Grand Popo à Cotonou. L'âge de la base de la
+tourbe de Togbin (870 BP) peut donner un ordre de grandeur de cette petite transgression
+(à corréler avec la deuxième partie du sub-Atlantique d'Europe).
+
+       5. Ultérieurement, une petite régression a permis l'extension des forêts marécageuses
+à Ficus congensis dans le cours abandonné des fleuves, de C o t o n o u au Nigeria, dans le lac
+Nokoué et la lagune de Porto N o v o . Sans doute la plus forte pluviométrie (1 300 à 1 400 mm)
+du Bas-Bénin oriental a favorisé cette extension par un dessalement rapide. Dans les méan-
+dres abandonnés s'installent des Typha australis. Les m a n g r o v e s ne progressent plus et
+tendent à se contracter sur leurs limites.
+
+       La répartition des formations végétales est, nous semble-t-il, interprétable en fonc-
+tion des divers épisodes micro-transgressifs et micro-régressifs et leurs conséquences (avancée
+d'eau salée ou sédimentation par les fleuves très au sud). Certes, chaque espèce dépend
+pour sa progression de ses propres moyens de dispersion. Mais ce sont les tendances évo-
+lutives du milieu, dépendant des modifications géomorphologiques de l'Holocène récent,
+qui sont le facteur principal, conditionnant avec le climat les caractères hydrologiques
+des divers habitats.
+
+       Dans ce cadre (climat relativement sec, faible amplitude de marée^ époque de régres-
+sion), l'homme intervient.
+
+                             B. -- L'ACTION HUMAINE : L'EXTRACTION DE TERRE SALÉE
+                                                ET L'OBTENTION DU SEL PAR ÉBULLITION
+
+       Rappelons que cette pratique consiste à enlever la végétation et le sol sous-jacent
+avec sa matière organique, puis à extraire en saison sèche la surface de la terre salée située
+au-dessous du sol. La terre est lessivée dans des paniers puis le filtrat est porté à ébulli-
+tion (GRIVOT, 1944 ; PALES, 1950). Actuellement, de nombreux villages font du sel de cette
+façon, soit sur les lieux d'extraction de la terre (sud de Ouidah), soit après avoir emporté
+
+       1. Pour la nomenclature des végétaux, nous suivons HUTCHINSON et al., Flora of West Tropical África,
+2 E éd., sauf pour Avicennia, ici nommé Avicennia germinans L.
+                                                                   -- 234 --
+
+la terre au village (de G b é h o u é à Grand P o p o ) (cf. cartes in PARADIS & ADJANOHOUN,
+1974 ; BIVALLAIN, 1980). Dans notre note de 1974 nous avons montré que les différentes
+opérations d'extraction avaient :
+
+        -- causé la destruction de nombreux palétuviers (pour l'ébullition du fdtrat et la
+construction des paniers de lessivage) ;
+
+        -- facilité leur remplacement par des espèces herbacées halophiles et héliophiles à
+rapide propagation végétative (Sesuvium portulacastrum, Philoxerus vermicularis, Paspa-
+lum vaginatum et, dans une moindre mesure, Acrostichum aureum) ;
+
+        -- modifié la géomorphologie d'une part en enlevant l'humus et en créant des plages
+dénudées 1 , qu'on peut appeler « tannes », occupées par des mares en saison des pluies,
+car le piétinement, dû aux travaux de raclage de la surface, tasse le sol ; d'autre part en
+élevant des buttes par les rejets de la terre des paniers après son lessivage.
+
+        L'ancienneté de l'extraction de sel est prouvée au Bénin par des textes du x v n e et
+x v m e siècle (DAPPER, 1686, et surtout SNELGRAVE, 1734, qui insiste sur l'importance de
+cette fabrication).
+
+                     C. -- PAYSAGES DU B É N I N EN RAPPORT AVEC L'EXTRACTION DE SEL
+
+        Nous présentons dans cet article trois régions du Bénin, localisées sur la figure 1 B .
+Elles diffèrent par leur pluviométrie annuelle (tabl. I) et la durée de la saison sèche. Mais,
+dans chacune d'elles, c'est l'extraction de terre salée qui est responsable de la création de
+zones nues et de la secondarisation du milieu.
+
+        1. Sud de Ouidah (Bénin) : 1 187 m m de pluie et 4 mois consécutifs avec moins de
+50 m m .
+
+        La figure 2 est la carte de la végétation établie d'après des photos aériennes. On y
+remarque la grande extension de la prairie à Paspalum vaginatum de part et d'autre de
+la lagune qui n'est, elle-même, bordée que par quelques Rhizophora racemosa. L a présence
+de pieds à'Avicennia germinans dans la prairie à P. vaginatum (pl. I, 1) p r o u v e que celle-ci
+n'est pas un climax édaphique mais une formation de substitution, s'installant après la
+destruction anthropique des palétuviers 2 .
+
+        De nombreuses aires d'extraction de terre salée existent dans cette prairie à proxi-
+mité de la lagune. C'est l'enlèvement de la végétation et les divers travaux qui créent les
+parties dénudées (pl. I, 2, 3). Lorsqu'on abandonne en un endroit l'extraction de sel pen-
+dant plusieurs années, le sol nu est colonisé par la végétation herbacée. P. vaginatum l'enva-
+hit ainsi q u e quelques autres espèces quantitativement négligeables : Cyperus articulatus,
+
+       1 . La présence de zones dénudées aussi bas en latitude que le Bénin ne justifie pas la supposition de
+GIGLIOLI & THORNTON ( 1 9 6 5 : 8 4 ) qui pensent qu'au sud de la Guinée-Bissau et de l'isarithme 1 5 0 0 mm,
+les aires dénudées sont remplacées par des prairies à P. vaginatum.
+
+        2. Comme THOM ( 1 9 6 7 : 3 3 3 ) l'a bien noté : « The self-maintenance of mangrove species in their preferred
+habitats continues until there is a critical change in habitat characteristics to induce vegetational change ».
+Ici dans la prairie à P. vaginatum, les Avicennia ne montrent aucun signe de décrépitude, ce qui prouve
+bien qu'il n'y a aucune cause naturelle à leur disparition.
+        FIG. 2. -- Carte de la végétation au sud de Ouidah, Bénin
+    (calque des photos aériennes n o s 6 7 - 6 8 de la Mission A O F 0 0 3 - 2 0 0 ) .
+
+    1. Ithizophora racemosa; 2 , Avicennia germinans ; 3 , Acrostichum aureum (fourrés) ; 4 , Phoenix reclinata (fourrés et
+
+co  bosquets) ; 5 , prairie à Paspalum vaginatum ; 6 , prairie à Fuirena umbellata sur terrain sablo-argileux ; 7 , prai
+
+    rie inondable sur argile ; 8 , formation basse sur sable non (ou peu) hydromorphe (à Clenium newtoni, Cyperus mar-
+
+    garitaceus...) ; 9 , bosquets et fourrés à Elaeis ; 1 0 , cocoteraies.
+                                                                   -- 236 --
+Hyptis lanceolata, Fimbristylis ferruginea, Bacopa crenata, Pycreus polystachyos, Pentodon
+pentandrus, Torenia thouarsii. D'autres v é g é t a u x constituant des fourrés peuvent s'ins-
+taller parmi les P. vaginatum : Acrostichum aureum, Phoenix reclinata, Drepanocarpus
+lunatus, Dalbergia ecastaphyllum. Et si l'eau à certains m o m e n t s de l'année apporte leurs
+fruits, des Avicennia pourront s'y réimplanter. En 1977, nous avons relevé dans des zones
+d'extraction de terre salée, à l'est du pont, quelques touffes de Sesuvium portulacastrum.
+et de Philoxerus vermicularis. Il sera intéressant de suivre à l'avenir l'évolution de la concur-
+rence entre ces deux espèces et P. vaginatum.
+
+        Du côté nord (vers Z o u n g b o d j i ) , la prairie à P. vaginatum passe à une prairie sur sol
+non salé à Fuirena umbellata, Rhynchospora holoschoenoides, C. articulatus, Eleocharis dulcis,
+E. mutata, Pycreus mundtii, P. polystachyos, Axonopus flexuosus, Panicum repens, Paspa-
+lum conjugatum, Alternanthera sessilis, Aniseia martinicensis, Cyrtosperma senegalense...
+Il est vraisemblable que le dessalement naturel est le responsable de ce milieu et de sa
+végétation (et on doit remarquer qu'il n'y a pas de zones dénudées).
+
+      FIG. 3. -- Teneurs en NaCl (en grammes pour mille) de quelques sols au sud de Ouidah, Bénin.
+                             (Analyses effectuées par M m e FAKAMBI, Université de Cotonou.)
+
+1, sous Eleocharis spp., du côté ouest de la piste (mare asséchée en saison sèche : eau à 40 cm lors du pré-
+      lèvement des échantillons) ; 2, sous un mélange Paspalum vaginatum et Eleocharis spp., à proximité
+      de 1 ; 3, sous P. vaginatum, à 10 m de 2 ; 4, sous P. vaginatum, près des exploitations de sel du côté
+      est de la piste ; 5, sous Philoxerus vermicularis (et près d'un pied à'Avicennia), dans une zone où du
+      sel a été extrait ; 6, sous Sesuvium portulacastrum, près de 5.
+                                                                    -- 237 --
+
+       Dans la prairie à P. vaginatum se t r o u v e n t des mares de 5 à 2 0 mètres de diamètre
+à Eleocharis dulcis et E. mutata a v e c Nymphaea maculata. E n saison sèche, ces dépressions
+sont asséchées et les Eleocharis forment un « matelas » de 8 0 c m à 1 , 1 0 m de haut aux chaumes
+secs très densément serrés. Nous n'avons pu élucider l'origine de ces dépressions. S'agit-il
+d'anciennes mares formées sur des zones d'extraction abandonnées depuis très longtemps ?
+
+        La figure 3 indique les teneurs en NaCl du sol en fin de saison sèche sous les dépressions
+à Eleocharis, la prairie à P. vaginatum et dans les zones dénudées en voie de recolonisation
+par S. portulacastrum et P. vermicularis. On v o i t que les zones à Eleocharis sont faiblement
+salées.
+
+        Les monticules dus aux rejets de la terre des paniers après son lessivage sont occupés
+par Eragrostis namaquensis, Mariscus ligularis, Vetiveria nigritana et Scoparia dulcis.
+Il semble probable q u ' a v e c le temps des Phoenix reclinata et divers arbustes s'y installent.
+
+        2. Togbin (Bénin) : 1 3 0 0 m m de pluie et 3 mois consécutifs avec moins de 5 0 m m .
+
+       C'est dans les environs de Togbin, situé à l'extrémité orientale de la mangrove du Bénin
+(fig. 4 ) , que paraît avoir été situé Jacquin, où d'après SNELGRAVE (1734), de grandes quan-
+tités de sel étaient produites au début du x v m e siècle. Et déjà au x v n e siècle DAPPER
+(1686 : 3 0 , 3 0 4 , 3 0 6 ) avait noté l'importance de cette extraction.
+
+        Depuis 1 9 7 6 , avec l'incitation à la production par le gouvernement béninois, l'extrac-
+tion de sel a fortement repris (pl. II). Il est quasi certain que les palétuviers, pourtant
+déjà réduits en nombre et en biomasse, vont subir de très lourdes pertes et seront remplacés
+par des fourrés à Drepanocarpus lunatus, à Dalbergia ecastaphyllum ( P A R A D I S , 1 9 7 9 ) , des
+zones dénudées et la prairie à P. vaginatum.
+
+        Jusqu'à présent on n'a pas t r o u v é ici 5. portulacastrum ; mais avec le relais du sud
+de Ouidah, on doit s'attendre à ce que cette espèce hydrochore et thalassochore augmente
+son aire de répartition à l'ensemble des zones d'extraction de sel du pourtour de la lagune
+côtière.
+
+        3 . Région comprise entre la lagune, l'Aho et le sable de Gbéhoué Péda (Bénin) : 9 2 7 m m
+de pluie et 4 mois consécutifs avec moins de 5 0 m m .
+
+        Cette région, la plus sèche du Bas-Bénin (tabl. I), est caractérisée (fig. 5 et 6 ; pl. III
+et IV) par :
+
+        -- la faible étendue des palétuviers ;
+        -- la grande extension des pelouses à 5. portulacastrum et P. vermicularis ainsi que
+celles des zones nues d'extraction de sel, certaines occupées par des mares en saison des
+pluies ;
+        -- les vastes étendues de la prairie à P. vaginatum, n o m m é e « schorre » par GUILCIIER
+
+(1959).
+
+        Entre Gbéhoué Péda, Azévi-Kondji et l'Aho, de nombreuses zones nues montrent
+bien la recolonisation par les herbacées (pl. III, 9 ; pl. I V ) . En plus des témoignages oraux
+de l'origine secondaire des zones dénudées, on v o i t en quelques points des pieds cYAvicen-
+nia (petits mais âgés pour la plupart) au milieu des P. vaginatum (pl. III, 7 ) ou des S. por-
+                                      FIG. 4. -- Carte schématique de la végétation aux environs de Togbin, Bénin.
+
+1, végétation dégradée et culturale sur terre de barre ; 2, idem sur sable jaune ; 3, îlots de forêt dense semi-décidue ; 4, palmeraie
+       naturelle à Elaeis ; 5, végétation dégradée et culturale sur le sable littoral ; 6 , lambeaux de fourré littoral ; 7, palétuviers ;
+       8, fourré à Dalbergia ecastaphyllum et Drepanocarpus lunatus ; 9, forêts marécageuses d'eau douce ; 10, savane herbeuse sur
+       sable peu hydromorphe (kCtenium newtoni, Schizachyrium sanguineum) ; 11, fourré hydromorphe à Dissotis segregata ; 12, prai-
+       rie à Fuirena umbellata et Eleocharis spp. ; 13, prairie à Paspalum vaginatum ; 14, prairie périodiquement inondée à Veti-
+       veria nigritana ; 15, prairie à Typha australis ; 16, formation mixte à Typha et forbes (Cyclosorus striatus, Cyrtosperma...) ;
+       17, cocoteraies ; 18, villages.
+                                                                   -- 239 --
+
+                           FIG. 5. -- Extension réduite des palétuviers dans l'ouest du Bas-Bénin
+                                   (la flèche indique l'embouchure, fermée une partie de l'année).
+
+tulacastrum (pl. I I I , 9 ; pl. I V , 1 2 ) . C'est près de l'eau des c h e n a u x o u des c a n a u x creusés
+que subsistent le plus à'Avicennia, ce qui est normal car obéissant au fait général que
+plus un milieu est humide plus lentement l'homme en modifie la végétation (cas des forêts
+des talwegs de montagnes, cas de certaines forêts-galeries des pays de savane).
+
+       Des buttes sableuses parsèment les zones basses. Les plus étendues sont des restes
+de cordons littoraux démantelés (GUILCHER, 1959) et les plus petites sont les rejets de
+terre lessivée après usage. Leur végétation est variée : Borassus aethiopum, Phoenix recli-
+nata, Fagara zanthoxyloides, Newbouldia laevis, Uvaria chamae, Byrsocarpus coccineus,
+Lantana camara, Hibiscus tiliaceus, Triumfetta rhomboidea, Grewia mollis, Sansevieria
+liberica, Portulaca oleracea, Talinum Iriangulare, Sporobolus pyramidalis, Mariscus alter-
+nifolius, Asystasia gangetica, Commelina erecta, Scoparia dulcis, Imperata cylindrica, Vetive-
+ria nigritana. Sur quelques grands îlots sableux poussent aussi des Adansonia digitata.
+
+       A u sud-ouest de G b é h o u é , les P. vaginatum passent à des savanes à Mitragyna iner-
+mis, bien représentées à proximité des cours d'eau Sazué et M o n o (fig. 1, A ) . Nulle part
+nous n'avons observé une progression de ces savanes sur les P. vaginatum. Les d e u x for-
+                                                                    -- 240 --
+
+             B i I 12 E H I 3 ! ,4 r ^ l 5 [ H D 6 R^l7 E±3B UTTÌ9 E ^ i o vu
+
+                                       FIG. 6. -- Carte de la végétation à proximité de l'Aho
+                          (calque de la photo aérienne n° 59 de la Mission AOF 003-200, 54-55).
+1, eau libre de l'Aho et de ses émissaires en fin de saison sèche (basses eaux) ; 2, zones vaseuses inondées
+       saisonnièrement en bordure de l'Aho ; 3, zones nues d'extraction de sel ; 4, prairie basse halophile (à
+       Paspalum vaginatum surtout) ; 5, Rhizophora racemosa ; 6, Avicennia germinans ; 7, prairie à Fuirena
+       umbellata, Eleocharis spp. et Cyperus articulatus ; 8, formation mixte à Cyperus papyrus, Cyclosorus
+       striatus... ; 9, palmeraie naturelle à Elaeis (ou) et Phoenix reclinata et savane herbeuse (à Ctenium
+       newtoni) sur sable non inondable ; 10, fourré marécageux dégradé (à Raphia sp., Alchornea cordijolia,
+       Ficus congensis...) ; 11, villages.
+                                                                   -- 241 --
+
+mations sont sur des sols chimiquement différents et celle à M. inermis est à un niveau
+un peu plus haut.
+
+       Des mesures de la teneur en NaCl en fin de saison sèche au sud de G b é h o u é o n t
+donné 1 :
+
+       -- sous P. vaginatum, près de l'eau entre 0 et 10 c m : 24,8 % , et entre 10 et 20 c m :
+14,5 % ;
+
+       -- sous S. portulacastrum, entre 0 et 3 c m : 60,5 % ;
+       -- dans une aire dénudée : 24,5 % ;
+       -- sous S. portulacastrum, entre 0 et 5 c m : 33,7 % , et entre 5 et 15 c m dans de l'argile :
+21 % .
+
+       Plus au sud, entre les villages de Lanhou et d'Avloh, les anciennes aires d'extraction
+de sel portent au milieu des pelouses à S. portulacastrum et P. vermicularis des pieds d'Avi-
+cennia rabougris (car abîmés par des coupes fréquentes) et des plants relativement jeunes
+de Laguncularia racemosa, d o n t les fruits ont flotté jusque dans les parties déboisées de
+la mangrove (PARADIS, 1979).
+
+       Il semble bien que toutes les parties basses, actuellement soit dénudées soit couvertes
+de P. vaginatum ou de S. portulacastrum et P. vermicularis, vu le caractère salé de leur
+sol, étaient jadis occupées par des palétuviers. C'était sans doute ici, à cause de la proxi-
+mité de l'embouchure, qu'avant sa destruction par l'homme, la mangrove devait être la
+plus étendue de tout le Bénin. La localisation actuelle des palétuviers au bord de l'eau
+(fig. 5) résulte de la secondarisation au cours des siècles, la région étant peuplée depuis
+longtemps. Les pelouses à 5. portulacastrum et P. vermicularis et les prairies à P. vagi-
+natum sont l'équivalent sur milieu salé temporairement inondé des savanes herbeuses
+de l'est du Bénin, substituées à la forêt saisonnièrement inondée par l'eau douce, à Sym-
+phonia globulifera (PARADIS, 1975a : 298).
+
+       Là, dans cette partie la plus sèche du Bas-Bénin (moins de 950 m m ) , la destruction
+de la m a n g r o v e sur les points les plus hauts a dû être facile et rapide. En effet, si une forêt
+d'Avicennia est auto-renouvelable (comme cela se voit à Sehou Gbato, au nord du lac
+Ahémé), des coupes répétées y créent des vides durables et diminuent les possibilités de
+fructification et de renouvellement, d'autant plus que le milieu s'assèche davantage en
+saison sèche, la tendance hydrologique générale étant à la régression (cf. supra). A cause
+de la sécheresse qui élève la salure des sols, les tannes sont plus étendus qu'au sud de Oui-
+dah et qu'aux environs de Togbin. Mais leur recolonisation par des plantes herbacées ou
+par un palétuvier c o m m e Laguncularia montre bien que ces zones nues ne sont pas inaptes
+à porter une végétation. L ' é v o l u t i o n de ces zones nues n'est pas irréversible : si la pratique
+d'extraction de sel cessait, les tannes disparaîtraient progressivement. On ne peut abso-
+lument pas les considérer comme de création « naturelle » : c'est ici l'homme qui est à leur
+origine et les entretient.
+
+        1. Analyses aimablement effectuées par M M E F . FAKAMBI (Université de Cotonou), que nous remer-
+cions vivement.
+D'UN               III. DISCUSSION SUR LA POSSIBILITÉ
+      ROLE DE L'EXTRACTION DU SEL DANS LA CRÉATION
+
+        ET L'AGRANDISSEMENT DES ZONES DÉNUDÉES
+             D'AUTRES PAYS D'AFRIQUE OCCIDENTALE
+
+        Nous voudrions montrer que pour des pays c o m m e le Ghana, la Sierra Leone, la Guinée
+et m ê m e la Casamance et la Gambie, il n'est pas exclu que certaines zones nues aient été
+créées ou du moins agrandies par l'homme pour une extraction de terre salée.
+
+        En effet, PALES (1950) a relevé dans la plupart de ces pays une extraction de sel par
+ebullition du même type que celle du Bénin. Ainsi il note (p. 14) : « Au nord du 1 4 e paral-
+lèle l'évaporation solaire suffît pour assurer la concentration de l'eau et la cristallisation
+du sel en saison sèche. A u sud du 1 4 e parallèle, celles-ci sont essentiellement obtenues par
+ebullition. Exigences climatiques ». De même M A U N Y (1961) a insisté sur le rôle du sel et
+distingue l'extraction par evaporation solaire (depuis Saint-Louis jusqu'au Saloum) de celle
+par lixiviation des terres salées. Dans ce dernier cas il peut y avoir soit décantation et eva-
+poration solaire (Casamance et Guinée-Bissau) « mais l'état hygrométrique de l'air, même
+en saison sèche, ne permet q u ' u n rendement faible », soit ebullition du filtrat « p r o c é d é
+employé à partir de la Casamance et sur toute la côte du golfe de Guinée » (p. 324).
+
+   A. -- POSSIBILITÉ D'AGRANDISSEMENT DES ZONES NUES PAR L'EXTRACTION DE SEL 1
+
+        1. Gambie
+
+        La présence humaine est actuellement importante dans la région de Gambie étudiée
+par GIGLIOLI & THORNTON (1965), qui notent : « The leached soils in the middle of the
+island supported rice crops in the rains. During the dry season shallow pits were dug by
+the villagers in the centre of the tan through the silt overburden to penetrate the clay
+stratum to a depth of about 2 ft. The clay collected from these pits was removed, carried
+to the village and used... to make pots » (p. 86). Dans une zone nue, du sel est obtenu par
+evaporation naturelle (p. 92). Ailleurs (p. 96), les auteurs remarquent le mélange des espèces
+de palétuviers, interprété généralement c o m m e signe de secondarisation de la mangrove
+
+(SCHNELL, 1971).
+
+        Ces faits peuvent suggérer qu'en Gambie les zones nues se sont étendues grâce à une
+extraction de terre salée plus ou moins ancienne.
+
+        2. Casamance
+
+        Le p r o c é d é de filtrage et evaporation par ebullition « est courant en Basse Casamance,
+partout où les terres des mares et marigots ont une teneur suffisante en sel. Ces terres dont
+la salinité est entretenue à la faveur des pluies et des marées... sont très répandues. Les
+
+        1. Dans une note brève, nous avons émis une opinion moins nuancée (cf. PARADIS, G., 1979, Ass.
+Sénégal. Ét. Quatern. Afr., Bull. Liaison, 56-57 : 61-65).
+                                                                   -- 243 --
+
+terres recueillies, souvent près des habitations, sont placées dans un fdtre en palme de
+rônier, lessivées, et le filtrat recueilli dans un récipient sous-jacent est ensuite porté à ébul-
+lition jusqu'à évaporation complète. Le sel cristallisé dépose. J'ai vu employer ce procédé
+en pays diola, à Kaniobon, près de Bignona. Le sel ainsi obtenu est utilisé dans la cuisine
+familiale mais sa production est assez importante pour permettre un certain c o m m e r c e .
+Il se vend jusqu'à Ziguinchor » (PALES, 1 9 5 0 : 1 4 ) .
+
+       D'autres descriptions phytogéographiques de la Basse Casamance font penser à de
+fortes perturbations anthropiques. Ainsi M I È G E et al. ( 1 9 7 6 : 4 6 3 ) écrivent : « Suivant
+leur emplacement, les vasières s'ensablent, se saturent en sel pour former les tannes »,
+« des formations mixtes p e u v e n t se rencontrer. C'est ainsi que les Rhizophora mangle p e u v e n t
+cohabiter avec Paspalum vaginatum... qui forme des plaques plus ou moins importantes
+qui s'infiltrent dans une m a n g r o v e clairsemée. La fougère A. aureum croît, par place, en
+touffes plus ou moins volumineuses... La ceinture à'Avicennia africana elle-même peut se
+trouver interrompue ou être associée avec des plantes herbacées telles que Sesuvium por-
+tulacastrum, Philoxerus vermicularis, etc. ».
+
+       Ces faits, joints à l'ancienne occupation humaine de la Casamance (VIEILLEFON, 1 9 7 0 ;
+LINARES DE SAPIR, 1971) nous font supposer qu'une partie des tannes a pu être agrandie,
+sinon créée, par l'action humaine pour l'extraction de terre salée.
+
+       REMARQUES : Pour la Gambie et la Casamance, deux problèmes géomorphologiques
+p e u v e n t être soulevés : celui des monticules (« lunettes » de VIEILLEFON OU « tans » de
+GIGLIOLI & THORNTON) et celui du tassement des zones nues. Comme l'indique TRICART
+( 1 9 7 8 ) dans son analyse de la thèse de VIEILLEFON ( 1 9 7 7 ) , « sur les tannes dénudés, la défla-
+tion éolienne excave des dépressions à fond plat, bordées d'un bourrelet du côté sous le
+vent. Le lessivage des sels pendant les pluies permet rapidement la fixation du bourrelet
+par une végétation non halophile. La cuvette cesse rapidement de s'approfondir car dès
+qu'elle est légèrement excavée, l'eau y stagne en saison des pluies ». Il ne nous semble pas
+que les auteurs ayant travaillé en Casamance et en Gambie aient observé directement
+le rôle du vent : les monticules sont en effet colonisés par une végétation souvent arborée,
+a v e c m ê m e des Adansonia digitata. Le rôle du vent nous paraît être plus une interpréta-
+tion qu'une observation. Nous pensons que ces monticules sont aussi bien interprétables
+comme des restes de cordons littoraux ou comme des rejets de terre lessivée. Quant au
+tassement imperméabilisant les cuvettes, n'est-il pas le signe de travaux d'extraction
+de terre salée c o m m e au Bénin ? Peut-être la réobservation des zones dénudées de Gambie
+et de Casamance, en tenant compte du facteur humain et de l'histoire passée de l'éco-
+système, montrerait-elle des points communs avec celles du Bénin.
+
+               B . -- POSSIBILITÉ DE CRÉATION DE ZONES NUES PAR EXTRACTION DE SEL
+
+       1. Guinée
+
+       Pour la Guinée, BALTZER & LAFOND ( 1 9 7 1 : 1 8 0 , fig. 4 ) indiquent « une auréole sur-
+salée, tan » et dans la légende : « les zones sursalées sont inutilisables et les mangroves sont
+exploitées pour le chauffage et la production de tanin ». A la page 1 8 2 ils écrivent : « vers
+l'intérieur, les Avicennia font place à une bande sursalée dépourvue de végétation et enfin
+
+                                                                                                                                                            3, 25
+                                                                   -- 244 --
+
+à une bande couverte de prairie à Heleocharis qui forme transition avec les terres non inon-
+dables. Les associations herbacées varient quelque peu de l'aval vers l'amont de la zone
+de m a n g r o v e et l'on peut distinguer successivement une zone à Sesuvium, une zone à Phi-
+loxerus et une zone à Paspalum, au moins lorsque le d é v e l o p p e m e n t de la région côtière
+n'a pas été entravé par des obstacles topographiques ni modifié par des actions humaines ».
+
+       Or l'extraction de sel du type de celle du Bénin est connue en Guinée. PALES (1950 :
+15) écrit : « Dans la région de Coyah... les sables salés sont lessivés jusqu'à saturation de
+l'eau de lavage. Cette eau recueillie dans les calebasses est ensuite évaporée par chauffage
+sur des feux de bois ». De même, ROLLET (1975 : 208) note : « D'après BALACHOWSKY, les
+Mandeni de basse-Guinée (80 km au sud-est de Conakry, à la frontière de la Sierra Leone)
+lessivent la terre de la mangrove pour extraire le sel... Cette activité est ancienne car il
+existe des tumulus de terre dessalée ». Il nous paraît ainsi probable que les auréoles sur-
+salées signalées par BALTZER & LAFOND ont été causées par ces anciennes extractions
+de sel.
+
+       On peut aussi ajouter qu'en Guinée, dans l'île du Kabak, JACQUES-FÉLIX & CHÉZEAU
+(1960) ont remarqué que sur les défrichements de palétuviers pour établir des rizières il
+y avait apparition progressive de Philoxerus vermicularis, Sesuvium portulacastrum et
+Paspalum vaginatum. Ces auteurs ont noté qu'après les défrichements la végétation était
+lente à s'installer « moins sans doute du fait de la salure que du manque d'ensemencement
+par les halophytes herbacées », ce qui permet de comprendre la colonisation des aires dénu-
+dées par ces trois espèces observée au Bénin.
+
+       Notons enfin que M A U N Y (1961) indique que F E R N A N D E S (trad. M O N O D et al., 1951)
+signala que les habitants du Rio Grande (en Guinée-Bissau actuelle) portaient leur sel
+à l'intérieur en pays mandingue pour l'échanger contre de l'or, des esclaves et du riz.
+
+       2. Sierra Leone
+
+       GLEDHILL (1963 : 699) a décrit des aires dénudées qui auraient suivi la concentration
+de pêcheries. S. portulacastrum recolonise ces aires. L'auteur estime que l'action humaine
+n'est pas la seule cause de dénudation. Comme il constate qu'en surface la boue a disparu,
+il pense à un lessivage naturel et à un transport de sable par le vent. Dans son tableau 1,
+les valeurs du contenu en humus sont basses dans les aires dénudées (1 % ) , sous les Avi-
+cennia (7,7 % ) et sous les Sesuvium (9,6 % ) comparées aux valeurs sous les Rhizophora
+(20,2 % ) . En plusieurs passages l'auteur insiste sur l'activité humaine dans la région :
+« the surface has been extensively, and often crudely, exploited with the resuit that it is
+now largely occupied b y coastal thicket and tree savanna » ( p . 694), « Laguncularia forms
+pure stands bordering apparently man-made drainage ditches » (p. 696), « the absence
+of large trees and the p a u c i t y of R. racemosa is due t o the sandy nature of the soil but also
+be due in parts to man's activity » (p. 702).
+
+       Ces descriptions et le fait que la Sierra Leone n'a pas un climat littoral plus sec que
+celui de Grand P o p o au Bénin (tabl. I) nous laissent penser que les zones nues recolonisées
+par Sesuvium sont d'anciennes aires d'extraction de terre salée. Cela expliquerait l'absence
+de boue en surface et les faibles teneurs en humus. Les deux photos de l'article de GLE-
+DHILL montrent un paysage semblable à ce qui se voit au Bénin. De plus, PALES (1950 :
+8) signale qu'on extrait du sel dans l'estuaire des Scarcies par lixiviation des terres salées
+                                                                   -- 245 --
+
+et ebullition. Et M A U N Y ( 1 9 6 1 ) indique que DUARTE PACHECO PEREIRA ( 1 5 0 6 - 1 5 0 8 ) a relevé
+
+une production de sel par les Boubooes sur la côte de Sierra Leone, ce sel étant échangé
+contre de l'or au Coya.
+
+c.  CAS DE L'EST DU GHANA
+
+       Au Ghana, à notre connaissance, il n'y a pas eu de zones nues de décrites, mais B o u -
+GHEY ( 1 9 5 7 : 6 8 0 ) a insisté sur l'abondance des halophytes herbacées : « Usually several
+channels and pools of open water persist in the closed lagoon throughout the year. Avi-
+cennia and its associates fringe this open water, as well as the lagoon margins. T h e dried-
+out belt of the lagoon between is usually c o v e r e d b y a dense sward of Sesuvium m i x e d t o
+a greater or lesser extend with Philoxerus ». Cela peut s'interpréter c o m m e correspondant
+à d'anciennes aires d'extraction de sel. Actuellement des marais salants existent, mais
+l'évaporation finale et le séchage du sel s'effectuent par ebullition (CROW, 1 9 5 2 ) .
+
+         B O S M A N ( 1 7 0 4 : 3 0 8 - 3 0 9 , éd. 1 9 6 7 ) a décrit quelques t y p e s d ' e x t r a c t i o n de sel à la fin
+
+de sa lettre 1 6 (« Of the manner of boiling their salt »). 11 insiste sur la salinité d u sol : « the
+ground being saltish and nitrous, a small quantity of water will make better salt, and that
+quicker than a great deal ; which renders this place the more fit t o produce a great deal
+of salt in a small time ». A u x v m e siècle, les Ashanti avaient des routes du sel partant
+
+de la c ô t e ( F Y N N , 1 9 7 1 ) . M A U N Y ( 1 9 6 1 ) a figuré d e u x routes : une près de L o m é ( K é t a
+
+sans doute) et une près d ' A c c r a (cf. sa fig. 6 6 , p . 3 2 2 ) .
+
+-Depression avec sol n u ,mares et végétation clairsemée  ->-N
+
+    A V I C E N NI A     MARE
+petit mais âgé        où d e l'eau
+                      s'évapore
+
+                        CA C y p e r u s articulatus
+                        PV Paspalum vaginatum
+                        SP S e s u v i u m p o r t u l a c a s t r u m
+
+                                         FIG. 7 . -- Transects schématiques près de Kéta (Ghana).
+
+       Personnellement, fin février 1 9 7 5 , dans la dépression en arrière du cordon littoral
+de Kéta (est du Ghana, près de la frontière du T o g o ) , nous avons vu des zones avec peu
+de végétation : quelques vieux Avicennia très coupés et petits, des touffes de P. vagina-
+tum et S. portulacastrum (fig. 7 et pl. V , 1 3 et 1 4 ) . Du sel y était obtenu par l'évaporation
+                                                                   -- 246 --
+
+de l'eau dans des cuvettes de l'argile (pl. V , 1 5 ) . Un tel paysage paraît dû à une surexploi-
+tation ancienne de la mangrove, facilitée par la faible pluviométrie ( 7 5 0 m m environ, tabl. I).
+Nous pensons qu'ici il n'est plus possible d'extraire le sel de la terre, car le sable argileux
+a dû être, au cours des siècles, totalement lessivé et retiré. Il reste surtout l'argile plus diffi-
+cilement lessivable à cause de sa basse perméabilité. De plus, la majorité des arbres ayant
+été coupée, il se poserait le problème du combustible si l'on voulait faire évaporer le fdtrat
+par ébullition. [Dans l'est du Bénin, aux environs d'Avloh et de Gbéhoué Péda, les paniers
+de lixiviation sont de moins en moins souvent tressés avec des racines-échasses de Rhizo-
+phora. Ils sont remplacés par des bassines usagées en aluminium à fond percé. Cela a été
+interprété par la rareté des palétuviers, leurs racines-échasses étant de préférence conservées
+
+pour servir de bois de combustion (PARADIS & ADJANOHOUN, 1974).]
+
+       REMARQUE : A u Togo, sur la bordure du sud de la dépression du Zio, entre le lac Togo
+et l'aéroport de L o m é , existent des zones dénudées en c o n t a c t avec des savanes à Mitra-
+gyna inermis (observation personnelle en 1 9 7 6 ) . Une étude détaillée de cette région serait
+à entreprendre.
+
+                                                                                 CONCLUSION
+
+       Ce travail insiste sur la possibilité d'existence de tannes anthropiques par l'extrac-
+tion de sel actuelle et surtout passée, dans plusieurs pays d'Afrique occidentale. Certes,
+ces tannes, même s'ils sont nombreux en Afrique de l'Ouest au sud du 1 4 E parallèle, ne
+sont qu'un cas particulier des zones dénudées qui, en général, comme au Sénégal et dans
+le reste du monde, sont naturels, dus à des phénomènes uniquement physico-chimiques.
+
+       On peut chercher à placer ces divers types de tannes dans l'écologie littorale de l'Afrique
+occidentale en rapport avec les fluctuations récentes du niveau marin et avec les climats
+à saison sèche, facteurs qui ont facilité l'emprise humaine sur le milieu.
+
+       Les mangroves et les fluctuations récentes du niveau marin
+
+       Dans de nombreux pays existent des témoins ou des preuves d'un niveau marin 1 supé-
+
+rieur à l ' a c t u e l de 5 0 c m à 1 m : C a s a m a n c e ( F A U R E et al., 1 9 7 4 ) , Côte d ' I v o i r e ( P O M E L ,
+1 9 7 9 ; TASTET, 1 9 7 9 ) , Ghana (LABOREL & DELIBRIAS, 1 9 7 6 ) , Bénin (PARADIS, 1 9 7 7 ) . Ce
+
+niveau est daté de 2 5 0 0 à 6 0 0 B P . Alors, les mangroves ont pu s'étaler largement dans le
+cours inférieur des fleuves et les marées biquotidiennes devaient favoriser leur épanouisse-
+ment dans les basses plaines, aujourd'hui d'altitude supérieure de 4 0 - 5 0 c m au niveau de
+l'eau des chenaux. A notre avis il s'agit d'une petite transgression et elle peut expliquer
+la présence d'Avicennia a p p a r e m m e n t non en équilibre avec les conditions hydrologiques
+actuelles (cas de ceux du nord du lac Ahémé et de Togbin au Bénin).
+
+       Plus récemment eut lieu une petite régression (suggérée aussi par GLEDHILL, 1 9 6 3 :
+7 0 1 , 7 0 3 , pour la Sierra Leone) qui amena progressivement l'eau à son niveau présent et
+provoqua les microterrasses des bords de lagunes et de bas chenaux, la microfalaise de
+bord de mer, le fort abaissement des nappes phréatiques en saison sèche, les changements
+
+       1. Peut-être de deux niveaux supérieurs à l'actuel (cf. POMEL, 1979).
+                                                                   -- 247 --
+
+de faune (PARADIS, 1978), l'extension des forêts marécageuses d'eau douce, celle des prai-
+ries à Typha australis aux dépens des m a n g r o v e s et la fermeture des embouchures en sai-
+son sèche. L'amplitude actuelle des marées étant faible (1 m en moyenne) sur toute la côte
+depuis le Sénégal jusqu'au Nigeria, les sites porteurs A'Avicennia, une fois déboisés (natu-
+rellement ou artificiellement) ne reçoivent plus que très rarement les diaspores de palétu-
+viers, apport qui, s'il était plus fréquent et régulier, leur permettrait de se repeupler avec
+ces palétuviers. Sur ces sites une fois déboisés s'implantent des halophytes herbacés ou
+se forment des zones nues, cela variant avec le climat et l'emprise humaine.
+
+       Les mangroves et les climats côtiers d'Afrique occidentale
+
+       Comme l'ont montré BALTZER & LAFOND (1971), en climat perhumide, les marais sont
+progressivement dessalés et la végétation passe de la mangrove à la forêt marécageuse d'eau
+douce sans zone dénudée et -- ajoutons-nous -- sans extraction de terre salée. C'est le cas
+par exemple du Nigeria ou de la Côte d ' I v o i r e . En climat tropical (Gambie à Sierra Leone)
+ou subéquatorial sec (Ghana, Bénin), où alternent saison sèche et saison des pluies, appa-
+raissent des zones dénudées et -- ajoutons-nous -- des extractions de terre salée. Sous
+de tels climats, mangrove et forêt marécageuse ne sont pas en continuité : des prairies
+et pelouses diverses (à P. vaginatum, à S. portulacastrum, à P. vermicularis), des marécages
+à Typha sont interposés entre.
+
+        Il est évident qu'extraction de terre salée et tanne sont liés. En climat à forte saison
+sèche (Gambie, Casamance ; cf. tabl. I) l'extraction de terre doit, dans une chaîne causale,
+venir après l'apparition du tanne, le climat étant vraisemblablement le facteur détermi-
+nant. En climat à saison sèche moins longue (Bénin, Sierra Leone et sans doute Guinée
+et Ghana ; cf. tabl. I), l'extraction de terre est le facteur déterminant dans la création
+du tanne.
+
+       L'impact humain sur les mangroves
+
+       Sans à nouveau insister sur cet aspect (voir ROLLET, 1 9 7 5 ) abordé précédemment,
+on se rend compte qu'il est lié aux conditions géomorphologiques et climatiques. En climat
+humide, l'homme abat les palétuviers dans les parties les plus élevées et les mangroves
+finissent par être remplacées par des prairies à P. vaginatum a v e c des A. aureum ( G U I L -
+LAUMET & ADJANOHOUN, 1971 : 212). En climat sec, l'abattage est facilité, mais en même
+temps aussi l'extraction de terre salée en vue de son lessivage. C'est elle qui a causé les
+zones nues du Bénin et de quelques autres pays d'Afrique à climat pas assez aride pour
+que ces tannes se forment naturellement. En climat plus aride (Gambie, Casamance), cette
+extraction a sans doute agrandi les zones nues formées naturellement. Il faut une nouvelle
+fois insister sur l'ancienneté du peuplement humain sur le littoral ouest-africain dont témoi-
+gnent les nombreux amas coquilliers et sur l'importance alimentaire et commerciale du
+sel pour ces peuples riverains de la mer ( M A U N Y , 1 9 6 1 ) .
+
+        Une mangrove non touchée par l'homme étant auto-renouvelable sur plusieurs siècles,
+b e a u c o u p de mosaïques (zones nues a v e c quelques palétuviers, prairies a v e c des Avicennia
+dispersés, pelouses à halophytes herbacés mêlés de palétuviers) nous paraissent très bien
+explicables par des stress anthropiques. De ceux-ci c'est l'extraction de terre salée qui a
+l'influence la plus drastique.
+                         -- 248 --
+
+TABLEAU I. -- Données pluviothermiques mensuelles pour différentes stations d'Afrique de l'Ouest.
+
+| DAKAR (Sénégal) : 1 4 ° 4 4 ' N, 1 7 ° 3 0 ' W, ait. 22 m.
+
+J          F  M   A   M     JJ      A                         S  0   N  D   ANNEE
+
+P (mm) 0   2  0   0   3  11 105 245 1 9 3 48                         5  0   612
+
+T (°C ) 2 0 , 5 1 8 , 9 1 9 , 6 2 0 , 9 2 2 , 7 2 5 , 9 2 7 , 1 27,1 2 7 , 3 2 7 , 2 2 5 , 7 23,1 2 3 , 8
+
+a          a  a   a   a  a  h       p                         P  s   a  a
+
+ZIGUINCHOR (Sénégal) : 1 2 ° 3 5 ' N, 16°16' W, ait. 10 m.
+
+P (mm) 1   1  0   0   10 122 350 551 356 156 7                          1   1555
+
+T (°C ) 2 3 , 2 2 3 , 8 2 5 , 2 26 2 6 , 9 2 7 , 4 2 6 , 2 2 5 , 8 2 6 , 2 2 6 , 9 2 6 , 5 2 3 , 7 2 5 , 8
+
+a          a  a   a   a  h  P       P                         P  p   a  a
+
+CONAKRY (Guinée) : 9 ° 3 4 ' N, 1 3 ° 3 7 ' W, ait. 46 m.
+
+P (mm ) 1  2  4   17 158 555 1 320 1 100 7 1 8 334 121 12                   4343
+
+T (°C ) 2 6 , 3 2 6 , 3 2 6 , 6 2 7 , 1 2 6 , 9 2 5 , 8 2 4 , 7 2 4 , 4 2 5 , 2 2 5 , 6 2 6 , 3 2 6 , 5 26
+
+a          a  a   a   P  P  P                          P      P  p   h  a
+
+FREETOWN (Sierra Leone ) : 8 ° 3 7 ' N, 1 3 ° 1 2 ' W, ait. 26 m.
+
+P (mm) 8   6 25   99 280 508 863 914 7 1 1 317 139 30                       3900
+
+T (°C) 2 7 , 4 2 7 , 8 2 7 , 9 2 7 , 8 2 7 , 4 2 6 , 7 2 5 , 5 2 5 , 2 26 2 6 , 5 27, 1 2 7 , 2 2 7 , 2
+
+a          a  s   h   P  P  P                          P      p  p   P  s
+
+ACCRA (Ghana) : 5 ° 3 3 ' N, 0 ° 1 2 ' W, ait . 27 m.
+
+P (mm) 14 35  67  78  138 191 4-    15                        44 80 34 2 5  766
+
+T (°C) 27,3 2 7 , 7 27,8 27,7 27 25,7 24,6 24,3 25 26, 1 27, 1 27,3 26,5
+
+a          s  s   h   P  P  .s      a                            sh  s  s
+                                       -- 249 --
+
+LOME (Togo) : 6 ° 1 0 ' N, 1 ° 1 5 ' E , a i t . 20 m.
+
+JF                 M      A     MJ              J AS                     0N       D ANNEE
+
+P (mm) 1 7 37 80 104 1 5 3 202 55 16 48 ' 5 3 21 6                                      893
+
+T (-C) 26,8 2 7 , 5 2 7 , y 2 7 , 6 2 6 , 9 2 5 , 6 2 4 , 6 2 4 , 6 2 5 , 6 2 5 , 8 2 6 , 7 2 6 , 9 2 6 , 4
+
+a   sh                       P  p      P     sa                    S  P     sa
+
+GKAND-POPO (llénin) : 6 ° 1 6 ' N , 1 ° 4 9 ' E , a i t . 5 m.
+
+P (mm ) 10 30 66 1 00 1 6 7 2 5 1 91 2 5 44                           95 35 13          927
+
+a   5                 5      p  PP           h     ss                 h     sa
+
+QUIDAM (Bénin) : 6 ° 2 1 ' N, 2 ° 0 5 ' E , a i t . 16 m.
+
+P ( m m ) 1 2 28 92 121 192 2 9 7 1 2 9 42 74 1 3 7 47 16                               1 187
+
+a   sh                       P  P      P     p     sh                 P     s     a
+
+i M l o\ol ( llriu 11 ) : ( °21 ' N, 2 ° 2 4 ' E , a i t . 4...m.
+
+P ( m m ) 27 34 98 124 222 383 140 42 78 1 5 6 58 16                                    1378
+
+r (°C) 2 7 , 2 28  28,6 28      27, 4  26, 1 25,5  2 4 25,8           26,4  27,2  27,3  26,9
+                                                         5(
+
+s   s                 11     P  P         P     P       9 li          P     sa
+
+       Les données pour toutes les stations sauf celles du Bénin sont tirées de MORAL (1964). Nous avons
+également retenu de cet auteur sa classification des mois : a = mois aride (où P < 16 mm à 25° et P < 25mm
+
+   30°) ; s = mois sec (où P est compris entre 16 et 57,5 mm à 25° et entre 25 et 80 mm à 30°) ; h = m o i s
+humide (où P est compris entre 57,5 et 117,5 mm à 25° et entre 80 et 150 mm à 30°) ; p = mois pluvieux
+(où P > 117,5 mm à 25° et P > 150 mm à 30°).
+
+                                                                Remerciements
+
+       Nous exprimons notre reconnaissance à M . le Pr Th. MONOD, membre de l'Institut, qui a bien
+voulu nous donner des conseils et références bibliographiques, ainsi qu'à M. le Pr R . SCHNELL qui
+a lu et critiqué une première forme de notre manuscrit. Les frais de terrain ont été en partie supportés
+par le Laboratoire de Botanique de l'Université de Cotonou (Bénin), dirigé par le Pr E. ADJANO-
+HOUN, que nous remercions. Notre gratitude va également à J. F. LABROUCHE, M l l e J. RIVALLAIN
+et J. VIEILLEFON, qui nous ont fourni divers documents, ainsi qu'à R . GEORGES (École Normale
+Supérieure d'Abidjan), qui a tiré nos clichés du Ghana.
+                                           RÉFÉRENCES BIBLIOGRAPHIQUES
+
+ADAM, J. G., 1958. -- Floristique des pâturages salés (halophytes et subhalophytes) et végétation
+          des rizières du Siné-Saloum (Sénégal). J. Agric. trop. Bot. appt., 5 (8-9) : 505-541.
+
+AUBRÉVILLE, A., 1950. -- Flore forestière soudano-guinéenne. Soc. Edit. Géog. Maritim. et Col.,
+          Paris : 524 p.
+
+BALTZER, F., 1969. -- Les formations végétales associées au delta de la Dumbéa (Nouvelle-Calédonie).
+          Cah. ORSTOM, sér. Géol., 1 (1) : 59-84.
+
+BALTZER, F.. & L. R. LAFOND, 1971. -- Marais maritimes tropicaux. Rev. Géog. phi/s. Géol. diin.,
+          13 (2) : 173-196.
+
+BONFILS, P., & J. FAURE, 1961. -- Étude des sols du Bao Bolon. Agron. trop., 16 (2) : 127-147.
+BOSMAN, W . , 1704. -- A new and accurate description of the Coast of Guinea : divided into the
+
+          Gold, the Slave and the Ivorv Coast. Barner & Noble, Inc., New York : 577 p. (New ed. :
+          1967).
+BOUGHEY, A . S., 1957. -- Ecological studies of tropical coast-lines. I. The Gold Coast, West Africa.
+           J. Ecol., 45 : 665-687.
+
+CHAPMAN, V. J., 1976. -- Mangrove Vegetation. J. Cramer, Vaduz : 447 p.
+
+CROW, A. T., 1952. -- The rocks of the Sekondi series of the Gold Coast. Gold Coast geol. Surv. Bull,,
+          18 : 68 p .
+
+DAPPER, D'O. D. M., 1686. -- Description de l'Afrique. Réimp. 1970, Johnson reprint corpor.,
+          New York : 534 p. + 11 p. d'index.
+
+FAURE, H., 1975. -- Nouvelle approche du problème du niveau des mers. Ass. sénégal. Ét. Quatern.
+          Afr., Bull. Liaison, 44-45 : 77-79.
+
+FAURE, H., J. VIEILLEFON & C. A. DIOP, 1974. -- Évolution de la ligne de rivage holocène en Casa-
+          mance (Sud du Sénégal). Ass. sénégal. Ét. Quatern. Afr., Bull. Liaison, 42-43 : 91-99.
+
+FOSBERG, F. B., 1961. --· Vegetation-free zone on drv mangrove coasts. Prof. Pap. U.S. geol. Sirv.,
+          424-D : 216-218.
+
+FYNN, J. K . , 1971. -- Asante and its Neighbours 1700-1807. (Legon History Series) Longman :
+          175 p.
+
+GERMAIN, P., 1975. -- Contribution à la connaissance du Quaternaire récent du littoral dahoméen.
+          Ass. sénégal. Et. Quatern. Afr., Bull. Liaison, 44-45 : 33-45.
+
+GIGLIOLI, M. E. C , & I. THORNTON, 1965. -- The mangrove swamps of Keneba, lower Gambia
+          river basin. I. Descriptive notes on the climate, the mangrove swamps and the physical
+          composition of their soils. J. appt. Écol., 2 : 81-103.
+
+GLEDHILL, D., 1963. -- The Ecology of the Aberdeen Creek mangrove swamp. J. Ecol., 51 : 693-
+          703.
+
+GRIVOT, R., 1944. -- L'industrie du sel dans la région de Grand-Popo. Notes afr., IFAN, Dakar,
+          21 : 23-24.
+
+GRUVEL, A., 1908. -- Les Pêcheries des Côtes du Sénégal et des Rivières du Sud. Lib. Maritim.
+          et Colon., Paris : 245 p.
+
+GUILCHER, A., 1959. -- La région côtière du Bas-Dahomey occidental. Bull. Inst. fr. Afr. noire,
+          sér. B, ai (3-4) : 358-424.
+
+GUILLAUMET, J. L., & E. ADJANOHOUN, 1971. -- La végétation de la Côte d'Ivoire. In : Le milieu
+          naturel de la Côte d'Ivoire, Mém. ORSTOM, 50 : 157-263.
+                                                                   -- 251 --
+
+GUINKO, S., 1974. -- Contribution à l'étude écologique des savanes marécageuses du Bas-Dahomey.
+          Thèse de 3 e cycle, Fac. Se. Abidjan : 142 p.
+
+JACQUES-FÉLIX, H., & R . CHÉZEAU, 1960. -- Sols et groupements végétaux de la zone littorale
+          de Guinée dans leurs rapports avec la riziculture. 1. L'île du Kabak. Agron. trop., 15 (3) :
+          325-341.
+
+KIENER, A., 1978. -- Ecologie, physiologie et économie des eaux saumâtres. Masson, Paris : 220 p.
+
+LABOREL, J., & G. DEI.ILRIAS, 1976. -- Niveaux marins récents à Vermetidae du littoral ouest-
+          africain. Description, datation et comparaison avec les niveaux homologues des côtes du
+          Brésil. Ass. sénégal. Et. Quatern. Afr., Bull. Liaison, 47 : 97-110.
+
+LINARES DE SAPIR, O., 1971. -- Shell middens of lower Casamance and problems of Diola proto-
+          history. W. Afr. J. Archaeology, Ibadan, 1 : 23-54.
+
+MAUNY, R . , 1961. -- Tableau géographique de l'Ouest africain au Moyen âge d'après les sources
+          écrites, la tradition et l'archéologie. Mém. Inst. fr. Afr. noire, Dakar, 61 : 588 p.
+
+MIÈGE, J., P. HAINARD & G. TCHEREMISSINOFF, 1976. -- Aperçu phytogéographique sur la Basse-
+
+          Casamance. Boissiera, 24 : 461-471.
+
+MONOD, Th., A. TEIXEIRA DA MOTA & B . M A U N Y , 1951. -- Description de la Côte occidentale
+
+          d'Afrique (Sénégal au Cap de Monte, Archipels) par Y. Fernandes (1506-1510). Centro de
+          estud. da Guiné port. Bissau, mém. n° 11 : 225 p .
+
+MORAL. P., 1964. -- Essai sur les régions pluviothermiques de l'Afrique de l'Ouest. Annls Géogr.,
+          400 : 660-686.
+
+PALES, L., 1950. -- Les sels alimentaires. Sels minéraux. Problème des sels alimentaires en A.O.F.
+          Gouvernement Général de l'A.O.F., Direction Générale de la Santé Publique, Dakar : 107 p .
+
+PARADIS, G., 1975a. -- Observations sur les forêts marécageuses du Bas-Dahomey : localisation,
+          principaux tvpes, évolution au cours du Quaternaire récent. Annls Univ. Abidjan, E, 8 :
+          281-315.
+          1975e. -- Physionomie, composition floristique et dynamisme des formations végétales
+          d'une partie de la Basse \ allée de l'Ouémé (Dahomey). Annls Univ. Abidjan, C, 11 : 65-101.
+
+   -- - 1976a. -- Contribution à l'étude de la flore et de la végétation littorales du Dahomey. Bvll.
+          Mus. nain. Hist. nat., Paris, n° 383, Botanique 26 : 33-68.
+          1976e. -- Recherches sur le Quaternaire récent du Sud de la B . P. du Bénin (ex-Dahomey) :
+          étude de thanatocénoses de Mollusques. C E R P A B , Orsay, contrib. n° 12 : 173 p.
+
+   -- 1977. -- Observations sur l'Holocène récent du Sud Bénin (ex-Sud Dahomey). Ass. sénégal.
+          Et. Quatern. Afr., Bull. Liaison, 51 : 49-73.
+
+   -- 1978. -- Interprétation paléoécologique et paléogéographique des taphocénoses de l'Holo-
+          cène récent du Sud-Bénin, à partir de la répartition actuelle des Mollusques littoraux et
+          lagunaires d'Afrique occidentale. Géobios, Lyon, 11 (6) : 867-891.
+
+   -- 1979. -- Observations sur Laguncularia rocemosa Gaertn. et Dalbergia ecastaphyllum (L.)
+          Taub. dans les successions secondaires de la mangrove du Bénin. Bull. Inst. fond. Afr. noire,
+          sér. A, 41 (1) : 92-102.
+
+PARADIS, G., & E. AD.FANOHOUN, 1974. -- L'impact de la fabrication du sel sur la végétation de
+          mangrove et la géomorphologie dans le Bas-Dahomey. Annls Univ. Abidjan, E, 7 : 599-
+          612.
+
+PARADIS, G., S. D E SOUZA & P. HOUNGNON, 1978. -- Les stations à Lophira lanceolata dans la
+          mosaïque forêt-savane du Sud-Bénin (ex Sud-Dahomey) Bull. Mus. nain. Hist. nat., Paris,
+          n° 521, Botanique 35 : 39-58.
+
+PERTUISOT, J. P., 1975. -- De la signification du mot sebkha en géologie. Exemples tunisiens.
+          Ass. sénégal. Ét. Quatern. Afr., Bull. Liaison, 44-45 : 67-75.
+
+POMEL, R., 1979. -- Géographie physique de la Basse Côte d'Ivoire. Thèse de 3 e cycle, Univ.
+          Caen. U E R Se. de la Terre : 625 p.
+
+                                                                                                                                                                       3, 26
+                                                                                  -- 252 --
+
+RIVALLAIN, J., 1980. -- Le sel dans les villages côtiers et lagunaires du Bas-Bénin : sa fabrication,
+           sa place dans le circuit du sel africain. Annls Univ. Abidjan, I, 8 : 79-127.
+
+ROLLET, B., 1975. -- Les utilisations de la mangrove. J. Agric. trop. Bot. appl., 22 (7-8-9) : 203-235-
+SALL, M . , & E . S. DIOP, 1975. -- Le Gandoul et les îles Betanti. Etude géomorphologique. Ass.
+
+           sénégal. Et. Quatern. Afr., Bull. Liaison, 44-45 : 47-54.
+SALOMON, J. N . , 1978. -- Contribution à l'étude écologique et géographique des mangroves. Bévue
+
+           Géomorph. Dyn., 2-3 : 63-80.
+SCHNELL, R . , 1971. -- Introduction à la phytogéographie des pays tropicaux. Vol. 2 : les milieux,
+
+           les groupements végétaux. Gauthier-Villars éd., Paris : 503-951.
+SNELGRAVE, Captain W . , 1734. -- A new account of some parts of Guinea and the Slave-trade.
+
+           J., J., P. Knapton, London : 289 p.
+TASTET, J. P., 1975. -- Les formations sédimentaires quaternaires à actuelles du littoral du Dahomey.
+
+           Ass. sénégal. Et. Quatern. Afr., Bull. Liaison, 46 : 21-44.
+   -- 1979. --- Environnements sédimentaires et structuraux quaternaires du littoral du Golfe
+
+           de Guinée (Côte d'Ivoire, Togo, Bénin). Thèse, Univ. Bordeaux I, vol. 1 : 181 p., vol. 2 :
+           125 fig.
+THOM, B. G., 1967. -- Mangrove ecology and deltaic geomorphologv, Tabasco, Mexico. J. Ecol.,
+           55 : 301-343.
+
+THOM, B. G., L. D . WRIGHT & J. M. COLEMAN, 1975. -- Mangrove ecology and deltaic-estuarine
+
+           geomorphologv : Cambridge Gulf-Ord River, Western Australia. ,/. Ecol., 63 : 203-232.
+TRICART, J., 1978. -- Analyse et critique de la thèse de VIEII.LEFON (1911). Bévue Géomorph. Dyn.,
+
+           4 : 153-154.
+VIEILLEFON, J., 1969. -- La pédogénèse dans les mangroves tropicales. Un exemple de chrono-
+
+           séquence. Sei. sol, 2 : 115-148.
+   -- 1970. -- Le problème des repères stratigraphiques quaternaires en Casamance (Sénégal).
+
+           Ass. sénégal. Et. Quatern. Afr., Bull. Liaison, 26 : 13-23.
+   -- 1977. -- Les sols des mangroves et des tannes de Basse Casamance (Sénégal). Mém. OBSTOM,
+
+           83 : 291 p.
+VILLIERS, A., 1954. -- Un biotope curieux des tan : les terriers de crabe. Notes afr., 62 : 57-59.
+
+W A L T E R , H., & M. STEINER, 1936. -- Die Ökologie des Ostafricanischen Mangroven. Z. Bot., 30 :
+
+           65-193.
+
+                                                                                    Manuscrit déposé le 14 décembre 1979.
+
+                                                        PLANCHE I : Sud de Ouidah (Bénin).
+
+1 -- Avicennia (A) dans la prairie à Paspalum vaginatum (PV).
+2 -- Enlèvement des Rhizophora (B) pour le bois et pour extraire de la terre salée. Au premier plan, P.
+
+       vaginatum (Pv).
+3 -- Aspect d'une zone dénudée avec un vieux panier de lessivage.
+ -- 253 --
+PLANCHE I
+                                                                    -- 254 --
+
+                                                           PLANCHE II : Togbin (Bénin).
+4 -- Aire d'extraction de terre salée, mise en tas (à droite). Trois pieds d'Avicennia ont été conservés.
+5 -- Enlèvement de la végétation dans une future aire d'extraction de terre salée. Au loin, Rhizophora
+
+       (B).
+6 -- Aspect d'une aire d'extraction de terre salée. A gauche, tas de terre, paniers de lessivage et poteries
+
+       pour recueillir le filtrat.
+  -- 255 --
+PLANCHE II
+                                                                    -- 256 --
+
+                                         PLANCHE III : Environs de Gbéhoué Péda (Bénin).
+7 -- Pied à'Avicennia (A) dans la prairie à P. vaginatum (Pv).
+8 -- Aspect de la prairie à P. vaginatum, avec Cyperus articulatus (C) et Phoenix reclinata (P r).
+9 -- Colonisation des aires dénudées par Sesuvium portulacastrum (S), avec des pieds à'Avicennia (A).
+
+       On voit trois tas de terre salée protégés de la pluie par des feuilles de palmiers.
+-- 257 --
+
+PLANCHE    III
+                                                                    -- 258 --
+
+                                         PLANCHE IV : Environs de Gbéhoué Péda (Bénin).
+10 -- Butte sableuse (B) avec Phoenix reclinata (Pr) et aire nue au premier plan. Sesuvium portulacastrum
+
+       (S) et Paspalum vaginatum la colonisent.
+11 -- Becolonisation des aires dénudées par S. portulacastrum. Au loin, Avicennia (A) et tas de terre salée
+
+       (face à la flèche).
+12 -- Pieds A'Avicennia (A) subsistant près de l'eau, mêlés à S. portulacastrum (S) et P. vaginatum (Pv).
+PLANCHE IV
+                                                                    -- 260 --
+
+                                             PLANCHE V : Région de Kéta (Est du Ghana).
+13 -- Zones dénudées entourées de P. vaginatum (Pv) et S. portulacastrum (S). Au loin, une femme recueille
+
+       du sel.
+14 -- Végétation très clairsemée et zones dénudées craquelées. On voit de petits Avicennia (A), qui en
+
+       fait sont âgés.
+15 -- Une femme recueille du sel obtenu par l'évaporation naturelle de l'eau dans des cuvettes formées
+
+       sur l'argile des zones dénudées. (Fin février 1975.)
+   -- 261 --
+PLANCHE V
+                                     Bull. Mus. nain. Hist, nat., Paris, 4e sér., 2, 1980,
+
+                                                                 section B, n° 3 : 263-277.
+
+                        Relations entre la structure exinique,
+                           la morphologie tec taie du pollen,
+
+                      les conditions climatiques et écologiques
+   chez certaines espèces du genre Peucedanum L. (Umbelliferae)
+
+                                                                 par Michel NIGAUD *
+
+       Résumé. -- Le genre Peucedanum L. est largement répandu dans le monde. Il connaît ainsi
+des conditions écologiques variées et se trouve soumis à des influences fort diverses (froid, chaleur,
+humidité, sécheresse...). Ces paramètres extérieurs agissent-ils au niveau du pollen ? Ont-ils des
+actions directes sur l'évolution et la constitution stratigraphiques de l'exine ? C'est ce que la présente
+étude entreprend d'établir, parallèlement aux travaux de morphologie florale dus à J. P. REDURON
+qui travaille sur les mêmes espèces.
+
+       Abstract. -- Relationships between pollen characters (structure of exine and tectum), climatical
+and ecological conditions in some species of the genus Peucedanum L. (Umbelliferae). -- The Peuceda-
+num L. genus is widely distributed throughout the world. It is thus exposed to a variety of ecolo-
+gical conditions and is subjected to a great many influences (heat, cold, dampness, dryness...).
+Have these external factors any effect upon the pollen itself ? Do they act directly on the evolu-
+tion and stratigraphie constitution of exine ? The present study has been undertaken to try to
+establish this parallel to the work of J. P. REDURON on the same species.
+
+                                                                                INTRODUCTION
+
+       Au niveau des caractères végétatifs, l'adaptation des plantes aux influences diverses
+du milieu est depuis longtemps constatée et démontrée. En est-il de même pour des parties
+plus intimes de ces plantes et plus précisément pour cette entité particulière que constitue
+un grain de pollen et notamment les strates qui forment son enveloppe exinique dont la
+plus externe ou tectum ?
+
+       Parce que sa répartition générale (latitude, longitude) est largement répandue sur
+le globe, bien que surtout boréale, le genre Peucedanum L. -- genre « refuge » ( N I G A U D ,
+1970, 1978) au sein d'une famille bien connue et délimitée, celle des Ombellifères, avec
+quelques 388 espèces répertoriées à l'Index de Kew -- est soumis à des influences diverses :
+océane ou continentale, d'altitude ou de littoral, de pluviosité ou de sécheresse, de froidure
+ou de chaleur, tous ces paramètres intervenant séparément ou en groupe.
+
+      * Laboratoire de Palynologie de l'ÉPHÉ, Muséum national d'Histoire naturelle, 61, rue Buffon, 75005
+Paris.
+                                                                                   -- 264 --
+
+        Quelles conséquences peuvent en découler au niveau du pollen ? La question étant
+ici posée, une première et partielle réponse sera esquissée. Toutefois, isolée, la présente
+contribution ne serait pas totalement significative. Elle s'insère dans le contexte d'autres
+travaux consacrés aux peucédans et notamment ceux de REDURON (1978, 1 9 7 9 , 1980),
+de G U Y O T ( 1 9 6 6 , 1 9 7 1 , et com. pers.) sur les mêmes espèces, parfois les mêmes échantillons,
+le premier en morphologie florale et le second en phytodermologie. Antérieurement, d'autres
+études ont porté sur les vaisseaux ligneux des peucédans (LEMESLE, 1 9 5 8 , LEMESLE et
+
+ROUSSEAU, 1 9 5 9 ) , sur leur ontogénie foliaire (CERCEAU-LARRIVAL, 1 9 6 2 , 1 9 7 5 ) , sur leur
+
+dénombrement chromosomique (CAUWET, 1 9 6 8 ) , sur leurs fruits (DURRUTY, 1 9 7 5 ) et sur leur
+p h y t o c h i m i e (CARBONNIER et al., 1 9 7 8 ) , pour ne citer que des auteurs de langue française.
+
+                                                   I. -- TECHNIQUE ET MATÉRIEL UTILISÉS
+
+       L'observation, après traitement chimique (acétolyse selon Erdtman) et cassure aux
+ultrasons (CERCEAU et coll., 1970), de pollens prélevés sur des inflorescences d'espèces en
+provenance de lieux aussi culminants q u e le m o n t K e n y a ( = P. kerstenii) ou réputés froids
+tel V l a d i v o s t o c k ( = P. formosum), voire de régions de France aussi contrastées que la Grande
+Brière atlantique ( = P. lancifolium) et les contreforts calcaires des Alpes en bordure médi-
+terranéenne ( = P. schottii), conduit à des constatations riches en enseignements divers.
+Autre exemple, l'étude du P. paniculatum, endémique corse, et le cas spécifique d'un échan-
+tillon récolté à Montalba (Pyr.-Or.) permettent aussi de se livrer à d'utiles comparaisons
+avec l'espèce P. officinale 1 dont ils sont p r o b a b l e m e n t issus et de sa sous-espèce espagnole
+P. stenocarpum. Toutes ces comparaisons, effectuées soit au niveau des cassures, soit au
+niveau des surfaces tectales, ont leurs localisations précisées dans les légendes des diffé-
+rentes illustrations.
+
+                 II. -- INFLUENCE DES FACTEURS DOMINANTS « FROID » ET « CHALEUR »
+
+       Deux échantillons récoltés, l'un entre 3 5 0 0 et 4 0 0 0 m d'altitude sur le mont Kenya,
+l'autre en P r i m o r y e (région septentrionale de V l a d i v o s t o c k ) , le premier P. kerstenii (fig. l a ;
+pl. I ; 1 , 2 ) , le second P. formosum (fig. l b ) , présentent, sensiblement, les mêmes caracté-
+ristiques exiniques (courtes columelles ; ectexine et nexine épaisses ; espace intercolumel-
+laire réduit). Il s'agit, dans l'un et l'autre cas, de plantes soumises à l'influence du froid
+(du gel notamment) m ê m e si interviennent des paramètres compensateurs, soit latitu-
+dinaux (Equateur) soit océaniques (mer du Japon).
+
+       L'étude du pollen d'autres t a x o n s , dont Ferula montis elgonis, appartenant a u x plantes
+afroalpines citées par HEDBERG ( 1 9 5 7 ) -- l'orophilie se conjuguant ici avec le froid -- montre
+des c o n v e r g e n c e s structurales de l'exine. Il en est de m ê m e p o u r t o u t un l o t de Peucedanum
+mentionnés par GOROVOY ( 1 9 6 6 , 1 9 7 8 ) et dont les strates exiniques ont entre elles beau-
+c o u p d'analogies [P. litorale (pl. I, 3 , 4 ) et P. eryngiifolium, de Primorye ; P. terebintha-
+ceum, de Priamourye ; P. salinum et P. caginatum, d'Est-Sibérie].
+
+       1. Qualifié de « groupe » P. officinale.
+                                                                                -- 265 --
+         A l'inverse et c o m p a r a t i v e m e n t , le pollen de P. paucifolium (fig. l e ; pl. I, 5 ) et sur-
+t o u t celui de P. ruthenicum (fig. Id ; pl. I, 6 ) , échantillons en p r o v e n a n c e respective d ' E r e -
+van (Arménie) et de Syrie -- l'héliophilie, voire la xérophilie, étant alors dominantes --
+révèle une structure exinique différente (hautes columelles ; nexine toujours i m p o r t a n t e si
+ectexine plus frêle ; espace intercolumellaire ample).
+         Au total, une constatation semble s'imposer : l'exinc du pollen des peucédans est
+plus compacte en climat froid, plus épaisse et plus « aérée » en climat chaud (fig. la et d).
+
+                                                                                    FIG. 1
+a -- Cassure méridienne en zone interaperturale subpolaire ; courtes et étroites columelles (1/7 de l'exine)
+
+       avec têtes coalescentes, fondues dans la masse tectale (3/7 de l'exine) et nexine d'égale épaisseur ; pos-
+       sible distinction de la sole et de l'endexine ; espace intercolumellaire fort réduit. (G X 16 500, cf. P.
+       kerstenii Engler. ; NIGAUD, 1974.)
+b -- Cassure méridienne en zone polaire; columelles courtes et trapues (1/4 de l'exine) avec têtes mas-
+       sives et coalescentes, très peu individualisées ; masse tectale assez homogène et d'égale épaisseur à
+       l'ensemble nexinique ; sole et endexine non discernables ; espace intercolumellaire réduit. (G X 17 000,
+       cf. P. formosum Kayata.)
+c -- Cassure méridienne en zone interaperturale subequatoriale ; robustes columelles, relativement hautes
+        (4/9 de l'exine), composées et ramifiées, les têtes étant en relation directe avec les rugules tectales ;
+       sole et endexine discernables dans une nexine égale au 1/4 de l'ensemble exinique; espace interco-
+       lumellaire important. (G X 16 500, cf. P. paucifolium Ledeb.)
+d -- Cassure méridienne en zone interaperturale subequatoriale ; columelles droites et hautes (1 /2 de
+       l'exine) ; sole et endexine nettement discernables, formant une nexine épaisse (1/3 de l'ensemble exi-
+       nique) comparée à la strate tectale plutôt réduite ; ample espace intercolumellaire. (G X 17 500, cf.
+       P. ruthenicum M. B.)
+
+                            I I I . -- P. lancifolium, É T U D E COMPARATIVE A V E C P. schottii,
+                A U T R E PLANTE DE LITTORAL E T P. palustre, AUTRE ESPECE HYGROPHILE
+
+         Dans une aire géographique -- la France en l'occurrence -- plus restreinte que lors
+des précédentes comparaisons, intercontinentales, entre pollens soumis à des facteurs
+                                                                   -- 266 --
+
+externes de même nature ou opposés, est-il encore possible de parvenir à des constata-
+tions significatives ?
+
+        P. lancifolium (fig. 2a ; pl. I I , 3, 4) croît à p r o x i m i t é de la mer, en Loire-Atlantique
+ou dans le Morbihan, près de lacs et de rivières. Son pollen possède une exine plutôt épaisse,
+des columelles bien individualisées, mais la surface tectale reste de type « cérébroïde »
+avec une rugulation commençante. S'il bénéficie d'un climat édulcoré par l'influence marine,
+P. lancifolium a néanmoins son évolution freinée par une hygrophilie naturelle qui agit
+sans doute dans un sens conservateur.
+
+                                                                                             FIG. 2
+a --· En bas : cassure méridienne, mésocolpiale, proche des apertures ; columelles de petite taille, cau-
+
+       liflorées, aux têtes particulièrement volumineuses ; ensemble nexinique très épais ; espace interco-
+       lumellaire assez important. -- En haut : ensemble fovéi-fossuléiforme de fortes circonvolutions avec
+       début de rugulation = surface tectale cérébroïde-rugulée commençante (zone subaperturale ; valable
+       également en zone polaire). ( G X 1 2 0 0 0 , cf. P. lancifolium Lange.)
+b -- En bas : cassure méridienne, mésocolpiale, proche des apertures ; columelles hautes, cauliflorées,
+       à têtes concrescentes ; nexine épaisse ; ample espace intercolumellaire. -- En haut : ensemble fossu-
+       léiforme de rugules parfaitement alignées les unes à côté des autres ; parallélisme évident = surface
+       tectale striée (surtout vrai en zone polaire). ( G X 1 2 0 0 0 , cf. P. schottii Bess. ; NIGAUD, 1 9 7 5 . )
+c -- En bas : cassure méridienne en zone polaire ; columelles petites et irrégulières avec têtes vaguement
+       globuleuses, soudées les unes aux autres ; difficile différenciation entre sole et endexine ; espace inter-
+       columellaire réduit. -- En haut : ensemble fovéiforme de circonvolutions banales = surface cérébroïde
+       (zone polaire). ( G X 1 1 0 0 0 , cf. P. palustre Moench.)
+
+       Par comparaison, P. schottii (fig. 2b ; pl. I I , 1, 2 ) , espèce de milieu méditerranéen
+(Fontan, dans le cas étudié) et de plateau calcaire, a un pollen qui n'est pas sans rappeler
+le P. ruthenicum syrien. Dans le c o n t e x t e « peucédanien », la surface tectale, striée de belles
+rugules parallèles, s'avère très évoluée. A l'inverse, P. palustre (fig. 2c ; pl. I I , 5 , 6 ) , échan-
+tillon récolté dans le Haut-Rhin, plante de tourbière et de marécage, possède un pollen
+dont l'exine est sans particularité : columelles banales et surface tectale cérébroïde simple.
+Dans ce cas, l'hydrophilie semble stabiliser toute évolution (NIGAUD, 1975, 1 9 7 8 : HIDEUX
+et al, 1 9 7 8 ) .
+
+       Au total, la diversité des paramètres (géographiques, climatiques, écologiques...)
+rencontrés en France explique que des espèces choisies à titre comparatif et volontaire-
+                                                                   -- 267 --
+
+m e n t bien localisées mais, en fait, de dispersion plus large (jusqu'au Portugal : P. lanci-
+folium ; j u s q u ' e n Sicile : P. schottii ; j u s q u ' e n Finlande : P. palustre) présentent, d e u x à
+deux, des tendances évolutives (columelles chez P. lancifolium et P. schottii) ou de sta-
+bilité (tectum chez P. lancifolium et P. palustre) constatables et attendues.
+
+                                           I V . -- L E S ESPÈCES DU GROUPE P. officinale L.
+
+        L'étude c o m p a r a t i v e du pollen de différentes espèces du genre Peucedanum L . sou-
+mises à l'influence de phénomènes extérieurs, de même essence ou contraires, confirme
+donc, à l'échelle intercontinentale et à celle de la France, les ressemblances et dissem-
+blances envisagées a priori et recherchées à fin de démonstration. Qu'en est-il à une échelle
+plus réduite encore ? Le cas des peucédans du groupe P. officinale et des espèces affines
+sert maintenant de support à une étude c o m p a r a t i v e plus fine, à partir d'échantillons
+choisis dans un ensemble « régional » constitué artificiellement par les deux versants pyré-
+néens (sensu lato) et la Corse.
+
+        Mésophile c o m m u n e et plante souche, le P. officinale (fig. 3a ; pl. I I I , 1, 2) possède
+un pollen à exine et t e c t u m simples (petites columelles, surface tectale cérébroïde). P.
+paniculatum (fig. 3b ; pl. I I I , 3, 4) doit à son isolement dans les îles sardo-corses une évo-
+lution somme toute banale (columelles plus grandes, mais tectum toujours cérébroïde
+avec amorce sensible de régulation). P. stenocarpum (fig. 3c) poursuit cette évolution (colu-
+melles assez semblables aux précédentes mais surface tectale, cette fois, rugulée). L'évo-
+lution la plus caractérisée est celle du P. species de Montalba (fig. 3d ; pl. I I I , 5, 6) qui
+semble trouver sur place un microclimat et des conditions écologiques particulièrement
+favorables (hautes columelles et tectum strié-rugulé).
+
+        Au total, si ces quatre espèces présentent à l'oeil non averti un port de plante assez
+comparable, l'étude de leur pollen dénote des particularités évidentes. En tout cas, il paraît
+o p p o r t u n d'affirmer ici que le P. species de Montalba est bien différent du P. paniculatum
+corse (confusion rencontrée dans certaines déterminations). Plus vraisemblablement il
+s'agit d'un P. stenocarpum qui aurait refranchi les Pyrénées. Des arguments appuient cette
+hypothèse, tel le nombre rapproché des rayons des inflorescences. Une étude phytochi-
+mique en cours (CARBONNIER-JARREAU, com. pers.) permettra encore d'affiner les actuelles
+présomptions.
+
+                                                                                   CONCLUSION
+
+        Au sein des Ombellifères, les Peucedanum constituent un genre remarquable en ce
+sens que, largement répandus et évolués, ils peuvent servir de matériel précieux en vue
+d'investigations fines. L'étude des strates exiniques et de leur réponse aux facteurs externes
+apporte d'utiles informations. Toute une série de constatations semble converger pour
+avancer que, au niveau du pollen, il y a une réponse effective à l'environnement clima-
+tique : compacité générale de l'exine et perforations tectales nombreuses en région de
+froid intense ou durable ; épaisseur accentuée de l'exine et perforations tectales plus nom-
+breuses en région chaude ou à taux d'ensoleillement important.
+                                                                    -- 2C8 --
+
+                                                                                             FIG. 3
+a -- En bas : cassure méridienne ; mésocolpiale, en zone subéquatoriale ; petites columelles, irrégulières,
+
+       à têtes coalescentes ; possible distinction entre sole et endexine ; espace intercolumellaire assez impor-
+       tant. -- En haut : ensemble fovéiforme de circonvolutions simples = surface tectale cérébroïde (géné-
+       ral pour toute la surface tectale). ( G x 11 000, cf. P. officinale L. ; NIGAUD, 1975.)
+6 -- En bas : cassure transversale en zone subpolaire ; columelles assez massives et relativement hautes
+       à têtes assez volumineuses et coalescentes ; nexine indivise ; espace intercolumellaire assez impor-
+       tant. -- En haut : ensemble fovéi-fossuléiforme de circonvolutions modestes mais à rugulation com-
+       mençante = surface tectale cérébroïde à cérébro-rugulée simple (zone subpolaire). ( G X 11 000, cf.
+       P. paniculatum Lois.)
+c -- En bas : cassure méridienne en zone polaire ; columelles trapues, relativement hautes ; strate tectale
+       plutôt réduite ; ensemble nexinique épais ; espace intercollumellaire assez important. -- En haut :
+       ensemble fossuléiforme de rugules simples et désordonnées = surface tectale rugulée simple (zone
+       subpolaire). ( G X 11 500, cf. P. stenocarpum (Boiss. et Beuter) Font Quer.)
+d -- En bas : cassure transversale mésocolpiale, en zone subpolaire ; hautes et fines columelles ; strate
+       tectale d'égale épaisseur à l'ensemble nexinique ; possible distinction entre sole et endexine ; ample
+       espace intercolumellaire. -- En haut : ensemble fossuléiforme de longues rugules agencées par groupes
+       parallèles plus ou moins perpendiculaires les uns par rapport aux autres = surface tectale striato-
+       rugulée (zone subpolaire). ( G X 12 500, cf. P. species de Montalba. Précédemment décrit comme P.
+       paniculatum ; NIGAUD, 1975.)
+                                                                                -- 269 --
+
+       De m ê m e , chez les espèces adaptées à un milieu précis (P. palustre) o u endémiques
+strictes (P. paniculatum), on peut constater la stabilité de l'exine ainsi que le niveau très
+faible d'évolution de la morphologie tectale ; ce qui étonne plus dans le second cas que dans
+le premier. Autre caractéristique : l ' a l l o n g e m e n t 1 du pollen chez les espèces isolées (P.
+schottii, P / E = 2,61 ; P. paniculatum, P / E = 2 , 4 6 ; P. sp. de Montalba, P / E = 2 , 3 2 ) est
+mesurable et, consécutivement, selon les zones examinées (polaire, équatoriale, interaper-
+turale), des différences morphologiques du tectum sont discernables (de cérébroïde à rugulé,
+voire strié -- NIGAUD, 1975). Liées à cet allongement du pollen, de multiples malformations
+polliniques apparaissent ( N I G A U D , 1970, et, cf. le genre Seseli L., P A R D O , 1978 et 1979).
+
+       En résumé, que déduire de ces constatations qui confirment et ajoutent aux apports
+
+de travaux antérieurs (CERCEAU-LARRIVAL, 1971 ; CERCEAU-LARRIVAL et R O L A N D - H E Y -
+
+DACKER, 1976 et 1978) ? Quelle est la nature de la réponse de la plante, de son pollen a u x
+influences extérieures ? Là encore la question est posée avec la part à faire entre ce qui
+est d'origine gamétophytique ou sporophytique. Autre question : compte tenu des connais-
+sances actuelles, est-il possible de projeter sur les autres Angiospermes la réponse du pollen
+des peucédans aux conditions externes ? Compacité exinique ou épaississement de l'exine
+se retrouvent-ils chez les pollens fossiles, recueillis dans les couches géologiques corres-
+pondant à des périodes climatiques froides ou chaudes ?
+
+                                                         LISTE DES ÉCHANTILLONS ÉTUDIÉS
+
+       Abréviations utilisées : P, Paris ; UPS, Uppsala (Suède) ; PIBC, Pacific Institute of Bio-Organic
+Chemistry, Vladivostok (URSS) ; E R E , Erevan (Arménie) ; MA, Madrid (Espagne).
+
+Peucedanum kerstenii Engler, mont Kenya, Alluaud 223 ( P ) .
+Peucedanum kerstenii Engler, mont Elgon, lledberg 962 (UPS).
+Peucedanum kerstenii Engler, Ruwenzori, lledberg 395 ( U P S ) .
+Peucedanum formosum Kayata, Primorie, GOROVOY, 7.IX.1975 (PIBC).
+Peucedanum litorale Worosch. et Gorovoy, Primorie, GOROVOY, 1.IX.1972 (PIBC).
+Peucedanum eryngiifolium Kom., Primorie, BOJKO, 5.V111.1977 (PIBC).
+Peucedanum terebinthaceum (Fisch. ex Irev.) Ledeb., Priamourie, GOROVOY, 5.VIII.1960 ( P I B C ) .
+Peucedanum salinum Pall., Est Sibérie, PRETROCHENKO, 10.VIII.1965 (PIBC).
+Peucedanum vaginatum Ledeb., Est Sibérie, IVERINA, 6.VII.1967 (PIBC).
+Peucedanum paucifolium Ledeb., Arménie, leg. A. ELEN., 78026 ( E R E ) .
+Peucedanum ruthenicum Bieb., Syrie du INord, Gombault 6130 (P).
+Peucedanum lancifolium Lange, Saille (Morbihan), NIGAUD, 22.VII.1971 (coll. pers.).
+Peucedanum lancifolium Lance, Saint-Lyphard (Loire-Atlantique), DUPONT, 5.IX.1969 (coll.
+
+        NIGAUD).
+
+Peucedanum schottii Bess., Fontan (Alpes-Maritimes), Flore de France n° 237 (P).
+Peucedanum petraeum Noé ( = P. schottii), Alpes-Maritimes, Herbier LORET (P).
+Peucedanum palustre Moench, Wittelsheim (Haut-Rhin), REDURON, 28.VII.1974 (coll. pers.).
+Peucedanum officinale L., Hendaye (Basses-Pyrénées), Jhbon 1687 (P.).
+Peucedanum paniculatum Lois., Poggio di Venaco (Corse), CLAUDIN et CASANOVA, 1978 (coll.
+
+        NIGAUD).
+
+Peucedanum stenocarpum (Boiss. et Reuter) Font Quer, Pirineos, Sennen 88561 (MA).
+Peucedanum stenocarpum (Boiss. et Reuter) Font Quer, Sierra de Guadarrama, PEREZ, 1947,
+
+       152463 (MA).
+Peucedanum sp., Montalba (Pyrénées-Orientales), CAUWET, 1970 et 1978 (coll. NIGAUD).
+Ferula montis elgonis Bulloch, mont Elgon, hagard 425 (1930) espèce-type.
+
+       1. Le rapport P/E est celui de la longueur du pollen sur le diamètre équatorial.
+                                                                   -- 270 --
+
+                                                               Remerciements
+
+       M m e CERCEAU-LARRIVAL, Maître de Recherche au CNRS, a toujours guidé et suivi mes travaux
+en Palynologie. Qu'elle soit assurée de ma profonde gratitude. Ma reconnaissance va également
+à Jean-Pierre REDURON qui a bien voulu accepter d'aborder, en morphologie florale, l'étude des
+Peucedanum, et à mes amis du Laboratoire de Palynologie de Paris : Michel HIDEUX pour ses con-
+seils pertinents, M m e s M. C . CARBONNIER et A. VERHILLE et M l l e L. DEROUET. Les schémas sont
+inspirés de photographies au MEB réalisées dans les Laboratoires d'Ecologie générale et de Géologie
+du Muséum (ainsi que les trois planches de photographies) ; que leurs Directeurs et leurs techniciens
+en soient remerciés.
+
+                                           RÉFÉRENCES BIBLIOGRAPHIQUES
+
+CARBONNIER, J., 0 . FATIANOFF et D . MOLHO, 1978. -- Phytochimie comparée des taxons rattachés
+          à la tribu des Peucedaneae. Actes du 2e Symp. intern, sur les Ombellifères, « Contributions
+          pluridisciplinaires à la systématique >>, Perpignan 1977. A. M . CAUWET-MARC et J. CARBON-
+          NIER (Eds.). CNRS et Centre Universitaire de Perpignan : 387-513.
+
+CAUVVET, A. M., 1968. -- Contribution à l'étude caryologique des Ombellifères de la partie orientale
+          des Pyrénées. Naturalia monspel., sér. Bot., 19 : 5-27.
+
+CERCEAU, M.-Th., M. HIDEUX, L. MARCEAU et F. ROLAND, 1970. -- Cassure du pollen par les
+          ultrasons pour l'étude structurale de l'exine au M.E.B. C. r. hebd. Séanc. Acad. Sri., Paris,
+          sér. D , 270 : 66-69.
+
+CERCEAU-LARRIVAL, M.-Th., 1962. -- Plantules et pollens d'Ombellifères. Leur intérêt systéma-
+          tique et phylogénique (Thèse). Mém. Mus. natn. Hist, nat., Paris, sér. B., 14 : 166 p.
+
+   -- 1971. -- Morphologie pollinique et corrélations phylogénétiques chez les Ombellifères.
+          In : V . H . HEYWOOD (Ed.). The Biology and Chemistry of the Umbelliferae. London : 109-
+          156.
+
+   -- 1975. -- Clé des genres à l'aide des plantules. In : M. GUINOCHET et B. DE VILMORIN, Flore
+          de France. CNRS, Paris, Fasc. 2 : 426 et 474-476.
+
+CERCEAU-LARRIVAL, M.-Th., et F. ROLAND-HEYDACKER, 1976. -- The evolutionary significance
+          of the ultrastructure of the exine in Umbelliferous pollen grains. In : I. K . FERGUSON and
+          J. MULLER (Eds), « The Evolutionary significance of the exine ». Linn. Soc. Symp. ser.
+          n o 1 : 481-498.
+
+CERCEAU-LARRIVAL, .V.-Th., et F. ROLAND-HEYDACKEH, 1978. -- Apport de la palynologie à
+          la connaissance des Ombellifères actuelles et fossiles. Actes du 2e Symp. intern, sur les Ombelli-
+          fères, « Contributions pluridisciplinaires à la systématique », Perpignan 1977. A. M. CAUWET-
+          MARC et J. CARBONNIER (Eds). CNRS et Centre Universitaire de Perpignan : 213-229.
+
+DURRUTY, M . , 1975. -- Clé des genres d'après les méricarpes. In : M. GUINOCHET et R. DE VILMO-
+          RIN (Eds), Flore de France. CNRS, Paris. Fasc. 2 : 406 et 474-476.
+
+GOROVOY, P. G . , 1966. -- Umbelliferae .Moris, from Primoryc and Priamurye. Nauka Publishers,
+          Moscow-Leningrad. 294 p.
+
+GOROVOY, P. G . , D . I ) . BASARGÏN, K . P. ULANOVA, S. A. VOLSKOVA et N. M. ZAITSEVA, 1978. --
+
+          Application of various methods (morphological-anatomical, chorological, phytochemical
+          and mathematical) in the study of Umbelliferae from the Soviet Far East Siberia. Actes
+          du 2e Symp. intern, sur les Ombellifères, « Contributions pluridisciplinaires à la systéma-
+          tique », Perpignan 1977. A. M . CAUWET-MARC et J. CARBONNIER (Eds). CNBS et Centre
+          Universitaire de Perpignan : 593-607.
+                                                                  -- 271 --
+
+GUYOT, M . , 1966. -- Les stomates des Ombellifères. Bull. Soc. bot. Fr., 113 : 244-273.
+
+   -- 1971. -- Phylogenetic and systematic value of stomata of the Umbelliferae. In :
+          V. H . IIEYWOOD (Ed.), The Biology and Chemistry of the Umbelliferae, London : 199-211.
+
+HEDBERG, O., 1957. -- Afroalpine Vascular Plants. Symb. bol. upsal., 15 (1) : 139.
+
+HIDEUX, M . , M . NIGAUD, C. PARDO et A. VAN DER PLUYM, 1978. -- Apports de l'analyse factorielle
+
+          des correspondances en Palynologie : cas de quelques Ombellifères. Actes du 2e Syrnp. intern,
+          sur les Ombellifères, « Contributions pluridisciplinaires à la systématique », Perpignan 1977.
+          A. M . CAUWET-MARC et J. CARBONNIER (Eds). CNRS et Centre Universitaire de Perpignan :
+          563-573.
+
+LEMESLE, R., 1958. -- Particularités histologiques du bois de quelques Peucedanum. Les divers
+          types de fibres aréolées dans le cvlindre ligneux des Ombellifères. C. r. hebd. Séanc. Acad.
+          Sci., Paris, 2A1 : 1128-1129.
+
+LEMESLE, R., et J. ROUSSEAU, 1959. -- Structure écologique des tiges de quelques Peucedanum
+          africains. Bull. Soc. Pharm. Bordeaux, 98 : 86-96.
+
+NIGAUD, M . , 1970. -- Contribution palynologique à l'étude du genre Peucedanum L . (Umbelliferae).
+          D.E.S. Fac. Sci. Paris. Texte ronéotypé.
+
+   ·-- 1974. -- Peucedanum kerstenii Engler. In : Pollen et Spores d'Afrique tropicale. Travaux
+          et documents de géographie tropicale. CEGET et CNRS, 16 : 254-255.
+
+   -- 1975. -- Micrographie de détail de la paroi pollinique chez le genre Peucedanum L. (Umbelli-
+          ferae). Bull. Soc. bot. Fr., Coll. Palynologie, 122 : 121-124.
+
+   -- 1978. -- Contribution palynologique à l'étude de l'espèce Peucedanum palustre Moench
+          (Umbelliferae). Actes du 2e Symp. intern, sur les Ombellifères, « Contributions pluridiscipli-
+          naires à la systématique », Perpignan 1977. A . M. CAUWET-MARC et J. CARBONNIER (Eds).
+          CNRS et Centre Universitaire de Perpignan : 231-241.
+
+PARDO, C , 1978. -- Contribution palynologique à la taxonomie des espèces espagnoles du genre
+          Seseli L. Actes du 2e Symp. intern, sur les Ombellifères, « Contributions pluridisciplinaires »,
+          Perpignan 1977. A. M. CAUWET-MARC et J. CARBONNIER (Eds). CNRS et Centre Universi-
+          taire de Perpignan : 243-253.
+
+   -- 1979. ·-- Estudio biosistematico del genera Seseli L. (Umbelliferae) en la Peninsula Ibérica.
+          (Thèse). Universidad Complutense de Madrid. Facultad de Biología. 308 p.
+
+REDURON, J. P., 1978. -- Contribution à l'étude morphologique du pétale chez les Ombellifères.
+          Actes du 2e Symp. intern, sur les Ombellifères, « Contributions pluridisciplinaires à la systé-
+          matique », Perpignan 1977. A. M . CAUWET-MARC et J. CARBONNIER (Eds). CNRS et Centre
+          Universitaire de Perpignan : 121-131.
+
+                                                                                           Manuscrit déposé le 4 mars 1980.
+                                                                     -- 272 --
+
+                                                                           PLANCHE I
+1 -- Peucedanum kerstenii (G X 20 000).
+2 -- Peucedanum kerstenii (G : 10 000).
+3 -- Peucedanum litorale (G y 24 000).
+4 -- Peucedanum litorale (G x 11 000).
+5 -- Peucedanum paucifolium (G x 21 000).
+(i -- Peucedanum rulhenicum (G X 22 000).
+PLANCHE I
+                                                                    -- 274 --
+
+                                                                      PLANCHE II
+1 -- Peucedanum schottii (G X 24 000).
+2 -- Peucedanum schottii (G X 12 000).
+3 -- Peucedanum lancifolium (G x 24 000).
+4 -- Peucedanum lancifolium (G X 23 000).
+5 -- Peucedanum palustre (G X 20 000).
+6 -- Peucedanum palustre (G x 11 000).
+PLANCHE II
+                                                            -- 276 --
+
+                                                                PLANCHE III
+Peucedanum officinale (G X 19 000).
+Peucedanum officinale (G x 22 000).
+Peucedanum paniculatum (G X 21 500).
+Peucedanum paniculatum (G X 11 000).
+Peucedanum sp. Montalba (G x 22 000).
+Peucedanum sp. Montalba (G X 11 000).
+^^^^^^^^^^^^^^^^^^^^
+^^^^^^
+
+                      PLANCHE  III
+                                               Bull. Mus. natn. Hist, nat., Paris, 4 e sér., 2, 1980,
+                                                                      section B, n° 3 : 279-292.
+
+                  La morphologie florale des espèces françaises
+
+                              de Peucedanum (Umbelliferae)
+
+               en liaison avec leur écologie et leur palynologie
+
+                                                                par Jean-Pierre REDURON *
+
+       Résumé. -- Les Ombellifères ont, de tout temps, été classées selon les caractères de leurs
+fruits. Cette préséance du fruit a conduit à laisser dans l'ombre bien d'autres organes, trop succinc-
+tement décrits, voire délaissés. C'est le cas des fleurs des Ombellifères qui, loin d'être uniformes,
+présentent une diversité nette, surtout marquée au niveau des pétales. Dans le présent travail,
+les espèces françaises du genre Pevcedanum L. ont été étudiées sous l'angle de leur morphologie
+florale, parallèlement aux recherches de M . NIGAUD en palynologie. Les vingt-neuf caractères
+distinctifs retenus permettent de mener des comparaisons : entre quatre taxons affins du groupe
+P. officinale L., entre des espèces hygrophiles, montagnardes, méditerranéennes. Chaque compa-
+raison est mise en parallèle avec les résultats de M . NIGAUD au niveau palynologique, de manière
+à aborder les liaisons palynologie -- morphologie florale --· écologie.
+
+       Abstract. ·-- The floral morphology of the french species ofPeucedanum (Umbelliferae) inrelation
+with ecology and palynology. -- A t the blooming stage, the Umbelliferae show many distinctive
+characters, although they were always classified according to their fruits. The floral morphology
+of the french species of Peucedanum are studied in parallel with the palynological work of M .
+NIGAUD. Twenty-nine distinctive floral characters permit the following comparisons between the
+closely four related taxa of Peucedanum officinale L., and between hygrophilous, mountain
+and mediterranean species. Relations between palynology --· floral morphology --· ecology
+are discussed.
+
+       Les Ombellifères ont, de tout temps, été classées selon les caractères de leurs fruits.
+Ceci a été clairement mis en évidence par les études de CONSTANCE (1971) qui indiquent
+la succession des classifications de cette famille. Cette préséance du fruit a conduit à laisser
+dans l'ombre bien d'autres organes qui, néanmoins, n'étaient pas dénués d'intérêt taxo-
+nomique.
+
+       CERCEAU-LARRIVAL (1962) a prouvé toute l'importance du pollen et de la plantule
+au cours d'une vaste étude réalisée au niveau de la famille. Ces travaux furent suivis et
+confirmés par de nombreux autres s'attachant surtout à l'aspect palynologique : CERCEAU-
+
+LARRIVAL ( 1 9 6 3 , 1 9 6 5 , 1 9 6 7 , 1 9 7 1 , 1 9 7 3 ) ; CERCEAU-LARRIVAL et DEROUET ( 1 9 7 5 ) ; CER-
+CEAU-LARRIVAL et ROLAND-HEYDACKER ( 1 9 7 6 , 1 9 7 8 ) ; H I D E U X et coll. (1978) ; NIGAUD
+( 1 9 7 0 , 1 9 7 5 , 1 9 7 8 ) ; PARDO (1978) ; V A N DER PLUYM et H I D E U X ( 1 9 7 7 ) . Parmi ceux-ci,
+
+        * Laboratoire de Palynologie de l'ÉPHÉ, Muséum national d'Histoire naturelle, 61, rue de Buffon,
+75005 Paris.
+                                                                   -- 280 --
+
+il faut noter les recherches de M. N I G A U D concentrées sur le genre Peucedanum. G U Y O T
+(1966) a démontré l'intérêt des types stomatiques.
+
+       Mais toutes ces études modernes, s'ajoutant aux descriptions détaillées des fruits,
+laissaient encore de côté les fleurs des Ombellifères qui, loin d'être uniformes, présentent
+une diversité nette, surtout marquée au niveau des pétales. Leur étude avait pourtant
+été suggérée par plusieurs auteurs : TOURNEFORT (1694) avait proposé l'utilisation des
+caractères du calice et de l'inflorescence, P . CUSSON (in JUSSIEU, 1 7 8 3 ) , des caractères
+du pétale, HOFFMANN ( 1 8 1 4 , 1 8 1 6 ) , des caractères de la corolle et du stylopode. PLAHN
+(1933) avait également insisté sur le bien-fondé de l'intégration des caractères floraux
+dans les classifications. Malgré tout cela, ces propositions ne furent appliquées que récem-
+ment. Les travaux de BELL ( 1 9 7 1 , 1 9 7 6 , 1 9 7 7 , 1 9 7 8 ) mettent en évidence la diversité des
+Ombellifères en ce qui concerne leur morphologie et biologie florales. D'autres études s'atta-
+chent aussi en partie à l'aspect floral : FROEBE ( 1 9 6 4 , 1 9 7 1 ) ; MAGIN ( 1 9 7 8 ) ; THEOBALD
+(1971). Dans de précédents travaux (REDURON, 1978), l'importance des caractères flo-
+raux en taxonomie avait été analysée, surtout en ce qui concerne le pétale. Une première
+liste de caractères distinctifs du pétale avait été dressée.
+
+       Le présent travail a eu pour objet l'étude des fleurs chez les espèces françaises de
+Peucedanum dans le b u t de faire ressortir leurs caractères distinctifs, ensuite, au niveau
+de quelques taxons choisis pour leur écologie, de discuter, à l'aide des résultats palynolo-
+giques de M. NIGAUD, des relations palynologie -- morphologie florale -- écologie.
+
+                                                    L E S FLEURS DES Peucedanum FRANÇAIS
+
+       Treize espèces de Peucedanum croissent sur le territoire français. Leurs ombelles,
+produites en été, portent à leur périphérie des fleurs hermaphrodites, légèrement plus grandes
+que les fleurs centrales qui sont mâles. La dissection de ces fleurs mâles et hermaphrodites
+a été exécutée pour chaque espèce sur plusieurs échantillons soigneusement redéterminés.
+Ont été également analysés, en c o m p l é m e n t , d e u x t a x o n s appartenant au groupe de P.
+officinale L., à savoir le P. stenocarpum Boiss. et R e u t . d'Espagne signalé en France, ainsi
+qu'une plante d'identité douteuse provenant de Montalba (Pyrénées-Orientales).
+
+       Ces dissections ont m o n t r é c o m b i e n les fleurs des Peucedanum, sous leur apparente
+uniformité, sont différentes les unes des autres. Les caractères distinctifs qui réalisent
+ces différences, regroupés dans le tableau I, sont répartis comme suit selon les pièces.
+
+       -- Le calice (1 caractère) : le calice présente un seul caractère distinctif, son contour
+général (cf. tabl. II) ; en effet, sa coloration et sa pilosité ne varient pas chez les Peuce-
+danum.
+
+        -- Le pétale ( 2 3 caractères) : il faut rappeler que, chez de nombreuses Ombellifères,
+les pétales des fleurs de la périphérie des ombelles sont sensiblement plus développés que
+c e u x des fleurs du centre. Nous retrouvons ce p h é n o m è n e chez les Peucedanum, mais de
+façon moins accentuée que chez certains autres genres tels que Heracleum, Orlaya, Artedia.
+Les pétales des fleurs mâles du centre ont une morphologie différente selon les espèces,
+tout comme ceux des fleurs périphériques ; nous trouvons sur chacun d'eux 1 1 caractères
+distinctifs. Ceux-ci s'adressent, non seulement à l'aspect d'ensemble du pétale, mais aussi
+                                                                  -- 281 --
+
+à la morphologie particulière de certaines de ses parties. En effet, les pétales des Peuce-
+danum, à l'instar de nombreuses Ombellifères, sont enroulés sur eux-mêmes et présentent
+un lobe médian réfléchi de forme variable (cf. tabl. III) ; leur apex est diversement échan-
+cré, leur base plus ou moins pédiculée. La nervure centrale du pétale se développe en carène
+axiale ou même quelquefois en véritable cloison qui soude entre eux la partie interne du
+pétale et le lobe médian réfléchi (cf. tabl. I I I ) . Ce sont autant de particularités m o r p h o l o -
+giques, différemment représentées sur les pétales du centre ou de la périphérie des ombelles,
+qui font du pétale le porteur d'un grand n o m b r e de caractères distinctifs (cf. tabl. I). S'ajoute
+aux caractères spécifiques des deux types de pétales, un caractère c o m m u n : la coloration
+qui est toujours identique du centre de l'ombelle jusqu'à sa périphérie.
+
+TABLEAU I . -- Morphologie florale des Peucedanum. Caractères distinctifs selon les pièces.
+
+                          PIECES   CARACTERES
+         Calice
+                                   . contour général
+           (1 caractère)
+ Pétale des fleurs du              . longueur totale                      se reporter
+  centre de 1 1 ombelle
+                                   . largeur totale                       aux
+           ( 1 1 caractères)
+                                   . longueur du lobe médian réfléchi
+Pétale des fleurs de la            . largeur du lobe médian réfléchi illustrations
+périphérie de 1 1 ombelle
+                                   . profondeur de l'échancrure           du
+           (11 caractères)
+                                   . contour général                      tableau 2
+Pétale                             . morphologie de 1'échancrure
+          (1 caractère commun aux
+         deux types)               . morphologie du lobe médian réfléchL
+
+Et&nine                            . nervation
+          (1 caractère)
+                                   . apex du lobe médian réfléchi         tableau 3
+Styles et stylopodes
+         (4 caractères)            , base du pétale
+
+                                   . longueur totale                       se reporter
+                                   . largeur totale                              aux
+                                   . longueur du lobe médian réfléchi
+                                   . largeur du lobe médian réfléchi      illustrations
+                                   . profondeur de l'échancrure                  du
+                                   . contour général
+                                   . morphologie de 11échancrure          tableau 2
+                                   . morphologie du lobe médian réfléch
+                                   . nervation                            tableau 3
+                                   . apex du lobe médian réfléchi
+                                   . base du pétale
+
+                                   . coloration
+
+                                   . coloration des anthères               se reporter
+                                                                               aux
+                                   . contour général du stylopode
+                                   . f o rme du s ty 1 op o de            illustrations
+                                   . débordement du stylopode                  du
+                                   . dynamique des styles
+                                                                          tableau 4
+                                                 -- 282 --
+TABLEAU II. -- Caractères distinctifs du calice et des pétales.
+
+CCGr : CALICE CoNToOfi. &HER/\l du SEPALE
+
+PÉTALES ·. MENSURATIONS                RAPPORTS
+
+      LoN&UEOH              LARGeuR.   LoNO-OEufL     PRopDAlMuft   LAR&oR.
+        ?ia.KLo             Pin,u*       u>e>eMeî>iM  Echmcrore    j^6e médian
+
+F E T A I . E S : Contour,    général
+
+PÉTALES ·· ECHMCRUKE                   9ECjP.EC
+
+f) : NULl£ ou TRÈS FA16LE              6 ·. L^ftGE
+
+C : N E T T E en V ou U                D : É T R O I T E voire R E F E R M É E
+                                    -- 283
+
+TABLEAU III. -- Caracteres distinctifs des pétales.
+
+VETA LES : ¿ O O £ NEI>IM           PIN GIN
+
+A ·· *JL>L b-SotTÜifiíÑlMLñiKE      D-.íoo^ta^AGoLfliil.B t-.C&tfiMGoWÍRe F. ETfíoír
+
+              F¡ : CfiRetíE AX'ALE          b: ClolSOfi AX'ftLE           i/J&I{/iDU4LISA>Jt
+PtTQLES : *JEfiV¿)T)or¿ : VEvELoPfehEfiiT       9. l o 6teS
+
+                                           3>'<J*/E Cl&SOAl               íVe, Mt
+
+h : P o / a J T E SihPlE KEPliEE    &. ECHMCdoRE c u x c
+                                           He Pli ou fJOtl
+                         O O A/OAj
+
+        FI : SESSI lb               6 r Í £ G £ f i £ r t f M r PÍDICUUÍ  CMTTTTNEALT "FIVICOIEE
+?ETftL£S · t>PiS£.
+                                      F Ô A , RFCA
+                                                                     -- 284 --
+
+        -- L'étamine (1 caractère) : la coloration des anthères est variable chez les Peuce-
+danum puisqu'elle passe du blanc pur au jaune, puis au vert franc avec de nombreuses
+teintes intermédiaires.
+
+        -- Les styles et le stylopode (4 caractères). Les Ombellifères présentent à la base
+des styles un disque nectarifère. Cette pièce, appelée stylopode, a une forme variable.
+Trois caractères distinctifs ont été retenus sur cette pièce. Les styles diffèrent par leur mode
+de croissance : ils sont directement dressés ou d ' a b o r d repliés entrecroisés (cf. tabl. I V ) .
+
+           TABLEAU I V . -- Caractères distinctifs du stylopode et des styles.
+
+STVLO?OÎ>B  . CONTOUR. GE.NER.RL.                                   SC6-
+
+           A ·· EHTIER.                      & : UN Peu lo&e           do
+                                                                    C : LO&E
+
+            \\\\\\W\M
+
+FF.7>I50OEPLAT B· càtiEOTMS                     e. C o a e D f w r  3: CO«/£ AIGO  E-. H £ M I S P T J  R I $ O E
+                                    APtflTi  SFo
+                                                                                               TOHSÉ
+
+STYLO?OVÉ   : FOFL-ME
+
+STYLOFOVE   : 2)E&OR-D£MEFIT                   SX>£
+
+                    f\ : NUL                    & : LE GFR                         C . tiST
+2>YFLF) HIÇUE 2>£S STYLES                      SDE
+
+H. Styles Repues_ £ N T / ? £ c f e > I S £ S                       8-. STYLéS 7>tR£CT£H£.UT
+           f>u^ £ CA RTE's - l&É-SSÉ S .
+                                                                   -- 285 --
+
+FIG. 1. -- Morphologie des pétales des Peucédans français : 1, pétale du centre de l'ombelle, appartenant
+       à une fleur mâle de Peucedanum austriacum (Jacq.) Koch ; 2-11, pétales de la périphérie des ombelles
+       provenant de fleurs hermaphrodites : 2, P. paniculatum Loisel. ; 3, P. austriacum (Jacq.) Koch ; 4, P.
+       oreoselinum (L.) Moench. ; 5, P. venetum (Sprengel) Koch ; 6, P. stenocarpum Boiss. et Beut. ; 7, P.
+       palustre (L.) Moench. ; 8, P. lancifolium Lange ; 9, P. ostruthium (L.) Koch ; 10, P. gallicum Latourr. ;
+       11, P. schottii Besser.
+                                                                     -- 286 --
+
+        Le tableau I relève les 29 caractères distinctifs qui ont été observés chez toutes les
+espèces du territoire français. D'autres caractères ont été remarqués de façon partielle au
+cours d'observations sur le terrain. Ce sont : l'odeur des fleurs, la coloration du pollen
+et du stylopode, le mode de déroulement des étamines, l'aspect c o m p a c t ou lâche des
+ombelles.
+
+       T A X O N O M I E : L ' e x a m e n des fleurs des Peucedanum français par l'observation des
+caractères précités montre que les treize espèces considérées ont toutes une morphologie
+florale différente. Certaines espèces s'individualisent par leur morphologie particulière :
+Peucedanum austriacum (Jacq.) K o c h montre des fleurs attractives pourvues de grands
+pétales périphériques d'un blanc pur (fig. 1 : 3), tandis q u ' à l ' o p p o s é P. paniculatum Loisel
+possède de petites fleurs enroulées sur elles-mêmes, jaunâtres (fig. 1 : 2). P. oreoselinum
+(L.) Moench. se démarque par ses pétales périphériques bien plus larges que longs (fig. 1 :
+4) et par son m o d e de croissance des styles. P. venetum (Sprengel) K o c h a un pétale péri-
+phérique pédicule, étroitement échancré et présentant un lobe médian réfléchi à apex
+d é c o u p é . Cette espèce est, du point de v u e floral, différent de P. alsaticum Vill. d o n t il est
+parfois considéré comme sous-espèce.
+
+x 20  >to
+
+FIG. 2 . -- Morphologie des stylopodes des Peucédans français : 1 , Peucedanum palustre (L.) Moench. ;
+      2, P. lancifolium Lange ; 3 , P. austriacum (Jacq.) Koch ; 4 , P. venetum (Sprengel.) Koch ; 5 , P. oreo-
+      selinum (L.) Moench. ; 6 , P. ostruthium (L.) Koch ; 7 , P. schottii Besser ; 8 , P. paniculatum Loisel. ;
+      9, P. gallicum Latourr.
+                                                                   -- 287 --
+
+                                                                ÉCOLOGIE ET PALYNOLOGIE
+
+       Ce travail ayant été mené de pair avec l'examen palynologique de M. NIGAUD, il a
+paru intéressant de comparer les résultats obtenus en palynologie avec ceux issus de l'ana-
+lyse florale. P o u r cela, o n t été choisies quelques espèces en fonction de leur écologie. Il
+s'agit des Peucedanum du groupe officinale, de d e u x espèces hygrophiles, de d e u x espèces
+montagnardes et de deux espèces méditerranéennes.
+
+       Le groupe de Peucedanum officinale L.
+
+       Ce groupe est constitué des t a x o n s suivants : P. officinale L. dont l'aire fragmentée
+s'étend à peu près sur t o u t le territoire ; P. paniculatum Loisel qui est un endémique corse ;
+P. stenocarpum Boiss. & R e u t . en principe limité à la Péninsule ibérique, mais dont o n
+suppose la présence dans les Corbières ; enfin, une population de plantes des Pyrénées-
+Orientales à Montalba qui ont été rapportées successivement aux trois espèces déjà nom-
+mées et dont l'identité est encore douteuse.
+
+       Du point de vue de la morphologie florale, ces plantes sont extrêmement affines. Elles
+possèdent un très grand n o m b r e de caractères floraux en c o m m u n . Cependant, o n peut dire
+que P. officinale L. montre une morphologie florale plus variable que celle des autres t a x o n s .
+Ceux-ci ont des morphologies nettement plus particulières, tendant à l'enroulement de
+la fleur. L'échantillon provenant de Montalba est indistinct de P. stenocarpum en m o r p h o -
+logie florale.
+
+        L'espèce P. officinale L., qui possède la plus grande aire de distribution et la plus forte
+amplitude écologique (elle croît aussi bien dans les terrains frais que sur des substrats
+très xériques mais, dans les deux cas, toujours avec fort ensoleillement), présente une mor-
+phologie variable. Par contre, P. paniculatum et P. stenocarpum, à aire plus restreinte et
+écologie plus stricte (faciès xériques uniquement), ont des caractères floraux moins variables
+mais plus compliqués, s'éloignant nettement du t y p e courant des Peucedanum par une
+tendance à l'enroulement de la fleur ; cette tendance se caractérise n o t a m m e n t par la
+courbure des pétales en cuiller cloisonnée, le développement d'un lobe médian réfléchi
+appliqué sur le stylopode, la coloration plus verte des pièces, le caractère aigu du stylopode.
+Ce « refermement » de la fleur sur elle-même pourrait être considéré, dans ce cas précis, c o m m e
+une adaptation aux conditions xériques, mais il faut noter que d'autres espèces de Peu-
+cedanum croissant dans les mêmes conditions ne la présentent pas. Du point de vue paly-
+nologique, la position respective de ces t a x o n s est t o u t à fait similaire : Peucedanum offi-
+cinale se caractérise par une morphologie b e a u c o u p plus simple du t e c t u m , tandis que
+P. stenocarpum et P. paniculatum élaborent un t e c t u m c o m p l e x e nettement plus parti-
+culier que celui de P. officinale.
+
+        Dans le cas précis des Peucedanum du groupe officinale, l'étude de la morphologie flo-
+rale confirme les résultats palynologiques. A l'aide de ces deux résultats convergents, il
+est permis de penser que l'aire fragmentée de l'espèce officinale donne naissance à des é c o -
+types distincts, dont le représentant insulaire corse est le plus individualisé.
+                                                                    -- 288 --
+
+        Deux espèces hygrophiles
+
+        Peucedanum lancifolium Lange et P. palustre M o e n c h sont deux espèces t a x o n o m i -
+quement éloignées mais écologiquement proches : ce sont deux hygrophytes qui croissent
+dans les marais ; la première est une espèce atlantique localisée dans les prairies humides
+proches de l'océan ; la seconde, bien plus continentale, est surtout présente dans le nord
+et l'est de la France.
+
+        Les caractères floraux de ces deux plantes présentent de réelles affinités : les pétales
+centraux des fleurs mâles sont simples et tout à fait identiques ; les pétales de la périphérie
+des ombelles sont également assez simples quoique plus échancrés chez P. palustre ; les
+stylopodes sont assez plats, un peu plus b o m b é s mais moins lobés chez P. lancifolium ;
+leurs anthères de couleur verte se distinguent de celles des autres Peucedanum qui sont
+blanches ou jaunes. La distinction des deux espèces au stade floral s'appuie surtout sur le
+calice, la coloration des pétales et, partiellement, les stylopodes. Les deux espèces consi-
+dérées sont peu diversifiées du point de vue floral et présentent de nettes affinités.
+
+        L'étude palynologique confirme la simplicité des caractères de ces deux espèces, qua-
+lité rencontrée à plusieurs reprises chez des plantes du milieu aquatique.
+
+        Deux espèces montagnardes
+
+       Peucedanum ostruthium K o c h et Peucedanum austriacum (Jacq.) K o c h sont d e u x
+espèces des montagnes. La première est répandue sur toutes les chaînes françaises dans
+les prairies d'altitude. La seconde ne se trouve qu'en Haute-Savoie dans les coteaux boisés.
+Ces deux espèces se distinguent nettement des autres Peucedanum français par leurs carac-
+tères floraux. Les pétales périphériques sont sensiblement élargis ; ils sont plats et profon-
+dément échancrés. Les stylopodes du type hémisphérique sont presque identiques. Les
+fleurs sont d'un blanc pur ou parfois roses.
+
+       Cette morphologie florale particulière chez les Peucedanum va dans le sens de l'étale-
+ment de la fleur et de son élargissement à la périphérie. Cette disposition doit conférer à
+la plante une possibilité d'attraction accrue vis-à-vis des insectes visiteurs ; mais ceci reste
+à vérifier sur le terrain. Ces convergences morphologiques, peut-être dues à un habitat
+semblable, ne font pas oublier l'éloignement taxonomique des deux espèces traduit par
+des caractères bien différents au niveau du pétale central des ombelles et du calice.
+
+       Si l'apport palynologique accuse les différences taxonomiques entre les deux espèces,
+la morphologie florale n'infirme pas ce résultat, car les deux plantes se rapprochent surtout
+par leur égal éloignement vis-à-vis du reste des Peucedanum ; mais elles conservent malgré
+cela quelques caractères floraux significativement différents. On ne trouve pas en paly-
+nologie, chez ces deux espèces, d'éléments morphologiques communs liés au caractère
+montagnard.
+
+       Deux espèces méditerranéennes
+
+       Peucedanum schottii Besser ex D C . est une espèce rare des c o t e a u x arides de l ' A u d e
+et des Alpes-Maritimes. Peucedanum venetum K o c h , également méditerranéen, o c c u p e
+des lieux boisés assez frais depuis les Alpes-Maritimes jusqu'aux Pyrénées-Orientales.
+Les deux espèces montrent une morphologie florale assez voisine pour l'aspect général
+                                                                  -- 289 --
+
+(colorations, pétales orbiculaires, stylopodes identiques) mais avec de nombreuses diffé-
+rences de détail. Alors que Peucedanum schotlii présente la morphologie florale courante
+des Peucedanum, Peucedanum venetum s'en éloigne plus franchement par une complication
+des caractères floraux, dans un sens d'ailleurs très différent de Peucedanum paniculatum
+Loisel également méditerranéen (cf. supra).
+
+        Il n'est pas possible de dégager des caractères floraux liés aux espèces méditerranéennes,
+ceux-ci semblant plutôt reliés à la biologie florale et à la t a x o n o m i e qu'au climat. L ' a p p o r t
+palynologique est ici en désaccord avec la m o r p h o l o g i e florale, car Peucedanum schottii
+présente un t e c t u m hautement organisé, tandis que Peucedanum venetum r é p o n d à un t y p e
+beaucoup plus simple.
+
+       La morphologie florale des Peucedanum s'est diversifiée en quatre directions : l'enrou-
+lement de la fleur (type paniculatum), l'étalement et l'attractivité de la fleur (en m o n t a g n e
+t y p e austriacum, et en plaine t y p e oreoselinum), l'étalement avec attractivité faible (type
+venetum). Les hygrophytes présentent des caractères morphologiques simples. Les o r o -
+phytes se distinguent par une morphologie florale particulière. Les méditerranéennes sem-
+blent plus diversifiées.
+
+       Les études palynologiques et florales sont concordantes dans l'analyse du groupe
+officinale et sur la simplicité des caractères chez les h y g r o p h y t e s . Elles divergent sur les
+caractères liés aux orophytes, ainsi que sur l'analyse des espèces méditerranéennes. Ces
+concordances et divergences ne doivent pas étonner : il est, en effet, assez fréquent d'obser-
+ver des espèces cumulant des caractères simples voire archaïques et d'autres hautement
+diversifiés ou spécialisés. Ceci établit bien le caractère des Ombellifères : une famille aux
+multiples facettes que seules des études pluridisciplinaires permettront de cerner.
+
+                                                           LISTE DES ÉCHANTILLONS ÉTUDIÉS
+
+Peucedanum alsaticum L. : Isère : Fallavaux près Corps, montagnes de la Salette, co'l. B. VERLOT
+       et Th. DELACOUR, 4-6.VIII.1869 (P.) -- Charente-Maritime : Courçon d'Aunis, sentiers et
+       clairières de la forêt de Benon, coll. A. BOUCHON, 14.VIII.1926 (P). -- Haut-Rhin : Westhalten,
+       colline du Lutzelberg, coll. J. P. REDURON, 21.VIII.1979 (coll. pers.). -- Haut-Rhin : Hirtz-
+       felden, orée de forêt, coll. J. P. REDURON, 1973. 08.29-2 (col1, pers.).
+
+Peucedanum austriacum (Jacq.) Koch : Haute-Savoie : Bellevaux, coll. PUGET in herb. GRENIER,
+       31.VII.1867 (P). -- Haute-Savoie : La Clusaz, vallée des Aravis en face du mont Etalaz ;
+       pente calcaire boisée, coll. ANDRÉ, in herb. LORET, 24.VIII.1883 (P). -- Haute-Savoie : Saint-
+       Jean-de-Tholome, au grand château ; endroits pierreux dans les broussailles (1 100 m), coll.
+       P. GAVE & C.SS.B., 26.VII.1889 (P). -- Haute-Savoie : Saint-Jean-de-Tholome au Chatelet,
+       coll. GAVE et de PARCEVAL, 24.VII.1890 (P). -- Haute-Savoie : La Clusaz, vers la porte des
+       Aravis, coll. E. G. CAMUS, VII.1902 (n° 1693) (P).
+
+Peucedanum carvifolia Vill. : Indre : Châteauroux, bord de route entre Méobecq et Saint-Gault,
+       coll. R. DODIN, 30.VII.1968 (coll. NIGAUD). -- Isère : montagne en dehors de Saint-Nizier,
+       coll. GAILI.ET, 28.VIII.1852, in herb. GRENIER (P). -- Aude : Belcaire, camp de la Corba, coll.
+       H. LORET, 2.VI.1858 (P). -- Jura : mont de Champvaur, coll. ROUGET, VIII.1851 (P).
+
+Peucedanum cervaria Lapeyr. : Indre-et-Loire : Piégu près Ligueil (Loches), coll. J. DELAUNAY,
+       29.VIII.1858 (P). -- Pyrénées-Orientales : Prades, bordure de fossé, ait. 600 m, coll. A. M. CAU-
+       WET, 17.IV.1960 (coll. CAUWET). -- Vienne : forêt de Moullières, lande du Pinail, petits monti-
+       cules, coll. J. P. REDURON, 1977. 08.02-2 (coll. pers.). -- Alpes-Maritimes : Grasse, coll. LORET
+       (P). -- Seine-et-Marne : forêt de Fontainebleau, au mont Morillon, coll. G. THURET, 19.VII.
+       1849 (P). -- Saône-et-Loire : La Grisière près de Mâcon, coll. PARCEVAL, 1867 (P). -- Haut-
+                                                                    -- 290 --
+
+       Rhin : Westhalten, colline du Lutzelberg, coll. J. P. REDURON, 21.VIII. 1979 (coll. pers.). --
+       Lot : Salièges près Montmurat en limite du Cantal, talus et fossé sur calcaire, coll. J. P. REDU-
+       RON, 12.VIII.1979 (coll. pers.).
+Peucedanum gallicum Latourr. : Rhône : Tassin, dans les bruyères, coll. C. BILLOT, VII-VI11.1858
+       (n° 994 bis) (P). -- Loire : Saint-Etienne, bois de la Touillouse (600 m), coll. A. LEGRAND,
+       23.VII, VI11.1874, in herb. SCHULTZ (P). -- Hauts-de-Seine : bois de Meudon, coll. G. HIBON,
+       VII.1904 (n° 1689) (P). -- Indre-et-Loire : Couziers, près de Fontevraud, sous-bois à proxi-
+       mité d'un étang, terrain sableux, coll. J. P. REDURON, 1974. 08.21-1 (coll. pers.).
+Peucedanum lancifolium Lange : Finistère : Landerneau : prairies humides en lisière des bois, coll.
+       THIEBAUT, 24.IX.1877 (n<> 2080) (Soc. Dauphin. 1879) (P). -- Loire-Atlantique : Saint-Lyphard,
+       à Breca en grande Brière, coll. DUPONT sans date (récolte récente ayrant moins de dix ans)
+
+         (coll. NIGAUD).
+
+Peucedanum officinale L. : Alpes-Maritimes : Nice, col de Brouis, coll. G. THURET, 18.VIII.1861
+       (P). -- Loire : Saint-Romain -- Le Puy, prairies sèches dp la plaine, coll. LEGRAND, VIII.1869
+       (P). -- England : East Kent, whitstable, clilTs at Tankerton, slopes facing the sea, coll.
+       JE LONSLEY, 03.VIII.1930 (coll. NIGAUD). -- Haut-Rhin : Steinbach près Thann, rochers
+       escarpés, coll. J. P. REDURON, 25.VIII.1979 (coll. pers.).
+
+Peucedanum oreoselinum (L.) Moench. : Haut-Rhin : entre Belfort et le Valdoye, sables des alluvions
+       modernes de la plaine, coll. BILLOT, 21.VIII.1851 (reçu PARISOT) (n° 783) (P). -- Hérault :
+       Le Caylar, coll. LORET, fin VII.1874 (P). -- Ariège : Foix, colline calcaire Saint-Sauveur, coll.
+       J. P. REDURON, 27.VII.1976 (coll. pers.). -- Hérault : Les Rives, plateau calcaire, coll. CHERON,
+       VIII.1977 (coll. pers.). -- Aveyron : Villefranche-de-Rouergue, coteaux schisteux dominant
+       l'Aveyron à l'est de la ville, coll. J. P. REDURON, 31.VII.1979 (coll. pers.).
+
+Peucedanum ostruthium (L.) Koch : Alpes de Savoie : au mont Vergy, coll. BOURGEAU, 28.VIII.
+       1848 (P). -- Piémont : Mont Cenis, taillis autour du lac, coll. ARVET-TOUVET, FAURE, PELLAT,
+       PERRET, 10.VII 1.1886 (n° 5248) (Soc. Dauphin.) (P). -- Puy-de-Dôme : Mont Dore, sentier
+       du Capucin, coll. L. CHEVALLIER, 18.VIII.1890 (P). -- Haute-Savoie : Mont Fleury (1 800 m),
+       coll. GAVE in herb. CAMUS, VII.1899 (P). -- Isère : La Bérarde, rocailles humides (1 740 m),
+       coll. DUCLOS, VII.1932 (P).
+
+Peucedanum palustre (L.) Moench. : Moselle : Bitche, tourbières, marais, prairies, ... sur le grès
+       vosgien, coll. SCHULTZ, 22.VI 11.1844 (n° 865) (P). -- Ain : Les Echets, marais tourbeux, coll.
+       DEPALLIÈRE, FRAY, VII.1881 (n° 3736) (Soc. Dauphin.) (P). -- Haut-Rhin : Wittelsheim,
+       sables aux abords des terrils de potasse, coll. J. P. REDURON, 1974, 07.28-1 (coll. pers.). --
+       Doubs : tourbières env. 2,25 km au sud-est de Frasne, coll. F. BADRÉ, 16.VHI.1975 (n° 1747)
+       (coll. pers.). -- Haut-Rhin : Richwiller, forêt du Nonnenbruch, sous-bois humide, coll.
+       J. P. REDURON, 24.VIII.1979 (coll. pers.).
+
+Peucedanum paniculatum Loisel. : Corse : Saint-Antonio, bord de route, coll. SOLEIROL, 1854 (P). --
+       Corse : Bastia, Le Pigno, versant occidental, coll. MASILLE, 21.VII.1865 (n° 95) (P). -- Corse :
+       Ghisoni, lieux arides, coll. JAHANDIEZ in herb. HIBON n° 1686, 30.VII.1914 (P). -- Corse :
+       Parc National, Poggio di Venaco, coll. CI.AUDIN & CASANOVA, été 1978 (coll. NIGAUD).
+
+Peucedanum scholtii Besser var. petraeum Noé : Alpes-Maritimes : Brauss, Brouiss et Grammont,
+       rochers très escarpés et très secs, coll. LORET sans date (P). -- Alpes-Maritimes : Fontan,
+       rochers du mont d'Anan, coll. REVERCHON & DERBEZ, 12.VIII.1886 (n° 237).
+
+Peucedanum sp. (gr. officinale) : Pyrénées-Orientales : Montalba, rochers secs sur la route d'Ille,
+       coll. A. M. CAUWET, IX.1978 (coll. NIGAUD).
+
+Peucedanum stenocarpum Boiss. et Reut. : Espagne : Cataluña : Pirineos, Gombreny, costas calca-
+       reas (900 m), coll. SENNEN, VII, X.1913 (MA 88561) (var. catalaunicum Pau). -- Espagne :
+       Logroño : Agoncillo, La Senezuela, coll. CÁMARA, 09.VI 11.1934 (MA 88556). -- Espagne :
+       Prov. Madrid, entre Villalba y las Zorreras (sierra de Guadarrama), coll. PEREZ, 10.VIII,
+       IX.1947 (MA 152463).
+
+Peucedanum venetum (Sprengel) Koch : Pyrénées-Orientales : Villefranche-de-Conflent, coll. GODRON
+       (in herb. GRENIER) 1851 (P). -- Espagne : Asturias, collines à Braña de Arriba, puerto de
+       Leitariogo, coll. BOURGEAU, 17.VI.1864 (P). -- Tirolia australis : Val Vestino, in lucis sol
+       calcares (800-1 000 m), coll. PORTA, VIII.1882 (in herb. DRAKE) (P). -- Bordighera hipuria ( ? ) ,
+       in olivetis, coll. BICKNELL, 02.X.1903 (in herb. CHEVALLIER) (P).
+                                                                   -- 291 --
+
+                                                                Remerciements
+
+       Je tiens à remercier M m e M.-Th. CERCEAU-LARRIVAL, Maître de Recherche au CNRS, pour son
+accueil et ses conseils avisés, M. M. HIDEUX, pour son aide très précieuse, mon ami M. M. NIGAUD,
+pour sa collaboration sympathique et suivie, ses critiques pleines de discernement, M l l e L . DEROUET
+et M m e M.-C. CARBONNIER, techniciennes du Laboratoire de Palynologie. Je remercie également
+M. le Pr J.-F. LEROY, Directeur du Laboratoire de Phanérogamie du Muséum de Paris,'qui m'a
+permis de consulter les collections d'herbier, et M l l e M. CHALOPIN qui a effectué pour moi de nom-
+breux prélèvements. Je ne saurais oublier, enfin, tous ceux qui m'ont lait connaître des stations
+naturelles ou qui m'ont récolté des échantillons sur le terrain : M. F. BADRÉ, du Muséum de Paris,
+
+M m e A.-M. CAUWET-MARC, de l'Université de Perpignan, MM. P. CHÉRON, R . PATOUILLET et
+V. RASTETTER.
+
+                                            RÉFÉRENCES BIBLIOGRAPHIQUES
+
+BELL, C. R., 1971. -- Breeding Systems and floral biology of the Umbelliferae. In : V. H HEYWOOD
+          (ed.). The Biology and Chemistry of the Umbelliferae. Bot. J. Linn. Soc, 64, suppl. 1 :93-107.
+
+   -- 1976. -- Inflorescence shape and pollinator activity in Daucus carota L. (Apiaceae). Ass.
+          Southeastern Biologists Bull., 23 : 42 (abstract).
+
+   -- 1977. -- Umbellet number and pollination efficiency in Daucus carota L. (Apiaceae). Ass.
+          Southeastern Biologists Bull., 24 : 36 (abstract).
+
+BELL, C. R., & A. H. LINDSEY, 1978. -- The Umbel as a reproductive unit in the Apiaceae. Actes
+          du 2e Symp. intern, sur les Ombellifères, Perpignan 1977 : 739-747.
+
+CERCEAU-LARRIVAL, M.-Th., 1962. -- Plantules et pollens d'Ombellifères. Leur intérêt systématique
+          et phylogénique (Thèse). Mém. Mus. natn. Hist, nat., n. s., Botanique, 14 : 166 p .
+
+   -- 1963. -- Le pollen d'Ombellifères méditerranéennes. 2 -- Tordylineae Drude, Pollen Spores,
+          5 (2) : 297-323.
+
+   -- 1965. -- Le pollen d'Ombellifères méditerranéennes. 3 -- Scandicineae Drude. 4 -- Dauceae
+          Drude. Pollen Spores, 7 : 35-62.
+
+   -- 1967. -- Corrélations de caractères chez les grains de pollen d'Ombellifères. Review of Paleo-
+           botany and Palynology, 4 : 311-324.
+
+   -- 1971. -- Morphologie pollinique et corrélations phylogénétiques chez les Ombellifères.
+          In : V. H. HEYWOOD (éd.). The biologv and chemistry of the Umbelliferae. Bot. J. Linn.
+          Soc, 64, suppl. 1 : 109-156.
+
+   -- 1973. -- Corrélations de caractères pour une étude biologique du genre Eryngium L. C. r.
+          96e Congr. natn. Soc. Savantes, Toulouse, 5 : 451-477.
+
+CERCEAU-LARRIVAL, M.-Th., & L . DEROUET, 1975. -- Apport de la microscopie électronique à
+          balavage à la connaissance de l'ultrastructure de l'exine de pollens d'Ombellifères. Bull.
+          Soc. bot. Fr., Coll. Palynologie, 122 : 93-95.
+
+CERCEAU-LARRIVAL, M.-Th., & F . ROLAND-HEYDACKER, 1976. -- The evolutionary significance
+          of the ultrastructure of the exine in Umbelliferous pollen grains. In : I. K . FERGUSON and
+          J. MULLER (ed.). « The evolutionary significance of the exine ». Linn. Soc. Symp. ser. n° 1 :
+           431-498.
+
+CERCEAU-LARRIVAL, M.-Th., & F . ROLAND-HEYDACKER, 1978. -- Apport de la palynologie à la
+          connaissance des Ombellifères actuelles et fossiles. Actes du 2e Symp. intern, sur les Ombelli-
+          fères, Perpignan 1977 : 213-229.
+
+CONSTANCE, L., 1971. -- History of the classification of Umbelliferae (Apiaceae). In :
+          V. H. HEYWOOD (ed.), The Biologv and Chemistrv of the Umbelliferae. Bot. J. Linn. Soc,
+          64, suppl. 1 : 1-12.
+                                                                   -- 292 --
+
+FROEBE, H. A., 1964. -- Die Blütenstände der Saniculoideen. Eine vergleichend morphologische
+          und entwicklungsgeschichtliche Untersuchung. Beitr. Biol. Pfl., 40 : 325-388.
+
+   -- 1971. -- Inflorescence structure and evolution in Umbelliferae. In : V . H. HEYWOOD (ed.),
+          The Biology and Chemistry of the Umbelliferae. Bot. J. Linn. Soc., 64, suppl. 1 : 157-176.
+
+GUYOT, M . , 1966. -- Les stomates des Ombellifères. Bull. Soc. bot. Fr., 113 : 244-273.
+
+GUYOT, M . , A. M . CAUWET-MARC, M.-Th. CERCEAU-LARRIVAL, V . H. HEYWOOD, M . NIGAUD,
+
+          J. P . REDURON & C. SAENZ DE RIVAS, 1978. -- Données morphologiques chez les Ombelli-
+          fères. Actes du 2e Symp. intern, sur les Ombellifères, Perpignan 1977 : 113-120.
+
+HIDEUX, M . , M . NIGAUD, C. PARDO & A. VAN DER PLUYM, 1978. -- Apport de l'analyse factorielle
+
+          des correspondances en Palynologie : cas de quelques Ombellifères. Actes du 2e Symp.
+          intern, sur les Ombellifères, Perpignan 1977 : 563-573.
+HOFFMANN, G. F., 1814. -- Genera plantarum umbelliferarum. Moscow. 181 p.
+   ·-- 1816. -- Plantarum umbelliferarum genera. Moscow. 222 p .
+JUSSIEU, A. L. DE, 1783. -- Éloge de M. CUSSON. Hist. Soc. Roy. méd.
+MAGIN, N . , 1978. -- Blütenmorphologische U n t e r s u c h u n g e n an Actinotus Lab. (I lydrocotyloideae)
+          unter besonderer berücksichtigung des gynoeceums. Actes du 2e Symp. inlern, sur les Ombelli-
+          fères, Perpignan 1977 : 749-764.
+
+MANDENOVA, I. P., J. CARBONNIER, M. C. CARBONNIER-JARREAU, A. M. CAUWET-MARC, M.-Th. CER-
+             CEAU-LARRIVAL, M. GUYOT, D. MOLHO & J.-P. REDURON, 1978. -- Contribution à l'étude
+
+           du genre Tetrataenium (DC.) Manden. Actes du 2e Symp. intern, sur les Ombellifères, Perpi-
+           gnan 1977 : 675-725.
+NIGAUD, M., 1970. -- Contribution palynologique à l'étude du genre Peucedanum L. (Umbelliferae).
+          D.E.S. Fac. Sei. Paris. Texte ronéotypé.
+   -- 1975. -- Micrographie de détail de la paroi pollinique chez le genre Peucedanum L. (Umbelli-
+          ferae). Bull. Soc. bot. Fr., Coll. Palynologie, 122 : 121-124.
+   -- 1978. -- Contribution palynologique à l'étude de l'espèce Peucedanum palustre Moench
+          (Umbelliferae). Actes du 2e Symp. intern, sur les Ombellifères, Perpignan 1977 : 231-241.
+PARDO, C , 1978. ·-- Contribution palynologique à la taxonomie des espèces espagnoles du genre
+          Seseli L. Actes du 2e Symp. intern, sur les On. bellifères, Perpignan 1977 : 243-253.
+PLAHN, 1933. -- Zur Systematik der Umbelliferen. Bepertorium nov. spec. Begni veg., 31 : 313-320.
+REDURON, J. P., 1978. -- Contribution à l'étude morphologique du pétale chez les Ombellifères.
+          Actes du 2e Symp. intern, sur les Ombellifères, Perpignan 1977 : 121-131.
+THEOBALD, W . L., 1971. -- Comparative anatomical and developmental studies in the Umbelli-
+          ferae. In : V . H. HEYWOOD (ed.), The Biology and Chemistry of the Umbelliferae. Bot. J.
+          Linn. Soc., 64, suppl. 1 : 177-197.
+TOURNEFORT, J. P., 1694. -- Eléments de Botanique. 3 vol. Paris.
+VAN DER PLUYM, A., & M. HIDEUX, 1977. -- Application d'une méthodologie quantitative à la
+          palynologie d'Eryngium maritimum (Umbelliferae). Plant. Syst. Evol., 127 : 55-85.
+
+                                                                                           Manuscrit déposé le 4 mars 1980.
+
+                                                                                  Achevé d'imprimer le 31 décembre 1980.
+
+                                                                        IMPRIMERIE NATIONALE
+
+                                                                0 564 003 5
+                        .MÉMOIRES DU MUSÉUM NATIONAL D'HISTOIRE NATURELLE
+
+                                         Collection à périodicité irrégulière. Parait depuis 1935.
+           A partir de 1950, les Mémoires se subdivisent en quatre séries spécialisées. (Format in-4°.)
+
+                                                                         A -- ZOOLOGIE
+
+       Dernières parutions
+T. 1 0 7 -- BEVERIDGE (Ian). -- A taxonomic revision of the genera Cittolaenia Riehm, 1 8 8 1 , Ctenolaenia
+
+       Railliet, 1 8 9 3 , Mosgovoyia Spasskii, 1 9 5 1 , and Pseudocittotaenia Tenora, 1 9 7 6 (Cestoda : Anoplocepha-
+       lidae). 1 9 7 8 , 6 4 p., 1 0 2 fig.
+T. 1 0 8 -- PEIGNOUX-DEVILLE (Jacqueline). -- Rôle du corps ultimobranchial (C.U.B.) dans la régulation
+       du métabolisme calcique chez les Poissons Téléostéens. 1 9 7 8 , 7 1 p., 1 7 tabl., 1 1 pl. h.-t.
+T. 1 0 9 -- Auteurs multiples (Loïc MATILE, éd.). -- Faune entomologique de l'archipel des Comores.
+       1 9 7 8 , 3 8 8 p., fig., pl.
+T. 1 1 0 -- PELLETIER (Jean). -- Révision des espèces du genre Marcina F. Walker (Lépidoptères, Noc-
+       tuidae, Ophiderinae). 1 9 7 8 , 1 4 3 p., 1 5 8 fig., 6 pl. h.-t.
+T. 1 1 1 --· HEIM (Jean-Louis). -- Les squelettes de la sépulture familiale de Buffon à Montbard (Côte d'Or).
+       Étude anthropologique et génétique. 1 9 7 9 , 7 9 p., 2 2 tabl., 1 9 fig., 8 pl. h.-t.
+T. 1 1 2 -- GUINOT (Danièle). -- Données nouvelles sur la morphologie, la phylogenèse et la taxonomie
+       des Crustacés Décapodes Brachyoures. 1 9 7 9 , 3 5 4 p., 7 0 fig., 2 7 pl. h.-t.
+T. 1 1 3 -- BAYSSADE-DUFOUR (Christiane). -- L'appareil sensoriel des Cercaires et la systématique des
+       Trématodes digénétiques. 1 9 7 9 , 8 1 p., 4 2 fig.
+
+       A paraître
+T. 1 1 4 -- BOUCHER (Guy). -- Facteurs d'équilibre d'un peuplement de Nématodes des sables sublitto-
+
+       raux.
+T. 1 1 5 -- Atlas des Cercaires.
+T. 1 1 6 -- BETSCH (Jean-Marie). -- Éléments pour une monographie des Collemboles Symphypléones
+
+       (Hexapodes, Aptérygotes).
+T. 1 1 7 -- ILLG (Paul L.) & DUDLEY (Patricia L.). -- The family Ascidicolidae and its subfamilies (Cope-
+
+       poda, Cyclopoida), with descriptions of new species.
+T. 1 1 8 -- TILLIER (Simon). -- Gastéropodes terrestres et fluviátiles de Guyane française.
+
+                                                                        B -- BOTANIQUE
+
+T. 26 -- Diptérocarpacées. Taxonomie -- Phylogénie -- Écologie. (Entretiens du Muséum, Paris 14-17 juin
+       1977.) 1979, 162 p., fig. pl.
+
+                                                             C -- SCIENCES DE LA TERRE
+
+       Dernières parutions
+T. 41 -- GAUDANT (Mireille). -- Recherches sur l'anatomie et la systématique des Cténothrissiformes
+
+       et des Pattersonichthyiformes (Poissons Téléostéens) du Cénomanien du Liban. 1978, 124 p., 57 fig.,
+       10 pl. h.-t.
+T. 42 -- LANGE-BADRÉ (Brigitte). -- Les Créodontes (Mammalia) d'Europe occidentale de l'Éocène
+       supérieur à l'Oligocène supérieur. 1979, 249 p., 32 fig., 48 gr., 30 pl. h.-t.
+T. 43 -- Recherches océanographiques dans l'océan Indien. (Entretiens du Muséum, Paris 20-22 juin
+       1977.) 1979, 253 p., fig. pl.
+
+       A paraître
+T. 44 -- GAYET (Mireille). -- Contribution à l'étude anatomique et systématique des Poissons Céno-
+
+       maniens du Liban anciennement placés dans les Acanthoptérygiens.
+
+                                                         D -- SCIENCES PHYSICO-CHIMIQUES
+
+T. 4 -- MERCIER (Christiane). -- Synthèse de produits naturels dérivés du noyau diméthyl-2 2,chro-
+       mène. 1 9 6 9 , 70 p.
+
+                           Ouvrages disponibles au Service de Vente des Publications du Muséum,
+                                                   38, rue Geoffroy Saint-Hilaire, 75005 Paris
+

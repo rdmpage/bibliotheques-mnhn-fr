@@ -1,0 +1,2999 @@
+                                                                                                                                                                                 ISSN 0181-0634
+
+           BULLETIN
+ du MUSEUM NATIONAL
+d'HISTOIRE NATURELLE
+
+                                                                           PUBLICATION TRIMESTRIELLE
+
+                                                                SECTION B
+
+                           botanique
+
+                                 biologie et écologie
+                                                végétales
+
+                                           phytochimie
+
+4e SERIE T. 1 1979  4
+
+                                                     Décembre 1979
+                                               BULLETIN
+                                                       du
+
+                 MUSÉUM NATIONAL D'HISTOIRE NATURELLE
+
+                                               57, rue Cuvier, 75005 Paris
+
+                     Directeurs : P R S E . - R . BHYGOO et M . VACHON.
+                     Comité de rédaction : M M . et M N I E B M . - L . BAUCHOT, E . - R . BRYGOO, J . DORST,
+
+                             P. D U P É R I E R , C. D U P U I S , J . F A B R I È S , J . - C . F I S C H E R , N. H A L L E , J . - L . H A M E L ,
+                             S . J O V E T , R . L A F F I T T E , Y . L A I S S U S , C. L É V I , D. M O L H O , C. M O N N I O T ,
+                             M. VACHON.
+
+       Fondé en 1895, le Bulletin du Muséum d'Histoire naturelle est devenu à partir de 1907 :
+Bulletin du Muséum national d'Histoire naturelle. Des travaux originaux relatifs aux diverses
+disciplines scientifiques représentées au Muséum y sont publiés. 11 s'agit essentiellement
+d'études de Systématique portant sur les collections conservées dans ses laboratoires, mais
+la revue est également ouverte, depuis 1970 surtout, à des articles portant sur d'autres
+aspects de la Science : biologie, écologie, etc.
+
+       La i r e série (années 1895 à 1928) comprend un tome par an (t. 1 à 34), divisé chacun en
+six fascicules regroupant divers articles.
+
+       La 2e série (années 1929 à 1970) a la même présentation : un tome (t. 1 à 42), six fasci-
+cules par an.
+
+       La 3e série (années 1971 à 1978) est également bimestrielle. Le Bulletin est alors divisé
+en cinq Sections et les articles paraissent par fascicules séparés (sauf pour l'année 1978
+où ils ont été regroupés par fascicules bimestriels). Durant ces années chaque fascicule est
+numéroté à la suite ( n 0 8 1 à 522), ainsi qu'à l'intérieur de chaque Section, soit : Zoologie,
+n 0 8 1 à 356 ; Sciences de la Terre, n 0 8 1 à 70 ; Botanique, n 0 8 1 à 35 ; Écologie générale,
+n 0 8 1 à 42 ; Sciences physico-chimiques, n 0 8 1 à 19.
+
+       La 4e série débute avec l'année 1979. Le Bulletin est divisé e n trois Sections : A : Zoolo-
+gie, biologie et écologie animales -- B : Botanique, biologie et écologie végétales, phyto-
+chimie -- C : Sciences de la Terre, géologie et paléontologie. La revue est trimestrielle ;
+les articles sont regroupés en quatre numéro par an pour chacune des Sections ; un tome
+annuel réunit les trois Sections.
+
+                                                                   S'adresser :
+
+            -- pour les échanges, à la Bibliothèque centrale du Muséum national d'Histoire naturelle,
+                        38, rue Geoffroy Saint-Hilaire, 75005 Paris, tél. 331-71-24 ; 331-95-60.
+
+            -- pour les abonnements et achats au numéro, au Service de vente des Publications
+                        du Muséum, 38, rue Geoffroy Saint-Hilaire, 75005 Paris, tél. 331-71-24 ; 331-95-60.
+                        C.C.P. Paris 9062-62.
+
+            -- pour tout ce qui coneerne la rédaction, au Secrétariat du Bulletin, 57, rue Cuvier,
+                        75005 Paris, tél. 587-19-17.
+
+                                                    Abonnements pour l'année 1979
+
+               ABONNEMENT GÉNÉRAL : 640 F.
+
+            SECTION A : Zoologie, biologie et écologie animales : 490 F.
+            SECTION B : Botanique, biologie et écologie végétales, phytoehimie : 100 F.
+            SECTION C : Sciences de la Terre, géologie et paléontologie : 310 F.
+BULLETIN DU MUSÉUM NATIONAL D'HISTOIRE  NATURELLE
+
+4e série, 1, 1979, section B (Botanique, Biologie et Écologie végétales, Phytochimie), n° 4.
+
+                                                       SOMMAIRE
+
+C O Û T É . -- Cyanophycées planctoniques du bassin de la Seine
+C A R D I N A L . -- Algues planctoniques du bassin de la Seine (à l'exception des Cyano-
+
+  phycées et des Diatomées)
+
+ S E V R I N - R E Y S S A C , M. C. M AC n A D O , M . I.. M O T T A S C H U T Z E , S. G A S P A R l i i l l A S ,
+
+   I. C O S T A D E L I M A , C. A R A U J O L I M A et C. P . E S T E V E S . -- Biomasse et p r o d u c t i o n
+  du phytoplancton de la baie de Guanabara (Etat de Rio de Janeiro, Brésil)
+  et du secteur océanique adjacent. Variations de mai à juillet 1978
+
+                                                   1. 2 0
+                                        Bull. Mus. natn. Hist, nat., Paris, 4 e sòr., 1, 1979,
+                                                    section B, n° 4 : 267-283.
+
+         Cyanophycées planctoniques du bassin de la Seine
+
+                                                      par Alain COÛTÉ *
+
+       Résumé. -- Dans ce travail, 55 Cyanophycées sont décrites de la Seine et de deux de ses affluents,
+la Marne et l'Yonne. Douze genres différents ont été déterminés : Merismopedia (4 sp.), Micro-
+cystis (5 sp.), Aphanothece (2 sp.), Gloeocapsa (1 sp.), Chroococcus (5 sp.), Coelosphaerium (1 sp.),
+ Gomphosphaeria (1 sp.), Aphanizomenon (1 sp.), Anabaena (5 sp.), Oscillatoria (19 sp.), Pseudana-
+baena (4 sp.), Lyngbya (7 sp.). Une variété nouvelle est signalée.
+
+      Abstract. -- 55 different Cyanophyceae have been collected in river Seine and two affluents
+Marne and Yonne. Twelve genera have been described : Merismopedia (4 sp.), Microcystis (5 sp.),
+Aphanothece (2 sp.), Gloeocapsa (1 sp.), Chroococcus (5 sp.), Coelosphaerium (1 sp.), Gomphosphaeria
+(1 sp.), Aphanizomenon (1 sp.), Anabaena (5 sp.), Oscillatoria (19 sp.), Pseudanabaena (4 sp.),
+Lyngbya (7 sp.). A new variety is proposed.
+
+       Cette étude a été réalisée sur l'ensemble du bassin de la Seine, en amont de Paris, les
+récoltes ayant été faites aussi bien dans la Seine que dans la Marne et l'Yonne. Quatorze
+stations ont été choisies :
+
+      -- sept sur la Seine : Bar/Seine = SI, barrage Seine = S2, Villacerf = S3, Montereau/Seine =
+S4, Corbeil = S5, Orly = S6, Ivry = S7 ;
+
+      -- cinq sur la Marne : Roche/Marne = Ml, barrage Marne = M2, Frignicourt = M3, Meaux =
+M4, Saint-Maur = M5 ;
+
+      -- deux sur l'Yonne : barrage Yonne = Y, Montereau Yonne = Y2.
+
+       La situation géographique de ces différentes localités est donnée sur la carte en annexe.
+       En rivière, les prélèvements, de cinq à dix litres, ont été concentrés par centrifugation
+et, après rejet de la plus grande partie du surnageant, fixés à la glutaraldéhyde à 2 % .
+Dans les lacs de barrage, les récoltes ont été réalisées au fdet à plancton.
+       Cette étude s'étale sur une année entière, depuis juillet 1976 jusqu'à juillet 1977. Les
+mois et les années sont indiqués comme suit : janvier : Jr, février : F, mars : Ms, avril : Al,
+mai : M, juin : J, juillet : J t , août : A, s e p t e m b r e : S, octobre : O, n o v e m b r e : N, décembre : D,
+1976 = 76 et 1977 = 77.
+       Pour chaque station, deux prélèvements mensuels ont été effectués, sur les rivières,
+par le personnel du Service de Contrôle des Eaux de la ville de Paris et, pour les lacs, par
+le personnel de la Société Lyonnaise des Eaux. Nous les remercions tous vivement pour leur
+
+       * Laboratoire de Cryptogamie du Muséum national d'Histoire naturelle, 12, rue de Buffon, 75005 Paris.
+L.A. n» 257 (CNBS).
+                                                             -- 268 --
+collaboration efficace. Nous adressons aussi nos vifs remerciements à l'Agence financière
+du Bassin Seine-Normandie qui a financé le c o n t r a t d ' é t u d e dans lequel s'intègre ce t r a v a i l
+et qui concernait la recherche de la géosmine ainsi que des organismes qui sécrètent ce pro-
+duit donnant un goût désagréable de vase à l'eau potable.
+
+                  FIG. 1. -- Carte simplifiée de la région où ont été effectués les prélèvements.
+                 Le barrage de Panessières (Y2), situé nettement plus au sud, n'est pas indiqué.
+
+                                               Ordre : CHROOCOCCALES
+                                               Famille : CHROOCOCCACEAE
+
+                                                     Merismopedia Meyen
+Merismopedia elegans A. B r a u n (pl. I, 1). -- Cellules : 1, 3-4 u,m ; L, 5-6 u.m. Cosmopolite.
+
+              S2 : A, 76.
+Merismopedia glauca (Ehrbg.) Näg. (pl. I, 2). -- Cellules : 1, 2-3 u,m ; L, 3-4 u,m. Cosmo-
+
+       polite.
+             M2 : J t , 76 -- M5 : S, 76.
+
+Merismopedia punctata Meyen (pl. 1 , 3 ) . -- Cellules : 1, 1,5-2 u,m ; L : 2-3 u,m. Cosmopolite.
+             Y2 : S, 0 , 76 -- M5 : N, 76.
+                                                             -- 269 --
+
+Merismopedia tenuissima L e m m . (pl. I, 4). -- Cellules : 1, 1-1,5 p,m ; L, 1,5-2 jxm. Cosmo-
+       polite.
+              SI : Jt, 76 -- Ml : 0,76 -- M3 : Jt, 76 -- Y2 : A, 76.
+
+                                                     Microcystis Kutzing
+
+Microcystis aeruginosa K u t z i n g (pl. I, 5). -- Cellules : diamètre, 2-6 |im. Cosmopolite.
+              51 : A, 76 -- S2 : A, S, 0 , N, D, 76 ; J t , 77 -- S3 : A, 76 -- S4 : A, 76 -- S5 :
+              A, S, 0 , N, 76 -- S6 : S, N, 76 ; J, 77 -- S7 : A, S, 76 -- M2 : J t , A, S, 0 , N,
+              76 ; M, J, 77 -- M3 : A, 76 -- Y : A, S, 0 , N, D, 76 ; Jr, F, M, J, 77.
+
+Microcystis delicatissima (W. & G. S. West) S t a r m a c h (pl. I, 6) ( = Aphanocapsa delicatis-
+       sima W . & G. S. W e s t ) . -- Cellules : diamètre, 0,5-0,7 u,m. Cosmopolite.
+              52 : A, S, O, 76 -- S3 : S, O, 76 ; Ms, 77 -- S4 : J t , A, O, 76 ; M, 77 -- S5 :
+             J t , A, S, O, D, 76 ; Ms, 77 -- S6 : S, O, 76 ; J, 77 -- S7 : S, O, N, 76 ; Ms, 77 --
+             M l : S, O, 76 -- M2 : J t , 0 , 76 ; M, 77 -- M3 : A, 76 ; J, 77 -- M4 : A, S, 0 , N,
+              76 ; Ms, A l , 77 -- M5 : A, 0 , N, 76 ; F, Ms, 77 -- Y : A, S, N, 76 -- Y2 : A,
+              0 , 76 ; Ms, Jt, 77.
+
+Microcystis elachista var. planctonica (G. M. Smith) Elenkin (pl. I, 7) ( = Aphanocapsa
+       elachista var. planctonica G. M. Smith). -- Cellules : diamètre, 1,5-2 u,m. Cosmopolite.
+             S4 : S, 76 -- S5 : A, S, 0 , N, 76 -- S6 : A, S, 0 , D, 76 ; Ms, 77 -- S7 : A, S, 0 , N,
+             D, 76 ; Ms, 77 -- M3 : J t , 76 -- M4 : A, 76 -- M5 : A, 76 -- Y2 : J t , A, S, 0 , D,
+             76.
+
+Microcystis incerta L e m m . emend. S t a r m a c h (pl. I. 8) ( = Microcystis pulverea var. incerta
+       (Lemm.) Crow). -- Cellules : diamètre, 1 u.m. Cosmopolite.
+              51 : A, 76 -- S2 : A, S, 76 -- S3 : J t , S, 76 -- S4 : A, S, 76 -- S5 : A, S, 0 , 76 ;
+              F, 77 -- S6 : A, S, 0 , D, 76 ; F, 77 -- S7 : A, S, D, 76 ; Jr, F, Ms, 77 -- M l :
+             J t , A, S, 0 , N, 76 -- M2 : J t , A, 0 , 76 -- M3 : J t , A, 76 ; J, 77 -- M4 : J t , A, S,
+             0 , N, 76 ; Jr, F, 77 -- M5 : J t , A, S, N, D, 76 ; Jr, 77 -- Y2 : J t , A, S, 0 ,
+             76 ; Al, M, 77.
+
+Microcystis wesenbergii K o m a r e k (pl. I, 9). -- Cellules : diamètre, 4-7 u.m. Cosmopolite.
+             52 : A, S, 76 -- S5 : A, D, 76 -- S6 : A, S, 76 ; F, 77 -- S7 : A, S, D, 76 -- M2 :
+              J t , A, S, 0 , 76 -- M3 : A, S, 76 -- M4 : S, 76 -- Y2 : S, 76.
+
+                                                     Aphanothece Nâgeli
+
+Aphanothece caslagnei (Bréb.) R a b e n h . (pl. I, 10). -- Cellules : I, 1-2 p,m ; L, 2-2,5 u,m.
+       Nos échantillons ont des cellules un peu plus petites que le t y p e (2-3,6 [xm 1 / 4-8 p,m L).
+       Cosmopolite.
+             Ml : N, 76 -- Y2 : Jr, 77.
+                                                             -- 270 --
+
+Aphanothece nidulans P . Richter (pl. I, 11). -- Cellules : 1, 0,7-1 u.m ; L, 1,5 |xm. Nos échan-
+      tillons ont des cellules plus courtes que le t y p e (3,5 [ira). Cosmopolite.
+             S3 : N, 76.
+
+                                                     Gloeocapsa Kutzing
+
+Gloeocapsa kutzingiana Nâg. (pl. I, 12). -- Cellules : 1, 3-4,5 [xm ; L, 4-6 [xm. Cosmopolite.
+             M5 : J , 77.
+
+                                                      Chroococcus Nâgeli
+
+Chroococcus limneticus L e m m . (pl. I, 13). -- Cellules : diamètre, 5-7 [xm. Cosmopolite.
+             S3 : N, 76 -- S4 : A, 76 -- S5 : A, S, O, 76 ; Jr, J, 77 -- S6 : J t , A, S, O, D, 76 --
+              S7 : S, O, 76 -- M2 : J t , A, N, 76 -- M4 : J t , A, S, O, 76 -- M5 : S, O, N, 76 --
+              Y2 : A, S, 76.
+
+Chroococcus limneticus var. subsalsus L e m m . (pl. II, 14). -- Cellules : d i a m è t r e , 3-5 [xm.
+       Cosmopolite.
+              S5 : S, O, 76 -- S6 : O, 76 -- S7 : F, 77 -- M2 : J t , 76 -- M4 : A, 7 6 -- Y2 : A, O, N,
+              76.
+
+Chroococcus minor (Kùtz.) Nâg. (pl. II, 15). -- Cellules : diamètre, 3-4 fxm. Cosmopolite.
+              55 : S, 76.
+
+Chroococcus minutus (Kûtz.) Nâg. (pl. II, 16). -- Cellules : diamètre, 5-7 [xm. Cosmopolite.
+              56 : S, 76 -- S7 : O, 76 -- M4 : J, 77.
+
+Chroococcus turgidus (Kùtz.) Nâg. (pl. II, 17). -- Cellules : diamètre, 7-13 [xm. Cosmo-
+       polite.
+             S2 : S, 76 -- S5 : J t , A, S, O, 76 -- S6 : A, S, 76 -- S7 : A, S, 76 -- M l : J t , 76 --
+             M2 : J t , A, S, O, 76 ; J, 77 -- M3 : A, 76 -- M4 : S, O, N, D, 76 -- M5 : J t ,
+             A, S, 76 -- Y2 : A, O, 76.
+
+                                                   Coelosphaerium Nâgeli
+
+Coelosphaerium kûtzingianum Nâg. (pl. II, 18). -- Cellules : diamètre, 1,5-3 jxm. Cosmo-
+      polite.
+             S2 : A, 76 -- S7 : J, J t , 77 -- M3 : J t , 76.
+
+                                                 Gomphosphaeria Kutzing
+
+Gomphosphaeria nâgeliana (Unger) L e m m . (pl. II, 19).
+       (= Coelosphaerium nàgelianum Ung.). -- Cellules : 1, 2-3 [xm ; L, 3,5-6 fxm. Cosmo-
+       polite.
+                                                             -- 271 --
+
+              S2 : A, S, 0 , N, 76 -- S3 : A, 0 , N, 76 -- S4 : 0 , N, 76 -- M2 : J t , A, S, 0 , N, 76 ;
+              J, 77 -- M3 : A, 0 , 76 -- M4 : Jr, 77 -- Y : A, S, 0 , N, D, 76 ; Jr, F, Ms, M,
+              J, Jt, 77.
+
+                                                   Ordre : NOSTOCALES
+                                                  Famille : NOSTOCACEAE
+                                             Anabaena Bory de St Vincent
+
+Anabaena bergli var. limnetica Coûté et Preisig (pl. II, 21). -- Cellules : 1, 4-5 [xm ; L, 3-6 u.m.
+       Cellules apicales : 1, 3-4 fxm ; L, 7,5-13 [xm. Hétérocystes : 1, 7 [xm ; L, 7-9 [xm. Akinètes :
+       1, 11-13 u.m ; L, 19-28 |xm. Variété connue seulement de F r a n c e et de Suisse.
+              S2 : A, S, 76 -- M2 : S, 76.
+
+Anabaena circinali.s R a b e n h . (pl. I l , 22). -- Cellules végétatives : 1, 6-8,5 u,m ; L, 7-10 fxm.
+       Hétérocystes : diamètre, 9-11 fxm. Akinètes : I, 14-17 fxm ; L, 23-29 [ira. Cosmopolite.
+              S2 : A, 0 , 76 -- Y : A, S, 0 , 76 ; J t , 77 -- Y2 : 0 , 76.
+
+Anabaena flos aquae fo. flos aquae Bréb. (pl. I I I , 24). -- Cellules végétatives : 1, 4-6 |xm ;
+       L, 2,5-7 [xm. Hétérocystes : diamètre, 9 [xm. Akinètes : 1, 10 [xm ; L, 18-33 [xm. Cosmo-
+       polite.
+              S2 : A, S, 76 -- M2 : 0 , 76 -- Y : A, S, 0 , 76 ; J, J t , 77.
+
+Anabaena flos aquae fo. lemmermannii (P. Richter) Canab. (pl. I I I , 23). -- Cellules végé-
+       tatives : I, 3,5-4 fxm ; L, 5-8 [xm. Hétérocystes : diamètre, 5-7 p . Akinètes : l,6-10fxm;
+       L, 15-24 [xm. Cosmopolite.
+             Y : A, S, 0 , 76.
+
+Anabaena solitaria K l e b a h n (pl. I I I , 25). -- Cellules végétatives : 1, 7-10 fxm ; L, 6-11 fxm.
+       Hétérocystes : diamètre, 10-12 (xm. Akinètes : 1, 14-18 [xm ; L, 25-30 [ira. Cosmopolite.
+             S2 : A, S, 0 , N, 76 -- S4 : A, 76 -- M2 : A, S, 76 -- Y : S, 76.
+
+                                                  Aphanizomenon Morren
+
+Aphanizomenon flos aquae fo. gracile (Lemm.) Elenkin (pl. II, 20). -- Cellules végétatives :
+      1, 3-4 fxm ; L, 2-5 jxm. Cellules apicales : 1, 1-1,5 (xm ; L, 9-10 [xm. Hétérocystes : I, 4,5-
+      8 fxm ; L, 8-11 [xm. Akinètes : 1, 6-8 (xm ; L, 23-27 p . Cosmopolite.
+             S4 : J t , A, D, 76 -- S5 : A, 76 -- S6 : J t , A, 76 -- M2 : J t , A, S, 0 , 76 -- M3 :
+             A, 76 ; Al, 77 -- Y : A, S, 0 , 76 ; J, J t , 77 -- Y2 : S, 76.
+
+                                              Famille : OSCILLATORIACEAE
+                                                     Oscillatoria Vaucher
+
+Oscillatoria agardhii G o m o n t (pl. I I I , 26). -- Cellules : 1, 4-5 [xm ; L, 2-4 fxm. Cellules api-
+      cales : 1, 2-3 [xm ; L, 3 [xm. Cosmopolite.
+                                                            -- 272 --
+
+             S2 : A, S, 0 , N, D, 76 ; F, Ms, M, J, J t , 77 -- S3 : A, 0 , N, D, 76 ; M, J, 77 --
+             S4 : J t , A, S, O, N, 76 ; J t , 77 -- S5 : 0 , 76 -- S6 : 0 , 76 ; M, J, 77 -- S7 :
+             S, 0 , N, 76 ; Ms, M, J, 77 -- M2 : A, S, 0 , N, 76 -- Al, 77 -- M3 : 0 , 76 -- Y2 :
+             0 , N, 76 ; J, 77.
+
+Oscillatoria amoena G o m o n t (pl. I I I , 27). -- Cellules : 1, 3-5 fxm ; L, 2-4 u,m. Cosmopolite.
+             SI : N, 76 -- S2 : 0 , N, D, 76 -- S3 : 0 , N, 76 ; Al, 77 -- S4 : A, S, N, D, 76 ;
+             M, 77 -- S5 : N, D, 76 ; M, 77 -- S6 : J t , A, S, 0 , N, D, 76 ; Jr, M, J, 77 --
+             S7 : 0 , D, 76 ; Jr, F, Ms, M, J, 77 -- M2 : J t , A, S, 0 , N, 76 ; Al, 77 -- M3 :
+             Jr, 77 -- M4 : 0 , 76 -- Y2 : A, N, 76.
+
+Oscillatoria annae v a n Goor (pl. I I I , 28). -- Cellules : 1, 6,5-8 fxm ; L, 1-3 fxm. Cosmopolite.
+              51 : F, 77 -- S2 : A, S, 0 , 76 -- S4 : A, S, 76 -- M2 : 0 , N, 76 -- Y2 : A, 76.
+
+Oscillatoria chalybea Mertens (pl. I I I , 30). -- Cellules : I, 7-8 fxm ; L, 4-6 fxm. Cosmopolite.
+              52 : A, S, 76 -- S3 : J t , A, 76 -- M5 : N, 76.
+
+Oscillatoria chiarina K û t z . (pl. I I I , 31). -- Cellules : 1, 4-5 fxm ; L, 4-6 [ira. Cosmopolite
+              Y : N, 76 ; F, 77.
+
+Oscillatoria curviceps Ag. (pl. I I I , 29). -- Cellules : 1, 14-15 fxm ; L, 2,5-3 fxm. Cosmopolite.
+              53 : O, 76.
+
+Oscillatoria exilis var. sequana nov. var. (pl. I I I , 32). -- Du fait de sa forme générale, en
+       particulier la légère courbure dans la zone apicale du trichome, nous rapportons notre
+       exemplaire à Oscillatoria exilis Skuja. Mais il s'en distingue d'une p a r t par sa longueur
+       plus forte a t t e i g n a n t ici 5 [xm, d ' a u t r e p a r t par le diamètre c o n s t a n t de l'apex du tri-
+       chome presque conique chez le type. De plus l'aspect réticulé du contenu cellulaire
+       rappelle celui à'Oscillatoria ucrainica Vladimirova, mais dans nos échantillons nous
+       n'avons jamais observé de trichomes à apex très effilés comme c'est le cas pour certaines
+       formes d'O. ucrainica. Cellules : 1, 2,5-5 jxm ; L, 4-6,5 [ira.
+              SI : A, D, 76 -- S3 : J t , 76 -- S4 : A, S, D, 76 ; Ms, 77 -- S5 : J t , N, 76 -- F,
+              77 -- S6 : J t , A, S, 0 , N, D, 76 -- S7 : A, S, 0 , 76 ; Ms, 77 ; M l : N, 76 -- M2 :
+              S, 76 -- M4 : A, S, D, 76 ; F, 77 -- M5 : A, S, 0 , 76 -- Y : N, 76 -- Y2 : A, S,
+              0, D, 76.
+      D I A G N O S E LATINE : A typo latitudine majore cellulis et apicis constante diametro differì. Cellulae
+
+longitudo : 4-fi |xm ; latitudo : 2,5-5 ;xm. Iconotypus : fig. nost. : t. I l l , fig. 32. In Icauna, Matrona
+Sequanaque, 1976 et 1977.
+
+Oscillatoria foreaui F r é m y (pl. I I I , 33). -- Cellules : 1, 1,5-2 fxm ; L, 1-1,5 [ira. Espèce connue
+       des Indes, du Tchad et du bassin du Chari.
+              53 : Jr, 77 -- S6 : Jr, Al, 77 -- Ml : J t , A, S, 76 -- M3 : S, 76.
+
+Oscillatoria formosa Bory de St Vincent (pl. I I I , 34). -- Cellules : 1, 4,5-5 [ira ; L, 3-4 fxm.
+       Cosmopolite.
+              54 : S, 76.
+                                                             -- 273 --
+
+Oscillatoria geminata Menegh. (pl. IV, 35). --- Cellules : 1, 1,5-2 [xm ; L, 5-7 [xm. Cosmopolite.
+             SI : S, 76 -- S3 : J t , 76 -- S4 : A, 76 -- S5 : J r , Ms, 77 -- S6 : A, S, 76 ; Ms,
+             77 -- S7 : S, 0 , 76 ; Ms, 77 -- Ml : Ms, 77 -- M3 : A, 76 -- M4 : 0 , 76 -- M5 :
+             S, 76 -- Y2 : A, S, 76 ; Ms, 77.
+
+Oscillatoria hamelii F r é m y (pl. IV, 36). -- Cellules : 1, 3 (xm ; L, 3,5-7 [xm. Notre exemplaire
+       a des cellules moins larges que le type. Espèce connue seulement du Niger, Tchad et
+       Gabon.
+             SI : N, 76 -- S6 : 0 , 76 -- S7 : 0 , 76.
+
+Oscillatoria irrigua Ktitz. (pl. IV, 37). --· Cellules : 1, 5-6,5 u.m ; L, 2,5-4 fxm. Cosmopolite.
+              SI : A, 76 -- S3 : S, 76 -- F, 77 -- S5 : A, 76 -- M l : 0 , 76 -- M3 : J t , 76 -- Y2 :
+              S, 76.
+
+Oscillatoria lemmermannii Wolosz. (pl. IV, 38). -- Cellules : 1, 1,5-2 [im ; L, 2,5-6,5 [xm.
+       Nos échantillons ne montrent pas toujours de granulations au niveau des cloisons.
+       Espèce décrite seulement de régions tropicales.
+              51 : N, 76 -- S3 : Jt, 76.
+
+Oscillatoria limnetica L e m m . (pl. IV, 39). -- Cellules : 1, 1,5-2 [xm ; L, 6,5-8,5 fxm. Cosmo-
+       polite.
+              S3 : J t , A, S, N, 76 -- S5 : A, 76 ; M, 77 S6-- : D, 76 -- S7 : A, D, 76 -- M2 :
+              N, 76.
+
+Oscillatoria limosa Ag. (pl. IV, 40). -- Cellules : 1, 8-9 firn ; L, 1,5-2 fxm. Cosmopolite.
+              52 .- A, S, 76.
+
+Oscillatoria quadripunctulata Briihl et Biswas fo. (pl. IV, 41). -- Cellules : 1, 2-2,5 [xm ; L,
+       2,5-3 [xm. Comme le signale C O M P È R E pour ses échantillons du T c h a d (1974), nous
+       trouvons ici aussi des cellules avec un granule au niveau d'une cloison et deux à l'autre.
+       Espèce paléotropicale seulement.
+              53 : A, 76 -- S5 : F, 77.
+
+Oscillatoria redekei van Goor (pl. IV, 42). -- Cellules : 1, 1,5-2 [im ; L, 4-11 |xm. Espèce
+       décrite d'Europe seulement.
+              56 : 0 , D, 76 ; F, 77 -- S7 : S, 0 , N, 76 -- M l : 77 -- M4 : 0 , 76.
+
+Oscillatoria sancta (Ktitz.) Gomont (pl. IV, 43). -- Cellules : 1, 10-12 jxm ; L, 2-4 [im.
+       Cosmopolite.
+              SI : N, 76 -- S3 : A, 76 ; J t , 77 -- S4 : Al, M, 77 -- S5 : M, 77 -- S6 : J, 77 --
+              57 : M, 77 -- Ml : Al, 77 -- M3 : A, 76 ; Al, M, 77 -- M4 : M, 77.
+
+Oscillatoria splendida Grév. (pl. IV, 44). -- Cellules : 1, 1,5-2 jxm ; L, 3-5 [im. Cosmopolite.
+              51 : S, 76 -- S4 : S, 76.
+
+Oscillatoria subbrevis Schmidle emend. Claus (pl. IV, 45). -- Cellules : 1, 4-5 (xm ; L,
+       1,5-2 |xm. Espèce signalée comme pantropicale.
+              52 : A, S, 76 -- S4 : S, 76 -- S6 : J t , S, 0 , 76.
+                                                            -- 274 --
+
+Oscillatoria tenuis kg. (pl. IV, 46). -- Cellules : 1, 4-5 fxm ; L, 2-3 p . Cosmopolite.
+             S2 : A, S, 76 -- S3 : J t , 76 -- S6 .- N, 76 -- M2 : J t , N, 76.
+
+                                                Pseudanabaena Lauterborn
+
+Pseudanabaena catenala L a u t e r b o r n (pl. IV, 47). -- Cellules : 1, 2 jxm ; L, 2,5-3,5 [xm. Cosmo-
+       polite.
+              S7 : S, 76 -- Y : N, 76.
+
+Pseudanabaena galealu Bôcher (pl. IV, 56). -- Cellules : 1, 1-2 p,m ; L, 3-7 [ira. Espèce signalée
+       d'Europe seulement.
+             S4 : J t , A, O, N, 76 -- S5 : 0 , 76 -- S6 : 0 , 76 -- S7 : A, S, O, 76 -- M l : A, 76 --
+             M2 : 0 , 76 -- M3 : N, 76 -- Y2 : O, 76.
+
+Pseudanabaena mucicola (Naum. & Hub.) Bourrel. (pl. IV, 51). -- Cellules : 1, 1-1,5 jxm ;
+       L, 3-4 jxm. Cosmopolite.
+             Y : A, S, 0 , N, D, 76 ; Jr, Ms, 77.
+
+Pseudanabaena tenuis K o p p e (pl. IV, 55). -- Cellules : 1, 1-1,5 [xm ; L, 3,5-10 jxm. Espèce
+      rarement signalée.
+             S3 : S, 76 -- S5 : 0 , 76 -- S6 : J t , A, 76 -- S7 : S, 76 -- Ml : J t , 0 , 76 -- M2 :
+             0 , 76 -- M3 : A, 76.
+
+Lyngbya Agardh
+
+Lyngbya autumnale (Ag.) Bourrel. (pl. IV, 52). -- Cellules : 1, 3,5-6,5 [xm ; L, 1-3 fxm. Cosmo-
+      polite.
+             Si : J, 77 -- S3 : A, 76 -- M2 : N, 76 -- M3 : 0 , 76.
+
+Lyngbya bourrellyana Compère (pl. IV, 48) ( = Phormidium  amhiguum  Gom.). -- Cellules :
+      1, 6-7 fxm ; L, 2,5-3,5 [xm. Cosmopolite.
+             M2 : F, 77.
+
+Lyngbya favosa (Bory) Thérez. & Coûté (pl. IV, 49) ( = Phormidium  favosum (Bory) Gom.).
+      ·-- Cellules : 1, 5-6 [xm ; L, 3-5 [xm. Cosmopolite.
+             M2 : N, 76.
+
+Lyngbya foveolarum (Mont.) Hansgirg (pl. IV, 50) ( = Phormidium     foveolarum Gom.). --
+      Cellules : 1, 1-2 fxm ; L, 1-1,5 |xm. Cosmopolite.
+             S6 : A, 0 , 76 -- M5 : S, 76.
+
+Lyngbya limnetica L e m m . (pl. IV, 53). -- Cellules : 1, 1,5-2 [xm ; L, 5,5-6,5 [xm. Cosmopolite.
+             S6 : Ms, 77.
+                                                             -- 275 --
+
+Lyngbya subtilis W. W e s t (pl. IV, 54). ·-- Cellules : 1, 1,5-2 u.m ; L, 1,5-2,5 u,m. Cosmo-
+       polite.
+              S2 : A, 76.
+
+       Cette étude constitue le premier inventaire systématique des Cyanophycées plancto-
+niques du bassin de la Seine et de deux de ses principaux affluents en amont de Paris.
+Son étalement sur une année, ainsi que le nombre de prélèvements étudiés (environ 350)
+la rendent particulièrement intéressante. Les résultats sont d'ailleurs révélateurs, avec
+cinquante-cinq t a x o n s différents dénombrés d o n t deux nouvelles variétés : Oscillatoria
+exilis var. sequana nov. var. et Anabaena bergii var. limnetica Coûté & Preisig ( C O Û T É
+et P R E I S I G , SOUS presse).
+
+       Le genre p r é d o m i n a n t p a r la diversité spécifique est le genre Oscillatoria qui ne présente
+pas moins de 19 espèces. P a r m i celles-ci, l'une des plus fréquemment signalées est O. agardhii
+que l'on rencontre pratiquement toute l'année dans certaines stations (S2, par exemple)
+et en grande q u a n t i t é ; O. amoena est aussi assez souvent t r o u v é e en n o m b r e i m p o r t a n t
+dans quelques récoltes (S6, par exemple). D'autres espèces, par contre, n'apparaissent que
+très r a r e m e n t . C'est le cas d'O. curviceps (S3 : O, 76) et O. formosa (S4 : S, 76). On p o u r r a i t
+donc conclure que les deux premières supportent bien les variations du milieu alors que les
+deux dernières y sont particulièrement sensibles.
+
+       P a r m i les autres genres, celui qui a le plus d ' i m p o r t a n c e après les Oscillatoria, a u t a n t
+sur le plan q u a n t i t a t i f que sur le plan de son étalement annuel, est Microcystis. En effet,
+certaines récoltes en sont très riches (S2, S5, S6, S7, M2, M4, Y, Y2). Ce genre typique-
+m e n t planctonique est aussi bien représenté dans les lacs que dans les cours d'eau.
+
+       On peut remarquer aussi que certains genres ou même certaines espèces sont typiques
+des lacs de barrage. C'est le cas en particulier pour toutes les espèces rencontrées du genre
+Anabaena que l'on ne retrouve nulle p a r t dans les cours d'eau même dans la station j u s t e
+en aval du barrage.
+
+       Enfin, il faut noter qu'un certain nombre d'espèces décrites ici n'étaient connues que
+de régions tropicales ou chaudes. Il s'agit d'Oscillatoria foreaui, O. hamelii, O. lemmermannii,
+O. quadripunctulata et O. subbrecis.
+
+       Pour que cet inventaire soit complet, il faudrait qu'une étude similaire soit faite sur
+le reste du bassin de la Seine, en particulier sur la partie située en aval de Paris. Outre
+l'analyse qualitative des espèces, il serait nécessaire d'effectuer une analyse quantitative
+afin de pouvoir tirer des renseignements écologiques fondamentaux.
+
+                                        RÉFÉRENCES BIBLIOGRAPHIQUES
+
+B O U R R E L L Y , P., 1970. -- Les Algues d'eau douce, initiation à la Systématique. III : les Algues
+         bleues et rouges. Boubée Éd. Paris : 512 p., 137 pl.
+
+B R Ù H L , P.. & K. B I S W A S , 1922. -- Algae of Bengal filterbeds. J. Dep. Sci. Calcutta Unie, 4 : 1-7,
+         5 pl.
+
+CLAUS, G., 1961. -- Contributions to the knowledge of the Blue-Green Algae of the Salzlacken-
+         gebiet in Austria. Int. Rev. Hydrobiol., 46 (4) : 514-541, 3 pi.
+                                                             -- 276 --
+
+C O M P È R E , P., 1974. -- Algues de la région du lac Tchad. II. Cyanophycées. Cah. ORSTOM, sér.
+          hydrobiol., 8 (3-4) : 165-198, 6 pl.
+
+C O Û T É , A., & H. R. P R E I S I G , 1978. -- Anabaena bergli var. limnetica nov. var. Cyanophyceae,
+          Nostocaceae. Schweiz. Z. Hydrol, 40 (2) : 374-383.
+
+D E S I K A C H A R Y , T. V., 1959. -- Cyanophyta. Ind. Counc. Agr. Res., New Delhi, 686 p., 139 pl.
+F R É M Y , P., 1930. -- Les Myxophycées de l'Afrique Equatoriale Française. Archs Bot., Caen, 3
+
+          (2) : 508 p., 362 fig.
+   -- 1942. -- Cyanophycées de l'Inde méridionale. Blumea suppl. 2 : 21-40, 11 fig.
+G E I T L E R , L., 1930-1931. -- Cyanophvceae. In : Rabenhorst's Kryptogamen Flora, 14 : 1196 p.,
+
+          780 fig.
+GOMONT, M., 1.893. -- Monographie des Oscillariées (Nostocacées, Homocvstées). Annls Sci. nat.,
+
+          Bot., sér. 7. 15 : 1-107, 9 pl. ; 16 : 111-302, 7 pl.
+H U B E R - P E S T A L O Z Z I , G., 1938. -- Das Phytoplankton des Süsswasser. I. Blaualgen, Bakterien,
+
+          Pilze. 1 : 342 p., 66 pl.
+K O M Â R E K , J., 1958. -- Die taxonomische Bevision der planktischen Blaualgen der Tschechoslo-
+
+          wakei. In : J. K O M Â R E K et H. E T I L , Algologische Studien : 10-206, 12 + 19 pl.
+KONDRATIEVA, N. B., 1968. -- Visnachnikprisnovodnieh bodorestelij Ukrainskoj, B.S.B., I. Cyano-
+
+          phyta 2 : 523 p.
+S K U J A , IL, 1964. -- Grundzüge der Algenflora und Algenvegetation der Fjeldgegenden um Abisko
+
+         in Schwedisch-Lappland. Nova Acta R. Soc. Scient, upsal., IV, 18 (3) : 465 p., 69 pl.
+STAHMACH, K., 1966. -- Cyanophyta-Sinice, Glaucophyta-Glaucofity. In : Flora Slodkow, Polski,
+
+          2, Polsk. Ak. Inst. Bot. : 807 p., U l i fig.
+V L A D I M I R O V A , K. C , 1961. -- Une nouvelle espèce d'algue bleue : Oscillatoria ucrainica nov. sp.
+
+          Ukr. bot. Zh., 18 (1) : 96-98, 1 pl.
+
+                                                                                   Manuscrit déposé le 25 mai 1979.
+
+                                                                      PLANCHE I
+
+       1, Merismopedia elegans A. Braun ; 2, Merismopedia glauca (Ehrbg.j Näg. ; 3, Merismopedia punctata
+Meyen ; 4, Merismopedia tenuissima Lemm. ; 5, Microcystis aeruginosa Kütz., deux fragments de thalle ;
+6, Microcystis delicatissima (W. & G. S. West) Starmach ; 7, Microcystis elachista var. planctonica (G. M.
+Smith) Elenkin ; 8, Microcystis incerta Lemm. emend. S t a r m a c h ; 9, Microcystis wesenbergii Komàrek ;
+10, Aphanothece castagnei (Bréb.) Rabenli. ; 11, Aphanothece nidulans P. Richter ; 12, Gloeocapsa kiitzingiana
+Näg. ; 13, Chroococcus limnelicus Lemm.
+   -- 277 --
+PLANCHE I
+                                                             -- 278 --
+
+                                                                  PLANCHE II
+      14, Chroococcus limneticus var. subsalsus Lemm. ; 15, Chroococcus minor (Ktitz.) Nag. ; 16, Chroococ-
+cus minutus (Ktitz.) Nag. ; 17, Chroococcus turgidus (Ktitz.) Nag. ; 18, Coelosphaerium kùtzingianum Niig. ;
+19, Gomphosphaeria nàgeliana (Unger) Lemm. ; 20, Aphanizomenon flos aquae fo. gracile (Lemm.) Elenkin,
+fragment apical de trichome avec akinète et hétérocystc ; 21, Anabaena bergli var. limnetica Coûté & Prei-
+sig, fragment apical de trichome avec akinète et hétérocyste, à gauche, vue d'ensemble du trichome ; 22, Ana-
+baena circinalis Rabenh., fragment de trichome avec hétérocyste et akinète.
+PLANCHE  II
+                                                             -- 280 --
+
+                                                                  PLANCHE III
+      23, Anabaena flos aquae io. lemmermannii (P. Richter) Canab., fragment de thalle avec deux akinète.
+encadrant un hétérocyste, à gauche, vue d'ensemble du trichome ; 24, Anabaena flos aquae fo. flos aquas
+Bréb., fragment de thalle avec un akinète et un hétérocyste ; 25, Anabaena solitaria Klebahn, fragmene
+de trichome avec deux akinètes contigus et un hétérocyste éloigné de ces derniers ; 26, Oscillatoria agardhit
+Gomont ; 27, Oscillatoria amoena Gomont ; 28, Oscillatoria annae van Goor ; 29, Oscillatoria curviceps Ag. ;
+30, Oscillatoria chalybea Mertens ; 31, Oscillatoria chlorina Kiitz. ; 32, Oscillatoria exilis var. sequana nov.
+var., deux apex de trichome ; 33, Oscillatoria joreaui Frémy ; 34, Oscillatoria formosa Bory.
+                                                             -- 282 --
+
+                                                                  PLANCHE IV
+      35, Oscillatoria geminata Menegh. ; 36, Oscillatoria hamelii Frémy ; 37, Oscillatoria irrigua Kiitz. ;
+38, Oscillatoria lemmermannii Wolosz. ; 39, Oscillatoria limnetica Lemm. ; 40, Oscillatoria limosa Ag. ;
+41, Oscillatoria quadripunctulata Brühl & Biswas fo. ; 42, Oscillatoria redekei van Goor : 43, Oscillatoria
+sancta (Kiitz.) Gomont ; 44, Oscillatoria splendida Grév. ; 45, Oscillatoria subbrevis Schmidle emend. Claus. ;
+46, Oscillatoria tenuis Ag. ; 47, Pseudanabaena catenata Lauterborn ; 48, Lyngbya bourrellyana Compère;
+49, Lyngbya javosa (Bory) Thérez. & Couté ; 50, Lyngbya foveolarum (Mont.) Hansgirg ; 51, Pseudana-
+baena mucicola (Naum. & Hub.) Bourrel. ; 52, Lyngbya autumnale (Ag.) Bourrel. ; 53, Lyngbya limnetica
+Lemm. ; 54, Lyngbya subtilis W. West ; 55, Pseudanabaena tenuis Koppe ; 56, Pseudanabaena galeata
+Böoher.
+PLANCHE  IV
+                                       Bull. Mus. natu. Hist, nal., Paris, 4 e sér., 1, 1979,
+                                                          section B, n° 4 : 285-327.
+
+               Algues plane toniques du bassin de la Seine
+         (à l'exception des Cyanophycées et des Diatomées)
+
+                                                par Catherine CARDINAL *
+
+      Résumé. -- Dans cet inventaire systématique du phytoplancton du bassin de la Seine (Diato-
+mées et Cyanophycées exceptées), 154 espèces d'algues, dont une majorité de Chlorophycées, sont
+décrites. Parmi elles, on peut noter trois espèces nouvelles pour l'Europe : Coenocystis subcylindrica
+Korch., Gloeactinium limneticum Smith, Lobocystis dichotoma Thompson, et trois espèces nouvelles
+pour la France : Cartería peterhofiensis Kiss., Paradoxia multiseta Swir., Siderocelis corónala (Lemm.)
+Fott. Une dizaine d'autres peu fréquentes sont également signalées.
+
+      Abstract. -- The author deals with 154 species of fresh-water algae from the river Seine.
+Three species new for Europe : Coenocystis subcylindrica Korch., Gloeactinium limneticum Smith,
+Lobocystis dichotoma Thompson and three new for France : Cartería peterhofiensis Kiss., Paradoxia
+multiseta Swir., Siderocelis corónala (Lemm.) Fott, are reported.
+
+       A la suite du travail de C O Û T É (1979) sur les Cyanophycées planctoniques de la Seine,
+nous avons entrepris l'étude des autres groupes d'algues d'eau douce planctoniques de ce
+fleuve et de deux de ses affluents (Marne et Yonne), à l'exception des Diatomées. Quelques
+travaux ont déjà porté sur la végétation planctonique de la Seine ( L E F È V R E , 1943), mais
+jamais sous forme d'un inventaire systématique complet s'étendant sur une année comme le
+propose cette étude. Celle-ci a été réalisée à partir de récoltes, effectuées sur l'ensemble du
+bassin de la Seine en amont de Paris, qui ont déjà donné lieu au travail de C O Û T É . La situa-
+tion géographique des stations et leur dénomination respective, le nombre et le mode de
+prélèvements étant similaires en ce qui concerne nos échantillons, il faut donc se référer
+à cette étude où sont données toutes ces indications.
+
+       SI, S2, S3, S4, S5, S6, S7 sont des stations choisies sur la Seine, Ml, M2, M3, M4, M5
+sur la Marne, Y, Y2 sur l'Yonne.
+
+       Les mois et années sont indiqués de la façon suivante : janvier : Jr, février : F, mars :
+Ms, avril : A, mai : M, juin : J, juillet : J t , août : A, septembre : S, octobre : O, novembre : N,
+décembre : D, 1976 : 76 et 1977 : 77.
+
+       J e tiens à remercier particulièrement M. A. C O Û T É pour l'aide précieuse qu'il m'a
+apportée.
+
+       * Laboratoire de Cryptogamie du Muséum national d'Histoire naturelle, 12, rue de Bufjon, 7a005 Paris.
+Bourse DGRST n° 78223.
+                                            Ordre : PYRAMIMONADALES
+                                               Famille : TETRASELMIACEAE
+                                                        Tetraselmis Stein
+
+Tetraselmis cordiformis Stein (pl. I, 4). -- Diamètre, 15 (xm ; L flagelles, 20 [xm. Suède,
+       France (signalé une fois par B O U R H E L Y ) ( R ) 1 .
+              Y2 : Jt, 76 -- M4 : A, 76.
+
+                                                  Ordre : VOLVOCALES
+                                            Famille : POLYBLEPHARIDACEAE
+
+                                                      Collodictyon Carter
+
+Collodictyon trlciliatum Carter (pl. I, 1). -- L, 25 (xm ; I, 16 ¡xm ; L flagelles, 33 ¡xm. Suède ( R ) .
+              M4 : Jt, 76.
+
+                                           Famille : CHLAMYDOMONADACEAE
+                                                         Cartería Diesing
+
+Cartería midtifilis (Fres.) Dill. (pl. 1, 3). -- Diamètre, 14 fxm ; L flagelle, 14 ¡xm. Cosmo-
+       polite (R).
+              SI : S, 76 -- Y2 : J t , 77.
+
+Cartería pelerhofiensis Kiss. (pl. I, 2). -- L, 23 ¡xm ; 1, 13 ¡xm. Russie et Suède. Pour la pre-
+       mière fois en France (R).
+
+                                                   Chlamydomonas Ehrbg.
+
+Chlamydomonas sp. (pl. i, 6). -- Du fait de la fixation, il n'est pas possible de voir la
+       forme exacte du plaste et donc de donner un nom d'espèce. Diamètre variable, 8-17 u,m.
+       (PF).
+              SI : A, S, 76 -- Y : A, S, 76 -- M2 : A, S, 76 -- M4 : J t , 76 -- M5 : Ms, 77.
+      1. Les lettres entre parenthèses indiquent les fréquences des différentes espèces trouvées dans les
+
+échantillons avec la signification suivante : (A) : abondant ; (F) : fréquent ; (PF) : peu fréquent ; (R) : rare.
+                                 -- 287 --
+
+                                 Sphaerellopsis Korschikoff
+
+Sphaerellopsis gloeocystiformis  (Dill.) Gerlofï (pl. I, 9). -- L, 26 |xm ; 1, 20 u.m. Cosmopolite
+      (R).
+             Ml : M, 77.         Famille : PHACOTACEAE
+                                       Phacotus Perty
+
+Phacotus lenticularis (E.) Stein (pl. I, 5). -- Diamètre, 12 u.m. Cosmopolite (R).
+             Y2 : Jt, 76.
+
+                                 Pteromonas Seligo
+
+Pteromonas aequiciliata (Gicklh.) Bourrel. (pl. I, 8). -- L, 13 |im ; 1, 9 \im. Autriche, France
+       (R).
+              M5 : Jt, 76.
+
+                                                  Famille : VOLVOCACEAE
+
+                                                       Eudorina Ehrbg.
+
+Eudorina elegans E h r b g . (pl. III, 5). -- Diamètre, 8 u,m ; diamètre de la colonie, 46 [im.
+      Cosmopolite (F).
+             Y : A, 76 -- M2 : A, S, 76.
+
+                                                         Gonium Müller
+
+Gonium pectorale Müller (pl. III, 11). --· D i a m è t r e d ' u n e cellule, 12 [im ; d i a m è t r e de la
+       colonie, 76 \im. Cosmopolite (R).
+              S7 : M, 77.
+
+                                                        Pandorina Bory
+
+Pandorina morum (Müller) Bory (pl. III, 6). --· D i a m è t r e , 8 |i.m ; d i a m è t r e de la colonie,
+      29-38 [i.m. Cosmopolite (F).
+             SI : A, S, 76 -- Y : A, 76.
+
+                                                   Volvox (Linné) Ehrbg.
+
+Volvox globator (Linné) E h r b g . et Zygote (pl. III, 12 et 8). -- Diamètre de la colonie,
+      600 [un. Cosmopolite (PF).
+             Y : A, S, 76 -- M2 : A, S, 76.
+                                                            -- 288 --
+
+Volçox terlius A. Meyer (pl. I I I , 9). -- Diamètre de la colonie, 300 X 220 \xm. E u r o p e ,
+      sud des Carpathes (R).
+             Y : A, 76.
+
+                                              Ordre : TÉTRASPORALES
+                                            Famille : CHLORANGIELLACEAE
+                                       Stylosphaeridium Geitler et Gimensi
+
+Stylosphaeridium stipitatum (Bachm) Geitler et Gimensi (pl. I, 11). -- Dans la gelée de
+       Planktosphaeria. D i a m è t r e , 4 u,m ; L flagelle, 7-10 u,m. Cosmopolite dans la gelée
+       des algues planctoniques (R).
+              M2 : A, 76.
+
+                                               Famille : GLOEOCYSTACEAE
+                                                             Gloeocystis
+
+Gloeocystis ampla (Kiitz.) R a b e n h . (pl. I I I , 2). -- S y n o n y m e : Chlamydocapsa ampla (Kütz.)
+       F o t t . L, 10-13 [xm ; 1, 10 p ; diamètre de la colonie, 70 p . Cosmopolite (R).
+              M2 : A, 76.
+
+                                            Pseudosphaerocystis Woronichin
+
+Pseudosphaerocystis lacustris (Lemm.) N o v â k o v â (pl. I I I , 10). -- Diamètre, 12 u,m ; diamètre
+       de la colonie, 65 |xm. Europe sous le nom de Gloeococcus schroeteri (Chod.) L e m m . (F).
+             SI : A, S, 76 -- M2 : S, 76.
+
+Ordre : C1ILOROCOCCALES
+    Famille : OOCYSTACEAE
+     Ankistrodesmus Corda
+
+Ankistrodesmus bibraianus (Reinsch.) Körs. (pl. II, 7 et 11). -- L, 20-27 p  ; 1, 5 |xm. Cosmo-
+      polite (F).
+             SI : A, S, 76 -- M2 : A, S, 76.
+
+Ankistrodesmus falcatus (Corda) Ralfs (pl. I I , 9). -- L, 23 u,m ; 1, 2 u,m. Cosmopolite ( P F ) .
+             SI : A, S, 76 -- Y : A, 76 -- M2 : A, 76.
+
+Ankistrodesmus gracilis (Reinsch) Körs. (pl. I l , 2). -- L, 37 u.m ; 1, 4 u,m. Cosmopolite (R).
+             S4 : J t , 77.
+                           -- 289 --
+
+                                                       Chodatella Lemm.
+
+Chodatella ciliata (Lagerheim) L e m m . (pi. I I , 1). -- L, 13 [xm ; 1, 8 [xm ; L soie : 17 [xm.
+      Cosmopolite (R).
+              S7 : A, 76.
+
+Chodatella citriformis Snow (pi. I I , 4 et 6). -- Une algue avec trois poles de soies (fig. 4)
+       aulieu des deux habituels (fig. 6) a été t r o u v é e . L, 20 (xm ; 1,15 u.m ; L soie, 20 [xm. Cosmo
+       polite (R).
+              M5 : A, 76 -- S7 : A, 76.
+
+Chodatella genevensis var. subglobusa (Lemm.) Bourrel. (pi. 1,15). --· L, 7 [im ; 1, 5 [xm ; L soie,
+       8 [xm. Cosmopolite (R).
+              M3 : D, 76.
+                                                      Closteriopsis Lemm.
+
+Closteriopsis acicularis   (Smith) Belcher et Swall (pi. I I , 8). -- L, 85 [zm ; 1, 3,5 [xm. Cosmo
+      polite (R).                               Franceia Lemm.
+              M3 : A, 76.
+
+Franceia Droescheri (Lemm.) G. M. Smith (pi. I, 7). -- L, 10 ;xm ; 1, 7 [xm ; L soie, 15 fxm.
+       Cosmopolite (R).
+             M2 : A, 76.
+
+Franceia ovalis (France) L e m m . (pi. I , 10). --· L, 18 fxm ; 1, 15 jzm ; L soie, 20 fzm. Cosmo
+       polite (R).
+             M2 : S, 76.
+                                                     Kirchneriella Schmidle
+
+Kirchneriella obesa (W. West) Schmidle (pi. I I , 3). -- L, 10 jzm ; 1, 4 [xm. Cosmopolite ( P F ) .
+              SI : A, S, 76 -- Y : A, 76 -- M2 : A, S, 76.
+
+                                       Monoraphidium Komarkova-1.egnerova
+
+Monoraphidium contortum T h u r e t (pi. I I , 10). -- L : 30 [xm ; 1, 2 (xm. Cosmopolite (F).
+             M3 : A, 76.
+
+                                                       Quadrigula Printz.
+
+Quadrigula closterioides (Bohl.) P r i n t z . (pi. I I , 5). -- L, 22 fxm ; 1, 4 fxm. Cosmopolite ( P F ) .
+             Y : A, 76.
+                                                              -- 290 --
+
+                                                           Oocystis Nâg.
+
+Oocystis lacuslris Chod. (pl. I, 16). -- L, 23 put ; 1, 13 y.m. Cosmopolite ( P F ) .
+              Y : A, 76.
+
+Oocystis parva W e s t et West (pl. I, 17). -- L, 13 pin ; I, 8 [ira. Cosmopolite (F).
+              SI : A, 76 -- Y : S, 76 -- M2 : A, S, 76.
+
+                                                         Siderocelis Fott
+
+Siderocelis coronata (Lemm.) F o t t (pl. I I I , 7). -- L, 14 [ira ; 1, 9 [ira. Pour la première fois
+       en France, connu auparavant en Europe sauf en France (R).
+              M2 : A, 76.
+
+                                                       Treubaria Bernard
+
+Treubaria triappendiculata Bernard (pl. I, 12, 13, 14). -- Cette espèce a 3, 4 ou 6 bras.
+       Diamètre, 8-13 u.m ; L bras, 12-25 [ira. Cosmopolite (R).
+              M2 : A, 76 -- M3 : N, 76.
+
+                                               Famille : CHLOROCOCCACEAE
+                                                        Tetraedron Kùtz.
+
+Tetraedron caudatum (Corda) Hansg. (pl. IV, 17). -- L, 20 [ira ; I, 18 [ira. Cosmopolite (R).
+              M2 : S, 76.
+
+Tetraedron minimum (A. Braun) Hansg. (pl. IV, 12). --- L, 14 [ira ; 1, 14 [ira. Cosmopolite ( P F ) .
+              SI : S, 76 -- M2 : A, S, 76.
+
+Tetraedron minimum var. scrobiculalum Lagerheim (pl. IV, 18). -- L, 16 p m ; 1, 15 [ira.
+       Cosmopolite (F).
+              SI : A, S, 76 -- M2 : A, S, 76.
+
+Tetraedron regulare K ù t z . (pl. IV, 16). -- L, 32 [ira ; 1, 32 p m (épines comprises). Cosmo-
+      polite (PF).
+             M2 : A, S, 76.
+
+Tetraedron regulare var. incus Teil. (pl. IV, 14). -- L, 20 [ira ; 1, 20 [ira (épines comprises).
+      Cosmopolite (R).
+             S7 : A, 76.
+
+Tetraedron trigonum (Nâg.) Hansg. (pl. IV, 13). --· L, 15 p m ; 1, 11 [ira. Cosmopolite ( R ) .
+             SI : S, 76.
+                                        -- 291 --
+
+Tetraedron trigonum var. papilliferum   (Schröder) Lemm. (pl. I V , 15). -- L, 10 pm ; 1, 7 pm.
+      Cosmopolite (R).
+             SI : A, 76 -- M2 : S, 76.
+
+                                                   Polyedriopsis Schmidle
+
+Polyedriopsis spinulosa Schmidle (pl. IV, 5). -- L, 16 pm ; 1, 14 p m ; L soie, 16 p m . Cosmo-
+      polite (R).
+             Si : S, 76 -- M2 : A, 76.
+
+                                                     Schroederia Lemm.
+
+Schroederia setigera L e m m . (pl. IV, 7). -- L, 40 p m (soie comprise) ; 1, 6 p m ; L soie, 10 p m .
+      Cosmopolite (R).
+             Y : A, 76 -- M2 : J t , 76.
+
+                                                 Famille : PALMELLACEAE
+                                                     Sphaerocystis Chod.
+
+Sphaerocystis scliroeteri Chod. (pl. I I I , 1). -- Diamètre, 12 pm ; diamètre de la colonie, 72 p m .
+      Cosmopolite (A).
+             SI : A, S, 76 -- Y : A, S, 76 -- M2 : A, S, 76.
+
+                                               Famille : RADIOCOCCACEAE
+                                                      Coenocystis lvorch.
+
+Coenocystis subcylindrica Korch. (pl. IV, 11). -- L, 10 p m ; 1, 5 p m ; diamètre de la colonie,
+      80 pm. Russie, Canada, pour la première fois en France (R).
+             Y : S, 76.
+
+                                               Famille : MICRACTINIACEAE
+                                                       Golenkinia Chod.
+
+Golenhinia radiala (Chod.) Wille (pl. IV, 1). -- D i a m è t r e , 20 p m ; L soie, 45 p m . Cosmopo-
+       lite (PF).
+              SI : A, S, 76.
+                                                      Micractinium Fres.
+
+Micraclinium pusillum Fres. (pl. IV, 10). -- Diamètre, 7 p m ; L soie, 30 p m . Cosmopo-
+       lite (F).
+              S I : A, S, 76 -- M2 : A, S, 76.
+                                                              -- 292 --
+
+                                             Famille : DICTYOSPHAEKIACEAE
+                                                       Botryococcus Kûtz.
+
+ Botryococcus braunii Kiitz. (pl. I I I , 4). -- L, 6 [xm ; 1, 3 [zm. Cosmopolite (F).
+              SI : A, S, 76 -- Y : A, S, 76 -- M2 : A, S, 76.
+
+                                                     Dictyosphaerium Nâg.
+
+Dictyosphaerium pulchellum Wood (pl. I I I , 3). -- Diamètre, 4 p . Cosmopolite (F)
+              SI : A, S, 76 -- Y : A, S, 76 -- M2 : A, S, 76.
+
+                                                     Lobocystis Thompson
+
+ Lobocystis dicholoma T h o m p s o n (pl. IV, 3). -- L, 10 [xm ; 1, 5 \xm. USA. P o u r la première
+       fois en Europe (R).
+              M2 : A, 76.
+
+Lobocystis dichotoma var. mucosa Bourrel. (pl. IV, 6). -- L, 6 (xm ; 1. 3 fxm. France (R).
+              M4 : Jt, 76.
+
+                                                Famille : SCENEDESMACEAE
+                                                   Actinastrum Lagerheim
+
+Actinastrum hantzschii Lagerheim (pl. V, 17). -- L, 15 (ira ; 1, 3 (xm. Cosmopolite (R).
+              S5 : S, 76.
+
+                                                        Coelastrum Nâg.
+
+Coelastrum reticulatum (Dang.) Senn. (pl. V, 8). -- Diamètre, 10 (xm. Cosmopolite (F).
+             SI : A, S, 76 -- Y : A, S, 76 -- M2 : A, S, 76.
+
+Coelastrum microsporum Nâg. (pl. V, 7). -- Diamètre, 10 [un. Cosmopolite ( P F ) .
+              SI : A, 76.
+                                                       Crucigenia Morren
+
+Crucigenia quadrata Morren (pl. IV, 2). -- Diamètre, 3 jxm. Cosmopolite (F).
+             SI : A, S, 76 -- Y : A, S, 76 -- M2 : A, S, 76.
+
+Crucigenia tetrapedia (Kirch.) West et West (pl. IV, 4). -- Diamètre, 4,5 fxm. Cosmopo-
+      lite (F).
+             SI : A, 76 -- M2 : A, S, 76.
+                                                            -- 293 --
+
+                                              Crucigeniella (Morren) Kom.
+
+Crucigeniella rectangularis (Nâg.) K o m à r e k (pl. V, 1). -- L, 7 p m ; 1, 4 p m . Cosmopolite (F).
+             Y : A, S, 76.
+
+                                                Gloeactinium G. M. Smith
+
+Gloeactinium limneticum G. M. Smith (pl. IV, 8). -- Diamètre de la colonie, 50 p m ; L,
+       6 pm ; 1, 2,5 pm. USA, Ouest-Afrique, Inde. Pour la première fois en Europe (R).
+             M5 : Jt, 76.
+
+                                                        Paradoxia Swir.
+
+Paradoxia multisela Swir. (pl. IV, 9). -- L, 18 p m ; 1, 5 p m . Russie et Bohème. P o u r la
+       première fois en France (R).
+              S5 : S, 76.
+
+                                                     Scenedesmus Meyen
+
+Scenedesmus arcuatus L e m m a (pl. V, 15). -- L, 10 pm ; 1, 5 p m . Cosmopolite (PF).
+              SI : A, 76.
+
+Scenedesmus brasiliensis Bohlin (pl. V, 6). -- L, 10 p m ; 1, 4 p m . Cosmopolite (R).
+              M2 : S, 76.
+
+Scenedesmus brevispina G. M. Smith (pl. V, 12). -- L, 13 p m ; 1, 4 p m . E u r o p e , Amérique
+       du Nord (R).
+              SI : S, 76 -- M2 : S, 76.
+
+Scenedesmus denticulatus Lagerheim (pl. V, 13 et 20). -- Deux formes ont été trouvées :
+       l'une avec des cellules arrondies (L, 9 pm ; 1, 5,5 pm), l'autre avec des cellules allongées
+       (L, 13 pm ; 1, 6 pm). Cosmopolite surtout dans les régions chaudes (R).
+              S5 : S, 76.
+
+Scenedesmus ecornis (Ralfs) Chod. (pl. V, 5). -- L, 10 p m ; 1, 4,5 p m . Cosmopolite (F).
+              SI : A, S, 76 -- M2 : A, S, 76.
+
+Scenedesmus ecornis var. disciformis Chod. (pl. V, 4). -- L, 10 p m ; 1, 6 p m . Cosmopolite (F).
+              SI : A, S, 76 -- M2 : A, 76.
+
+Scenedesmus falcatus Chod. (pl. V, 10). -- L, 13 p m ; 1, 3 p m . Cosmopolite (F).
+              SI : A, S, 76 -- Y : A, 76 -- M2 : S, 76.
+
+ Scenedesmus falcatus fo. maximus U h e r k o v . (pl. V, 9). -- Cette forme est moins connue
+        que l'espèce. L, 40 pm ; 1, 8 pm. Cosmopolite (F).
+              SI : A, 76.
+                                                            -- 294 --
+
+Scenedesmus intermedius Chod. (pi. V, 3). -- L, 7 fxm ; 1, 3 [xm. Cosmopolite ( P F ) .
+             S5 : J, 77.
+
+Scenedesmus intermedius var. balatonicus H o r t o b . (pi. V, 2). -- L, 5 [xm ; 1, 2 [xm. Cosmopo-
+      lite (PF).
+             M3 : 0, 76.
+
+Scenedesmus opoliensis P . Richt (pi. V, 14). -- L, 20 [xm ; 1, 7 fxm. Cosmopolite (R).
+             Y : A, 76.
+
+Scenedesmus ovalternus var. graevenitzii (Bernard) Chod. (pi. V, 24). -- L, 12 [xm ; 1, 5 fxm.
+      Cosmopolite (R).
+             SI : A, 76.
+
+Scenedesmus pannonicus H o r t o b . (pi. V, 23). -- L, 15 (ira ; 1, 7 [xm. Europe (R).
+             S7 : A, 76.
+
+Scenedesmus quadricauda (Turp.) Bréb. (pi. V, 18). -- L, 10-24 jxm ; 1, 5-9 [xm. Cosmo-
+      polite (F).
+             SI : A, S, 76 -- Y : S, 76 -- M2 : A, S, 76.
+
+Scenedesmus quadricauda var. longispina  io. granulatus  Uherkov. (pi. V, 21). -- L, 10 fxm ;
+      1, 3 [xm. Hongrie (R).
+             M2 : S, 76.
+
+Scenedesmus quadricauda var. longispina io. asymelricus  (Hortob.) Uherkov. (pi. V, 22). --
+      L, 10 [xm ; 1, 2,5 fxm. Cosmopolite (R).
+             M2 : A, 76.
+
+Scenedesmus serratus (Corda) Bohlin (pi. V, 16). -- L, 12 [xm ; 1, 4 fxm. E u r o p e . USA (R).
+             M4 : Jt, 76.
+
+Scenedesmus spinosus Chod. (pi. V, 11). -- L, 6,5 jxm ; 1, 3 [ira. Cosmopolite ( P F ) .
+             SI : A, S, 76 -- M2 : A, S, 76 -- M4 : J t , 76.
+
+                                                       Tetrastrum Chod.
+
+Tetrastrum stauro geniafor me (Schrôder) L e m m . (pl. V, 19). -- Diamètre, 4 jxm ; diamètre
+      de la colonie, 8 fxm. Cosmopolite (R).
+             M2 : S, 76.
+                                   -- 295 --
+
+                           Famille : HYDRODICTYACEAE
+                                   Pediastrum Meyen
+
+Pediastrum biradialum Meyen (pl. VI, 3). -- L, 10 p m ; 1, 10 p m . Cosmopolite (PF).
+             Y : S, 76 -- M2 : A, S, 76.
+
+Pediastrum boryanum (Turp.) Meneghini (pl. VI, 9). -- L, 20 p m ; 1, 20 p m . Cosmopolite (F).
+             SI : A, S, 76 -- Y : A, S, 76 -- M2 : A, S, 76.
+
+Pediastrum clathratum (Schrôder) L e m m . (pl. VI, 12). -- L, 10 p m ; 1, 8 p m . Cosmopolite (F).
+             SI : A, 76 -- Y : S, 76 -- M2 : A, S, 76.
+
+Pediastrum duplex Meyen (pl. VI, 2). -- L, 7-28 pm ; 1, 5-20 p m . Cosmopolite (F).
+             SI : A, S, 76 -- Y : S, 76 -- M2 : A, S, 76.
+
+Pediastrum simplex (Meyen) L e m m . (pl. VI, 6). -- L, 15 p m ; 1, 12 p m . Cosmopolite (F).
+             Y : S, 76 -- M2 : A, S, 76.
+
+Pediastrum tétras (Ehrbg.) Ralfs (pl. VI, 10). -- L, 12 pm ; 1, 8 p m . Cosmopolite (R).
+             M2 : S, 76.
+
+Pediastrum tétras vai-, tetraodon  (Corda) Rabenhorst (pl. VI, 1). -- L, 19 pm ; 1, 18 pm.
+      Cosmopolite (PF).                  Sorastrum Kutz.
+             SI : A, S 76.
+
+Sorastrum americanum (Bohlin) Schmidle (pl. VI, 7). -- L, 10 p m ; 1, 10 p m (épines non
+      comprises) ; L épines, 4 pm (un peu plus courtes qu'habituellement, 10 à 15 pm).
+      Cosmopolite (R).
+             M2 : Jt, 76.
+
+                                                Ordre : ULOTHRICALES
+
+                                                Famille : ULOTHRICACEAE
+
+                                                          Catena Chod.
+
+Catena viridis Chod. (pl. V I , 8). -- L, 6 p m ; 1, 3 p m . D a n e m a r k , Suède, F r a n c e (R).
+             S4 : Jt, 77.
+
+                                   Planctonema Schmidle
+
+Planctonema lauterbornii   Schmidle (pl. VI, 5). -- L, 7 pm ; 1, 2 pm. Signalé en France,
+       Suède (R).
+             Y2 : Jt, 76.
+                                                            -- 296 --
+
+                                                         Ulothrix Kütz.
+
+Ulothrix subtilissima R a b e n h . (pi. V I , 11). -- L d ' u n e cellule, 10 fxm ; 1, 6 p.m. Cosmopo
+      lite (R).
+             M2 : J t , 77.
+                                               Ordre : ZYGNÉMATALES
+                                               Familie : ZYCNEMATACEAE
+                                                      Mougeotia Agardh
+
+Mougeotia sp. (pi. V I , 15). -- L, 80 [xm ; 1, 5 [xm.
+             M3 : A, 76.
+
+                                        Spirogyra Link
+
+Spirogyra sp.
+             SI : A, 76 -- M2 : S, 76.
+
+                                                 Famille : DESMIDIACEAE
+                                                      Closterium Nitzsch.
+
+Closterium acerosum (Schrank) E h r b g . (pi. I X , 7). -- L, 420 [xm ; 1, 50 [xm. Cosmopolite (F).
+             M2 : A, S, 76.
+
+Closterium ehrenbergii var. ehrenbergii Meneghini (pi. I X , 5). -- L, 400 jxm ; 1, 70 [ira. Cosmo
+      polite (R).
+             M2 : A, 76.
+
+Closterium lunula var. lunula io. minor W e s t et West (pi. I X , 6). -- L, 290 jxm ; 1, 48 [xm.
+       Cosmopolite (PF).
+              SI : A, 76.
+
+Closterium pronum B r é b . (pi. I X , 9). -- L, 290 [xm ; 1, 10 [xm. Cosmopolite (R).
+             M2 : S 76.
+
+Closterium venus var. venus io. venus Kiitz. (pi. V I I I , 2). -- L, 85 fxm ; 1, 13 [xm. Cosmo
+       polite (R).
+             M2 : S, 76.
+                                                       Cosmarium Corda
+
+Cosmarium bioculatum B r é b . (pi. V I , 14). -- L, 15 [xm ; 1, 13 [xm ; é, 8 jxm ; i, 6 jxm. Cosmo
+       polite (R).
+              M2 : A, S, 76.
+                                                             -- 297 --
+
+Cosmarium circulare var. minus Hansg. (pl. V I I , 1). -- L, 93 p m ; 1, 30 p m ; é, 18 p m ;
+       i, 10 pm. Europe, Amérique, Pologne (PF).
+              M2 : A, S, 76.
+
+Cosmarium hammeri var. protuberans W e s t et W e s t (pl. VI, 13). -- L, 17 p m ; 1, 17 p m ; é,
+       8 pm ; i, 6 pm. Cosmopolite (R).
+              M2 : A, 76.
+
+Cosmarium lagerheimii Gütw. (pl. V I I , 3). -- L, 28 p m ; 1, 25 p m ; é, 13 p m ; i, 9 p m . E u r o p e ,
+       Pologne (F).
+              SI : A, 76 -- M2 : A, S, 76.
+
+Cosmarium punctulatum var. subpunctulatum (Nordst.) Birg. (pl. V I I , 6). -- L, 34 p m ;
+       1, 32 pm ; é, 18 pm ; i, 12 pm. Cosmopolite (PF).
+              SI : A, 76.
+
+Cosmarium sp. (pl. V I I , 2). -- L, 36 p m ; 1, 32 p m ; é, 17 p m ; i, 12 p m (R).
+              M2 : A, S, 76.
+
+Cosmarium reniforme (Ralfs) Arch. (pl. V I I , 4). -- L, 55 p m ; 1, 50 p m ; é, 30 p m ; i, 18 p m .
+       Cosmopolite (R).
+              Y : A, 76.
+                                                     Pleurotaenium Nâg.
+
+Pleurotaenium trabecula var. trabecula (Ehrbg.) Nâg. (pl. I X , 8). -- L, 540 p m ; 1, 32 p m ;
+       i, 30 pm. Cosmopolite (sauf Antarctique) (R).
+              M2 : A, 76.
+
+                                                     Spondylosium Bréb.
+
+Spondylosium planum (Wolle) West et West (pl. VI, 4). -- L, 15 p m ; 1, 18 p m ; i, 10 pm.
+       Cosmopolite (F).
+             Y : A, S, 76.
+                                                      Staurastrum Meyen
+
+Staurastrum apiculatum Bréb. (pl. V I I , 5). -- L, 22 p m ; 1, 21 p m ; i, 8 p m . Cosmopolite (R).
+             M2 : S, 76.
+
+Staurastrum avicula Bréb. (pl. V I I I , 4). -- L, 32 p m ; 1, 34 p m ; i, 8 p m . Cosmopolite (F).
+             SI : A, 76 -- Y A, S, 76 -- M2 : A, S, 76.
+
+Staurastrum furcatum (Ehrbg.) Bréb. (pl. V I I , 8). -- L, 25 p m ; 1, 22 p m ; i, 8 p m (épines
+      comprises). Cosmopolite (R).
+             M2 : A, S, 76.
+
+                                                                                                                                                                          1, 2 2
+                                                             -- 298 --
+
+Staurastrum paradoxum var. parvum W. W e s t (pl. V I I I , 5). -- L, 17 fxm ; 1, 28 [ira ; i, 6 fxm
+       (bras compris). Europe, Finlande, Hongrie (F). Cette espèce se rencontre fréquemment
+      en chaîne.
+             Y : S, 76 -- M2 : A, S, 76.
+
+Staurastrum polymorphum B r é b . (pl. V I I I , 6). -- Le n o m b r e de bras varie de 3 à 5. Les d e u x
+      hémisomates n'ont souvent pas le même nombre de bras : il existe des espèces à 3 et
+       4 bras, 4 et 5 bras. La forme la plus courante possède 3 bras à chaque hémisomate.
+       L, 22-30 [ira ; 1, 34-40 fxm, i, 8-10 [ira. Cosmopolite (F).
+             Y : A, S, 76 -- M2 : A, S, 76.
+
+Staurastrum punctulatum B r é b . (pl. V I I I , 3). -- L, 31 [ira ; 1, 33 [ira ; i, 13 [xm. Cosmopo-
+       lite (F).
+             M2 : A, S, 76.
+
+Staurastrum sebaldi var. ornatum Nordst. (pl. V I I I , 1) -- U n seul exemplaire possède trois
+       bras à u n h é m i s o m a t e et deux bras à l ' a u t r e . Tous les a u t r e s ont trois bras. L, 47 fxm ;
+       1, 70 fxm ; i, 10 jxm. Cosmopolite (A).
+              SI : A, S, 76 -- Y : A, S, 76 -- M2 : A, S, 76.
+
+Staurastrum tetracerum Ralfs (pl. V I I I , 7). -- L, 10 [ira ; 1, 35 [ira ; i, 7 [ira. Cosmopolite (R).
+             M2 : A, S, 76.
+
+                                                      Staurodesmus Teil.
+
+Staurodesmus connatus (Lund.) T h o m . (pl. V I I , 9). -- Les dimensions sont u n peu plus
+       grandes que celles du t y p e . L, 32 [ira ; 1, 48 fxm ; i, 8 [ira. Cosmopolite (R).
+              Y : A, S, 76.
+
+                                                      Xanthidium Ehrbg.
+
+Xanthidium antilopaeum var. hebridarum (Bréb.) K ù t z . (pl. V I I , 7). -- L, 52 [ira ; 1, 44 [ira ;
+       i, 12 [ira ; L épines, 12 fxm. E u r o p e (R).
+              SI : A, 76.
+
+                                              Ordre : MISCHOCOCCALES
+                                             Famille : CHLOROBOTRYDACEAE
+
+                                                   Dichotomococus Korch.
+
+Dichotomococus curvatus Korch. -- France (R).
+              M4 : Jt, 76.
+                                                             -- 299 --
+
+                                                      Heterodesmus Ettl.
+
+Heterodesmus gallicus Bourrel. et Coûté (pl. I X , 1). -- L, 10 p m ; 1, 2 p m . F r a n c e ( P F ) .
+       Il se présente en colonies de 8 à une vingtaine de cellules. Nouvelle espèce décrite
+
+dans : « Algues d'eau douce rares ou nouvelles pour la flore française. » Revue algologique,
+n.s., 1978, 13 (4) : 295-307.
+
+              M5 : Jt, 76.
+
+                                                    Famille : SCIADACEAE
+                                                     Centritractus Lemm.
+
+Centritractus belenophorus, L e m m . (pl. I X , 16). -- L, 48 p m ; 1, 4 p m . Cosmopolite (R).
+              M5 : Jt, 76.
+
+                                                       Ophiocytium Nâg.
+
+Ophiocytium capitatum Wolle (pl. I X , 2). -- L, 14 p m ; 1, 4 p m ; L épine, 14 p m . Cosmopo-
+       lite (R).
+              M4 : Jt, 76.
+
+                                            Famille : PLEUROCHLORIDACEAE
+                                                      Goniochloris Geitler
+
+Goniochloris Smithii (Bourrel.) F o t t (pl. I X , 12). -- L, 27 p m . Cosmopolite (PF).
+              S4 : A, 76.
+
+                                                 Pseudostaurastrum Chod.
+
+Pseudostaurastrum limneticum (Borge) Chod. (pl. I X , 13). -- L, 30 p m . Cosmopolite (R).
+             M2 : S, 76.
+
+Pseudostaurastrum hastatum var. palatinum (Reinsch.) Chod. Cette X a n t h o p h y c é e était
+       rangée dans les Chlorophycées sous le n o m de Tetraedron hastatum var. palatinum
+       (pl. IX, 15). -- L, 30 pm. Cosmopolite (R).
+              M2 : A, 76 -- M4 : Jt, 76.
+
+                                            Ordre : OCHROMONADALES
+                                                 Famille : DINOBRYACEAE
+                                                        Dinobryon Ehrbg.
+
+Dinobryon sertularia E h r b g . (pl. I X , 10 ; kyste : pl. I X , 17). -- L, 30 p m ; 1, 9 p m . Cosmo-
+       polite (A).
+              SI : A, S, 76 -- M2 : A, 76.
+                                                             -- 300 --
+
+Dinobryon bavaricum Imhof. (pl. I X , 10). --· L, 50 p m ; 1, 5 p m . Cosmopolite. S u r t o u t dans
+       les eaux froides (R).
+              M2 : S, 76.
+                                              Famille : OCHROMONADACEAE
+                                                   Oehromonas Wyssotzki
+
+Ochrornonas sp. (pl. I X , 20). -- L, 14,5 p m ; 1, 7 p m (R).
+              M3 : A, 76.
+
+                                                        Uroglena Ehrbg.
+
+Uroglena sp. (pl. I X , 11). -- L, 13 p m ; 1, 6 p m (R).
+              SI : A, S, 76.
+
+                                                          Synura Ehrbg.
+
+Synura sp. (pl. I X , 4). ·-- Impossible à déterminer sans la connaissance de la s t r u c t u r e des
+       écailles. L, 15 pm ; 1, 10 pm ; diamètre de la colonie, 50 pm (R).
+              M2 : A, S, 76.
+
+                                                       Mallomonas Perty
+
+Mallomonas fustigata var. kriegeri Bourrel. (pl. I X , 3). -- L, 30 p m ; 1, 12 p m . Cosmopo-
+       lite (A).
+              Y : A, S, 76 -- M2 : A, S, 76.
+
+Mallomonas tonsurata Teil. (pl. I X , 14). -- L, 18 p m ; 1, 12 p m . Cosmopolite (PF).
+             M2 : S, 76.
+
+                                                 Ordre : MONOSIGALES
+                                               Famille : SALPINGOECACEAE
+
+                                                       Salpingoeca Clark
+
+Salpingoeca frequentissima (Zach.) L e m m . (pl. X , 8). -- Cette espèce se rencontre sur des
+       Diatomées planctoniques telles Fragilaria crotonensis, Melosira. L, 10 p m ; 1, 4,5 p m .
+      Cosmopolite (PF).
+             SI : A, S, 76 -- M2 : A, 76.
+                                                             -- 301 --
+
+                                           Ordre : CRYPTOMONADALES
+                                             Familie : CRYPTOMONADACEAE
+                                                     Chroomonas Hansg.
+
+Chroomonas acuta U t e r m o h l . (pi. I X , 18). -- L, 12 [im ; 1, 8 p.m. Cosmopolite ( P F ) .
+             SI : A, S, 76 -- M2 : A, S, 76.
+
+                                                     Cryptomonas Ehrbg.
+Cryptomonas sp. (F).
+
+             SI : A, S, 76 -- Y : A, S, 76 -- M2 : S, 76.
+
+                                                Ordre : PÉRIDINIALES
+                                                 Familie : PERIDINIACEAE
+
+                                                       Ceratium Schrank
+
+Ceratium hirundinella (Müller) Schrank (pi. X, 4). -- L, 260 (im ; 1, 70 [im. Cosmopolite (A).
+       K y s t e (fig. 5). L, 140 [im ; 1, 40 (im.
+             SI : A, S, 76 --· Y : A, S, 76-- M2 : A, S, 76.
+
+                                                      Peridinium Ehrbg.
+
+Peridinium cinctum (Müller) E h r b g . (pi. X , 6). -- L, 40 (im ; 1, 46 [im. Cosmopolite (A).
+             SI : A, S, 76 -- Y : A, S, 76 -- M2 : A, 76.
+
+Peridinium cunningtonii (Lemm.) L e m m . (pi. X , 3). -- L, 40 [im ; 1, 32 [im. Cosmopolite (A).
+             SI : A, S, 76 -- Y : A, 76.
+
+Peridinium elpatiewsky (Ostenf.) L e m m . (pi. X, 7). -- L, 35 (im ; 1, 32 (im. Cosmopolite (F).
+             Y : A, 76 -- M2 : A, S, 76.
+
+Peridinium gatunense N y g a a r d (pi. X, 2). -- L, 55 [im ; 1, 60 [im. Cosmopolite (A).
+             SI : A, S, 76 -- Y : A, S, 76 -- M2 : A, S, 76.
+
+Peridinium Volzii L e m m . (pi. X, 1). -- L, 44 [im ; 1, 42 [im. Cosmopolite (A).
+             Y : S, 76 -- M2 : A, S, 76.
+                                                             -- 302 --
+
+Peridinium willei Hintf-Kass (pi. X, 9). -- L, 60 p m ; 1, 60 p m . Cosmopolite (A).
+             Y : A, S, 76.
+
+                                                  Ordre : EUGLÉNALES
+                                                  Familie : EUGLENACEAE
+
+                                                         Euglena Ehrbg.
+
+Euglena acus E h r b g . (pi. X I , 6). -- L, 150 pm ; 1, 11 pm. Cosmopolite (F).
+             SI : A, 76.
+
+Euglena oxyuris Schmarda (pi. X I , 5). -- L, 260 p m ; 1, 30 p m . Cosmopolite (F).
+             SI : A, S, 76 -- M2 : A, S, 76.
+
+Euglena spirogyra E h r b g . (pi. X I , 4). -- L, 125 p m ; 1, 10 p m . Cosmopolite (R).
+             SI : S, 76.
+
+                                                       Lepocinclis Perty
+
+Lepocinclis salina Fritsch. (pi. X I , 8). -- L, 35 p m ; 1, 28 p m . Cosmopolite (F).
+             SI : A, S, 76 -- Y : S, 76 -- M2 : A, S, 76.
+
+                                                        Phacus Dujardin
+
+Phacus curvicauda Swir. (pi. X I , 12). -- L, 28 p m ; 1, 24 p m . Cosmopolite (R).
+             M2 : A, 76.
+
+Phacus longicauda (Ehrbg.) Dujardin (pi. X I , 2). -- L, 150 p m ; 1, 60 p m . Cosmopolite (F).
+             SI : A, S, 76 -- M2 : A, 76.
+
+Phacus orbicularis H ü b n e r (pi. X I , 7). -- L, 43 p m ; 1, 34 p m . Cosmopolite (F).
+             SI : A, S, 76 -- M2 : A, S, 76.
+
+Phacus pyrum (E.) Stein (pi. X I , 3). -- L, 33 p m ; 1, 15 p m . Cosmopolite (R).
+             M5 : A, 76.
+
+Phacus tortus (Lemm.) Skv. (pi. X I , 1). -- L, 84 p m ; I, 30 p m . Cosmopolite (F).
+             SI : A, S, 76 -- Y : A, S, 76 -- M2 : A, S, 76.
+
+Strombomonas Deflandre
+
+Strombomonas verrucosa var. zmiewika  (Swir.) Defl. (pi. XI, 13). -- L, 36 pm ; 1, 20 pm.
+      Cosmopolite (R).
+             M2 : A, 76.
+                             -- 303 --
+
+                             Trachelomonas Ehrbg.
+
+Trachelomonas crebea Kellicot emend. Defl. (pl. X I , 10). -- L, 25 p m (avec col) ; 1, 18 p m .
+      Cosmopolite (F).
+             SI : A, S, 76 -- M2 : A, S, 76.
+
+Trachelomonas hispida (Perty) Stein emend. Dell. (pl. X I , 16). --· L, 28 p m ; 1, 23 p m .
+      Cosmopolite (Pf).
+             SI : A, S, 76.
+
+Trachelomonas hispida var. coronata L e m m . (pl. X I , 14). -- L, 35 p m ; 1, 25 p m (avec col).
+      Europe, Amérique du Sud (R).
+             M2 : S, 76.
+
+Trachelomonas intermedia Dangeard (pl. X I , 9). -- L, 22 p m ; 1, 18 p m . Cosmopolite ( F ) .
+             SI : A, S, 76 -- Y : A, S, 76 -- M2 : A, S, 76.
+
+Trachelomonas volvocina E h r b g . (pl. X I , 15). -- Diamètre, 10 p m . Cosmopolite ( P F ) .
+             SI : S, 76 -- M2 : S, 76.
+
+Trachelomonas woycikii    Koczwara (pl. X I , 11). ·-- L, 22 p m ; 1, 24 pm. E u r o p e , île de la
+      Sunda (R).
+             SI : S, 76.
+
+Trachelomonas woycikii var. pusilla Drez. (pl. X I , 17). --· Diffère de l'espèce seulement
+      par sa petite taille. Diamètre, 16 pm. Amérique du Sud, Pologne, Létonie, Estonie (R).
+             SI : A, 76.
+
+               T A B L E A U I. -- Distribution des algues dans les différents groupes.
+
+                                                Nbre                                       Nbre
+                                                                                         d'espèces %
+                          %                     d'espèces %
+
+CHLOROPHYTES               73 Prasinophycées       1 0,7 Pyramimonadales                 1       0,7
+                                 Chlorophycées
+CHROMOPHYTES                                     8 6 55,3 Volvocales                     12      7,7
+PYRRHOPHYTES                     Zygophycées                      Tétrasporales
+EuGLÉNOPHYTES                                                     Chlorococcales         3       1,8
+TOTAL                      10 Xanthophycées                       Ulothricales
+                                 Chrysophycées                                           68      44
+                                                 20 17 Zygnématales
+                             6 Cryptophycées                                             3       1,8
+                                  Dinophycées                     Desmidiales
+                                                   7 4,6 Mischococcales                  2       1,4
+                           11 Euglénophycées       8 5,3 Ochromonadales
+                                                                                         24 15,6
+                          100                                     Monosigales
+                                                   2 L4 Cryptomonadales                  7       4,6
+                                                   7 4,6 Péridiniales
+                                                                                         7       4,6
+                                                 17 11,1 Euglénales
+                                                                                         1       0,7
+                                                154 100
+                                                                                         2       1,4
+
+                                                                                         7       4,6
+
+                                                                                         17 11,1
+
+                                                                                         154 100
+                                                             -- 304 --
+
+       154 espèces ont été dénombrées. Leur distribution entre les différents groupes est
+présentée dans le tableau I. Les Chlorophytes sont les plus abondants (73 % ) . Viennent
+ensuite les Euglénophytes (11 % ) , les Chromophytes (10 %) et les Pyrrhophytes (6 % ) .
+L'ordre des Chlorococcales est le plus largement représenté (60 % des Chlorophytes). Parmi
+elles, le genre Scenedesmus prédomine avec 18 espèces soit 26 % . L'ordre des Desmidiales
+vient en deuxième position (21 % des Chlorophytes) et les genres Closterium, Cosmarium
+et Staurastrum sont les plus fréquemment rencontrés.
+
+       Des espèces intéressantes et rares ont été trouvées. Sont signalées ici trois espèces
+nouvelles pour l ' E u r o p e (Coenocystis subcylindrica Korch., connu de Russie et du C a n a d a ;
+Gloeactinium limneticum Smith, connu des USA, Ouest-Afrique, Inde ; Lobocystis dicho-
+toma T h o m p s o n , connu des USA) et trois espèces nouvelles pour la France [Cartería peter-
+hofiensis Kiss., connu en Russie et en Suède ; Paradoxia multisela Swir., connu de Russie,
+Bohême, Argentine, Autriche, Suisse, Turquie et USA ; Siderocelis coronata (Lemm.) F o t t ,
+connu d'Europe à l'exception de la France). Des espèces rarement signalées ont été aussi
+rencontrées : c'est le cas pour Heterodesmus gallicus Bourrel. et Coûté, nouvelle espèce
+r é c e m m e n t décrite de la Seine, Catena viridis Chod., Centritractus belenophorus Lemm.,
+Dichotomococcus curvatus Korch., Lobocystis dichotoma var. mucosa Bourrel., Planctonema
+lauterbornii Schmidle, Treubaria triappendiculata Bernard, Volvox giobator (Linné) E h r b g .
+(fertile), Volvox tertius Meyen.
+
+       Cet inventaire, bien qu'établi à partir de très nombreuses récoltes (environ 400) étalées
+sur une année entière, nécessiterait pour être complet une étude de la partie située en aval
+de Paris. La traversée de cette grande agglomération entraîne, à l'évidence, des perturba-
+tions au niveau du phytoplancton. Pour parfaire le travail et lui donner une signification
+écologique, il faudrait entreprendre une recherche concernant la répartition spatiale des
+différents groupes d'algues en fonction des facteurs physico-chimiques du milieu. L'étude
+des algues benthiques serait aussi souhaitable. On peut déjà signaler qu'il n'y a aucune
+algue indicatrice de pollution marquée.
+
+                                       RÉFÉRENCES BIBLIOGRAPHIQUES
+
+B O U R R E L L Y , P., 1966-1970. -- Les algues d'eau douce. Éd. N. Boubée, Paris. T . I, 1966, algues
+         vertes : 511 p. ; T . II, 1968, algues jaunes et brunes : 438 p. ; T . III, 1970, algues bleues
+         et rouges : 512 p.
+
+B O U K R E L L Y , P., et A. C O Û T É , 1978. -- Algues d'eau douce rares ou nouvelles pour la flore française.
+         Revue algol., n.s., 13 (4) : 295-307.
+
+CHODAT, R., 1926. -- Scenedesmus. Étude de génétique, de systématique expérimentale et d'hydro-
+         biologie. Revue Hydrobiol., 3 : 258 p.
+
+C O Û T É , A., 1979. -- Cyanophycées planctoniques du bassin de la Seine. Rull. Mus. natn. Hist.
+         nat., Paris, 4« sér., 1, sect. B, n° 4 : 267-283.
+
+E T T L , H., 1978. -- Xanthophyceae. In : H. E T T L , J . G E R L O F F et H. H E I N I G , Süsswasserflora von
+         Mitteleuropa. Stuttgart-New York, 3 (1) : 530 p.
+
+FOTT, B., 1972. -- Das Phytoplankton des Süsswassers (Huber-Pestalozzi G.) Chlorophyceae =
+         tetrasporales. In : A. T H I E N E M A N N , Die Binnengewässer, Stuttgart. 16 (6) : 116 p., 47 pl.
+                                                             -- 305 --
+
+H U B E R - P E S T A L O Z Z I , G., 1941. -- Das Phytoplankton des Süsswassers. -- Chrysophyceen, 16, 2, 1
+         366 p. -- 1961 : chlorophvceae = volvocales. In : A. T H I E N E M A N N , Die Binnengewässer
+         Stuttgart. 16 (5) : 744 p.,"l58 pl.
+
+K O M A R K O V A - L E G N E R O V A , J . , 1969. --- The systematics and ontogenesis of the genera Ankistro-
+         desmus Corda and Monoraphidium gen. nov. -- In : F O T T , Studies in Phycology. Stuttgart,
+         p. 75-144.
+
+K R I E G E R , W . , 1932. -- Die Desmidiaceen der Deutschen Limnologischen Sunda-Expedition.
+         « Tropische Binnengewässer 3 ». Arch. Hydrobiol., 11 : 129-230.
+
+K R I E G E R , W . , et J . G E R L O F F , 1962-1969. -- Die Gattung Cosmarium. Cramer, Weinheim. T . I,
+         1962 : 1-112, 19 pl. ; T . II, 1965 : 113-240, 20 pl. ; T. III-IV, 1969 : 241-410, 19 pl.
+
+L E F È V R E , M., 1932. -- Monographie des espèces d'eau douce du genre Peridinium Ehrb. Archs
+         Bot., Caen, 2 (5) : 210 p.
+
+  -- 1943. -- Contribution à la connaissance du phytoplancton du Bassin de la Seine. Extrait
+         des Cahiers de la Commission du Bassin de la Seine, Cahier n° 3.
+
+P O C H M A N , A., 1942. -- Synopsis der Gattung Phacus. Arch. Protistenk., 252 p.
+
+P R E S C O T T , G. W . , 1961. -- Algae of the western great lakes area. Brown Company Publishers.
+         Dubuque, Iowa. 977 p.
+
+P R E S C O T T , G. W . , H . T . C R O A S D A L E et W . C. W I N Y A R D , 1975. -- A synopsis of North American
+         Desmids. Desmidiaceae = Placodermae. University of Nebraska press, Lincoln. 2 (1) : 275 p.
+
+B E H A K O V A , H . , 1969. -- Die Variabilität der Arten der Gattung Oocystis A. Braun. In : F O T T ,
+         Studies in Phycology, Stuttgart : 145-196.
+
+S U L E K , J., 1969. -- Taxonomische Übersicht der Gattung Pediastrum Meyer. In : F O T T , Studies
+         in Phycology, Stuttgart : 197-264.
+
+T E I L I N G , E., 1967. -- The desmid genus Staurodesmus. Ark. Bot., Stokholm, 6 (2/11) : 467-629,
+         34 pl.
+
+U H E R K O V I C H , G., 1966. -- Die Scenedesmus Arten Ungarns. Akademiai Kiado. 173 p.
+
+ W E S T , W . , et G. S. W E S T , 1905-1923. -- A monograph of the British Desmidiaceae. Adblard and
+         son and West Newman, London. II, 1905 : 1-204 p., 32 pl. ; III, 1908 : 1-273 p., 31 p i ; IV,
+         1912 : 1-191 p., 32 pl. ; V, 1923 : 1-300 p., 39 pi.
+
+                                                                                    Manuscrit déposé le 25 mai 1979.
+                                                             -- 306 --
+
+                                                                   PLANCHE I
+      1, Collodictyon triciliatum Carter ; 2, Cartería peterhofiensis Kiss, (d'après BOURRELLY et COÛTÉ) ;
+3, Cartería multifilis (Fres.) Dill. ; 4, Tetraselmis cordiformis Stein ; 5, Phacotus lenticularis (E.) Stein :
+a, vue de face ; b, vue de profil ; 6, Chlamydomonas sp. ; 7, Franceia Droescheri (Lemm.) G. M. Smith ;
+8, Pteromonas aequiciliata (Gicklh) Bourrel. ; 9, Sphaerellopsis gloeocystiformis (Dill.) Gerloff. ; 10, Fran-
+ceia ovalis (France) Lemm. (autosporulation) ; 11, Slylosphaeridium stipitatum (Bachm.) Geitler et Gimesi. ;
+12, 13, 14, Treubaria triappendiculata Bernard, formes à 3, 4, 6 bras ; 15, Chodatella (Lagerheimia) geneven-
+sis var. subglobosa (Lemm.) Bourrel. ; 16, Oocystis lacustris Chod. ; 17, Oocystis parva West et West.
+
+                                                               (Échelle = 10 [im.)
+PLANCHE I
+                                                             -- 308 --
+
+                                                                  PLANCHE II
+      1, Chodatella ciliata (Lagerh.) Lemm. ; 2, Ankistrodesmus gracilis (Reinsch) Kôrs. ; 3, Kirchneriella
+obesa (West et West) Schmidle ; 4, Chodatella citriformis Snow ; 5, Quadrigula closterioides (Bohl.) Printz. ;
+6, Chodatella citriformis Snow, autosporulation ; 7, 11, Ankistrodesmus bibraianus (Reinsch) Kôrs. ; 8, Clos-
+teriopsis acicularis (G. M. Smith) Belcher et Swall ; 9, Ankistrodesmus falcatus (Corda) Ralfs ; 10, Mono-
+raphidium contortum Thuret.
+
+                                                               (Échelle = 10 [im.|
+PLANCHE  II
+                                                             -- 310 --
+
+                                                                  PLANCHE III
+      1, Sphaeroeystis schroeteri Chod. ; 2, Gloeocystis ampla (Kütz.) Rabenh. ; 3, Dictyosphaerium pulchel-
+lum Wood ; 4, Botryococcus hraunii Kütz. ; 5, Eudorina elegans Ehrbg. ; 6, Pandorina rnorum (Müller) F o t t ;
+7, Siderocelis coronata (Lemm.) Bory ; 8, Zygote de Volvox globalor (Linné) Ehrbg. ; 9, Volvox tertius A. Meyer,
+détails de quelques cellules de la colonie : vue en coupe optique ; 10, Pseudosphaerocystis lacustris (Lemm.)
+Novàkovà ; 11, Gonium pectorale Müller ; 12, Volvox globalor (Linné) Ehrbg., détails de quelques cellules
+de la colonie : vue en coupe optique.
+
+                                                              (Échelle = 10 u.m.)
+PLANCHE  III
+                                                             -- 312 --
+
+                                                                  PLANCHE IV
+      1, Golenkinia radiata (Chod.) Wille ; 2, Crucigenia quadrata Morren ; 3, Lobocystis dichotoma Thomp-
+son ; 4, Crucigenia tetrapedia (Kirch) West et West ; 5, Polyedriopsis spinulosa Schmidle ; 6, Lobocystis
+dichotoma var. mucosa Bourrel. ; 7, Schroederia setigera Lemm. ; 8, Gloeactinium limneticum G. M. Smith ;
+9, Paradoxia multisela Swir. (d'après BOURRELLY et COÛTÉ) ; 10, Micractinium pusillum Fres. ; 11, Coeno-
+cystis subcylindrica Korch. ; 12, Tetraedron minimum (A. Braun) Hansg. ; 13, Tetraedron trigonum (Näg.)
+Hansg. ; 14, Tetraedron reguläre var. incus Teil. ; 15, Tetraedron trigonum var. papilliferum (Lemm.) Schrö-
+der ; 16, Tetraedron reguläre Kütz. ; 17, Tetraedron caudatum (Corda) Hansg. ; 18, Tetraedron minimum var.
+scrobiculatum Lagerh.
+
+                                                               (Échelle ==10 (im.)
+                                                                  PLANCHE V
+
+      1, Crucigenia rectangularis (Näg.) Komârek ; 2, Scenedesmus intermedius var. balatonicus Hortob. ; 3, Sce-
+nedesmus intermedius Chod. ; 4, Scenedesmus ecornis var. disciformis Chod. ; 5, Scenedesmus ecornis (Ralfs)
+Chod. ; 6, Scenedesmus brasiliensis Bohlin ; 7, Coelastrum microsporum Näg. ; 8, Coelastrum reticulatum
+(Dang.) Senn. ; 9, Scenedesmus falcatus fo. maximus Uherkov. ; 10, Scenedesmus falcatus Chod. ; 11, Scene-
+desmus spinosus Chod. ; 12, Scenedesmus brevispina G. M. Smith ; 13, 20, Scenedesmus denticulatus Lagerh. ;
+14, Scenedesmus opoliensis P. Rieht ; 15, Scenedesmus arcuatus Lemma ; 16, Scenedesmus serratus (Corda)
+Bohlin ; 17, Actinastrum hantzschii Lagerh. ; 18, Scenedesmus quadricauda (Turp.) Bréb. ; 19, Tetrastrum
+staurogeniaeforme (Schröder) Lemm. ; 21, Scenedesmus quadricauda var. longispina fo. granulatus Uher-
+kov. ; 22, Scenedesmus quadricauda var. longispina fo. asymetricus (Hortob.) Uherkov. ; 23, Scenedesmus
+pannonicus Hortob. ; 24, Scenedesmus ovalternus var. graevenitzii (Bernard) Chod.
+
+                                                               (Échelle = 10 ¡xm.)
+PLANCHE V
+                                                             -- 316 --
+
+                                                                  PLANCHE VI
+      1, Pediastrum tétras var. tetraodon (Corda) Rabenh. ; 2, Pediastrum duplex Meyen ; 3, Pediastrum
+biradiatum Meyen ; 4, Spondylosium planum (Wolle) West et West ; 5 ; Planctonema lauterbornii Schmidle
+(d'après BOURRF.LLY et COÛTÉ) ; 6, Pediastrum simplex (Meyen) Lemm. ; 7, Sorastrum americanum (Bohlin)
+Schmidle ; 8, Catena viridis Chod. (d'après BOURRELLY et COÛTÉ) ; 9, Pediastrum boryanum (Turp.) Menegh. ;
+10, Pediastrum tetras (Ehrg.) Balfs ; 11, Ulothrix subtilissima Rabenh. ; 12, Pediastrum clathratum (Schröd.)
+Lemm. ; 13, Cosmarium hammeri var. protuberans West et West ; 14, Cosmarium bioculatum Bréb. ; 15, Mou-
+geotia sp.
+
+                                                              (Échelle = 10 (im.)
+PLANCHE  VI
+                                                             -- 318 -
+
+                                                                 PLANCHE VII
+      1, Cosmarium circulare var. minus Hansg. : a, vue frontale ; b, vue apicale ; 2, Cosmarium sp. : a, vue
+frontale ; b, vue apicale ; 3, Cosmarium lagerheimii Giitw. : a, vue frontale ; b, vue apicale ; 4, Cosmarium
+reniforme (Ralfs) Arch. : a, vue frontale ; b, vue apicale ; 5, Staurastrum apiculatum Bréb. : a, vue frontale ;
+b, vue apicale ; 6, Cosmarium punctulatum var. subpunctulatum (Nordst.) Bôrg. : a, vue frontale ; b, vue
+apicale ; 7, Xanthidium antilopaeum var. hebridarum (Bréb.) Kütz. ; 8, Staurastrum furcatum (Ehrbg.)
+Bréb. : a, vue frontale ; b, vue apicale ; 9, Staurodesmus connatus (Lund.) Thom. : a, vue apicale ; b, vue
+frontale.
+
+                                                               (Échelle = 10 ¡xm.)
+PLANCHE VII
+                                                             -- 320 --
+
+                                                                PLANCHE Vili
+      1, Staurastrum sebaldi var. ornatimi Nordst. : a, vue frontale ; b, vue apicale ; 2, Closterium venus var.
+venus fo. venus Kiitz. ; 3, Staurastrum punctulatum Bréb. : a, vue frontale ; b, vue apicale ; 4, Staurastrum
+avicula Bréb. : a, vue frontale ; b, vue apicale ; 5, Staurastrum paradoxum var. parvum W. West ; 6, Stau
+rastrum polymorphum Bréb. ; 7, Staurastrum tetracerum Ralfs.
+
+                                                               (Échelle = 10 u.m.)
+PLANCHE  VIII
+                                                             -- 322 --
+
+                                                                                 PLANCHE IX
+
+      1, Heterodesmus gallicus Bourrel. et Coûté ; 2, Ophiocytium capitatimi Wolle ; 3, Mallomonas fastigata
+var. kriegeri Bourrel. ; 4, Synura sp. ; 5, Closterium ehrenbergii var. ehrenbergii Menegh. ; 6, Closterium
+lunula var. lunula fo. minor West et West ; 7, Closterium acerosum (Schrank) Ehrbg. ; 8, Pleurotaenium
+trabecula var. trabecula (Ehrbg.) Näg. ; 9, Closterium pronum Bréb. ; 10, Dinobryon sertularia Ehrbg. ;
+11, Uroglena sp. ; 12, Goniochloris smithii (Bourrel.) Fott ; 13, Pseudostaurastrum limneticum (Borge) Chod. ;
+14, Mallomonas tonsurata Teil. ; 15, Pseudostaurastrum hastatum var. palatinum (Reinsch.) Chod. ; 16, Cen-
+tritractus belenophorus Lemm. (d'après BOURRELLY et COLTE) ; 17, Kyste de Dinobryon sertularia Ehrbg. ;
+18, Chroomonas acuta Uterm. ; 19, Dinobryon bavaricum Imhof. ; 20, Ochromonas sp.
+
+                                                               (Échelle = 10 (im.)
+PLANCHE  IX
+                                                             -- 324 --
+
+                                                                   PLANCHE X
+      1, Peridinium volzii Lemm. : a, vue ventrale ; b, vue dorsale ; c, vue apicale ; d, vue antapicale ; 2, Peri-
+dinium gatunense Nygaard : a, vue ventrale ; b, vue dorsale ; c, vue apicale ; d, vue antapicale ; 3, Peridi
+nium cunningtonii (Lemm.) Lemm. : a, vue apicale ; b, vue antapicale ; c, vue dorsale ; 4, Ceralium hirun-
+dinella (Müller) Schrank : a, vue dorsale ; b, vue ventrale ; 5, Kyste de Ceratium hirundinella (Müller)
+Schrank ; 6, Peridinium cinctum (Müller) Ehrbg. : a , vue dorsale ; b, vue ventrale ; c, vue apicale ; d, vue
+antapicale ; 7, Peridinium elpatietvskyi (Ostenf.) Lemm. : a, vue apicale ; b, vue ventrale ; c, vue dorsale ;
+8, Salpingoeca frequentissima (Zach.) Lemm. ; 9, Peridinium willei Hintf-Kass : a, vue ventrale ; b, vue
+dorsale ; c, vue apicale ; d, vue antapicale.
+
+                                                               (Echelle = 10 |xm.)
+PLANCHE X
+                                                             -- 326 --
+
+                                                                  PLANCHE XI
+      1, Phacus tortus (Lemm.) Skw. ; 2, Phacus longicauda (Ehrbg.) Dujardin ; 3, Phacus pyrum (E.) Stein ;
+4, Euglena spirogyra Ehrbg. ; 5, Euglena oxyuris Schmarda ; 6, Euglena acus Ehrbg. ; 7, Phacus orbicularis
+Hübner ; 8, Lepocinclis salina Fritsch ; 9, Trachelomonas intermedia Dangeard ; 10, Trachelomonas crebea
+(Kellicott) emend. Dell. ; 11, Trachelomonas Woycikii Koczwara ; 12, Phacus curvicauda Swir. ; 13, Strom-
+bomonas verrucosa var. zmiewika (Swir.) Defl. ; 14, Trachelomonas hispida var. coronata Lemm. ; 15, Tra
+chelomonas volvocina Ehrbg. ; 16, Trachelomonas hispida (Perty) Stein emend. Defl. ; 17, Trachelomonas
+woycikii var. pusilla Drez.
+
+                                                               (Échelle = 10 y.m.)
+PLANCHE XI
+                                           Bull. Mus. nain. Hist, nat., Paris, 4 e sér., 1, 1979,
+                                                          section B, n° 4 : 329-354.
+
+ Biomasse et production du phytoplancton de la baie de Guanabara
+
+                                 de Rio de Janeiro,
+
+et du secteur océanique adjacent. Variations de mai à juillet 1978
+
+     p a r J. S E V R I N - R E Y S S A C , M . C. M A C H A D O , M . L . M O T T A S C H U T Z E , S . G A S P A R B I B A S ,
+
+                                 I. C O S T A de L I M A , C. A R A U J O L I M A et C . P. E S T E V E S *
+
+      Abstract. -- The quantitative evolution of phytoplankton was studied at 8 stations in the
+bay of Guanabara and at 2 stations in the oceanic waters. These two areas, and chiefly the bay,
+are characterized by a very important pollution. In the bay, the phytoplankton is exceptionally
+rich (often more than 10 million of cells/liter) and especially constituted with Cyanophyceae (until
+45 million of filaments/liter) and with Diatoms (until about 27 million/liter). The Cyclotella,
+Thalassiosira, Sloeletonema and Nitzschia are the most represented. Red waters, chiefly caused
+by the multiplication of a Chloromonadine (about 20 million of cells/liter) were observed. The
+concentrations of chlorophyll a are, very often, more than 20 mg m"3. The maximum observed
+was 47,7 mg m 3 . Primary production is very high : until 1374 mg C m 3 day. The abundance
+of phytoplankton is characteristic of an eutrophic area.
+
+       In the oceanic waters, the phytoplankton is much sparser (generally less than 1 million of
+cells/liter and less than 1 mg n r 3 of chlorophyll a).
+
+      Resumo. -- Neste trabalho, pretendemos dar urna idéia da importancia quantitativa do
+fitoplancton e de suas variaçôes no espaço e no tempo em ambientes caracterizados por urna forte
+poluiçâo.
+
+      As coletas foram feitas urna vez cada 10 dias, de maio a julho de 1978 em 8 estaçôes locali-
+zadas na baía de Guanabara e em 2 estaçôes distribuidas ñas aguas oceánicas na altura de Ipanema
+(estado de Rio de Janeiro, Brasil).
+
+      Na baía, sâo fréquentes populaçôes superiores aos 10 milhôes de células/litro. As Cianofíceas
+que apresentam desinvolvimentos consideraveis (até 47 milhôes de filamentos/litro) e as Diato-
+máccas que proliferam em toda a baía (cerca de 27 milhôes de células/litro), constituem geralmente
+a parte principal da biomassa fitoplanctônica. As Diatomáceas pertencem principalmente aos
+géneros Cyclotella, Thalassiosira, Skeletonema e Nitzschia.
+
+      Mesmo os Dinoflagelados que foram pouco representados na maioria das coletas, algumas
+vezes, tomaram urna importancia muito grande (até 11 milhôes/litro). Isto ocorreu, sobretudo,
+nos lugares mais calmos da baía, onde eles contribuiram para a formacáo de aguas vermelhas.
+Gonyaulax diacanlha, Gonyaulax catenata e Prorocentrum micans foram particularmente abundantes.
+
+      As condiçôes naturais na baía (aguas calmas, quentes e muito poluidas) sâo propicias ao
+aparecimiento de aguas vermelhas. Essas condiçôes favorecem a pululaçâo de um fitoflagelado do
+grupo das Chloromonadinas cuja concentraçâo foi aproxidamente de 20 milhôes de células/litro.
+Foram sobretudo esses organismos e nao os Dinoflagelados, que provocaram o aparecimento das
+aguas vermelhas durante o período de estudo.
+
+      As concentraçôes em clorofila a sâo muito altas, sobretudo no norte da baía, onde elas excedem
+muitas vezes 20 mg m"3. O valor máximo (47,7 mg m"3) correspondeu as aguas vermelhas.
+
+      * J . SEVRIN-REYSSAC : Muséum national d'Histoire naturelle, Laboratoire d'Ichtyologie générale et
+appliquée, 43, rue Cuvier, 75231 Paris Cédex 05, France.
+
+      M . C. MACHADO et al. : Unwersidade Santa Ursula, C. P. 16086. Tiio de Janeiro, B. J. Brasil.
+
+                                                                                                                                                                        1, 2 4
+                                                             -- 330 --
+
+      A importancia das populacoes de fitoplancton também aparece nos resultados das medidas
+da producáo primaria (método do 14 C « in situ ») obtidos na baia de Botafogo. Embora essas aguas
+sejam as menos ricas de toda a baia, a producáo primaria é muito alta : medias mensais superiores
+à 600 mg C m~3 dia. O valor máximo observado foi de 1374 mg C n r 3 dia. Nos os consideramos
+como caracteristicos de meios transformados.
+
+      Além de sua grande abundancia, o fitoplancton da baia é também caracterizado por urna forte
+variabilidade quantitativa no espaco e no tempo. Essa particularidade aparece tanto nos resul-
+tados das numeracòes celulares quanto nos de dosagens da clorofila a.
+
+      As populacoes sào menos densas na estacoes próximas à saida da baia do que naquelas situadas
+no interior, mas observe-se também, frequentemente, grandes diferencias entre estacoes vizinhas.
+Essa variabilidade se explica por condicSes muito variaveis do meio, segundo os lugares da baia
+(submetidos as causas de poluicáo de natureza diferente). Com relacáo as variacoes temporais,
+observa-se que a sua amplitude aumenta da entrada da baia em direcào de sua parte mais interna.
+
+      A abundancia consideravel das células na baia pode ser considerada como característica de
+urna regiào eutrofica.
+
+      No setor oceánico situado na altura de Ipanema, a densidade do fitoplancton é bem menor
+que na baia. Na maioria das amostras, eia nao excede 1 milháo de células/litro. Frequentemente,
+as Cianofíceas tèm urna importancia semelhante. Os Flagelados, entre os quais encontraram-se
+alguns Chloromonadinas, e as Diatomáceas, sao os principáis constituintes do fitoplancton. As
+proliferacoes, bem mais iracas que na baia, apareceram sobretudo ao nivel inferior da carnada
+eufótica (até 8,6 milhoes de filamentos/litro para as Cianofíceas e até 3,8 milhoes de células/litro
+para as Diatomáceas). Na estacào mais submetida à influencia do esgoto, o desinvolvimento do
+fitoplancton nao foi mais importante de que na estacào mais distante.
+
+      Os Dinoflagelados foram raros em todas as amostras.
+      As concentragoes de clorofila a sao muito iracas, comparadas com as da baia (menos de
+1 mg m"3).
+      Apezar das influencias de naturezas variadas e que nao podem ser separadas (esgoto de Ipane-
+ma, baia de Guanabara, lagoa de Freitas), as populacoes fitoplanctonicas nao parecem ter sido
+modificadas.
+
+                                                                              INTRODUCTION
+
+       Nous exposerons ici les premiers résultats du travail entrepris par l'Université Santa
+Ursula de Rio de Janeiro sur le phytoplancton d'une zone littorale soumise à une intense
+pollution. Seul l'aspect quantitatif sera envisagé. Les aspects qualitatif, dynamique (étude
+des indices de diversité spécifique) ainsi que les caractéristiques biogéographiques du phyto-
+plancton de cette région feront l'objet d'un travail ultérieur.
+
+       Dans le cadre de cette étude, nous nous intéresserons au développement des populations
+végétales dans l'espace et le temps, en rapport avec un milieu dont les caractéristiques
+naturelles ont été profondément modifiées par suite d'une forte pollution d'origine indus-
+trielle et domestique. L'étude du phytoplancton est particulièrement importante dans de
+telles zones car les organismes qui le composent ont la capacité de concentrer les polluants
+( Y O S H I D A , 1 9 7 3 ) , ou de les retenir par phénomène d'adsorption, lorsqu'il s'agit d'hydro-
+carbures par exemple (MARCHAND et D U U R S M A , 1975).
+
+       La baie de Guanabara, très riche sur le plan ichtyologique (Sciaenidae, Carangideae,
+Engraulidae, Clupeidae), est le siège d'une pêche active. La présence, surtout en été, d'abon-
+dantes populations de sardines, contribue à en faire un secteur de premier plan du point
+de vue économique. Or, l'alimentation des sardines étant, en partie, constituée de phyto-
+plancton, on comprend l'importance de ces végétaux, non seulement comme maillon essen-
+                                                             -- 331 --
+
+tiel dans la chaîne alimentaire mais aussi comme moyen de transfert, vers des organismes
+directement consommables par l'homme, de matières toxiques diverses. Selon les estimations
+faites à Rio de Janeiro par la FEEMA (Fundaçào estadual de Engenharia do Meio ambiente),
+14 tonnes de substances hautement toxiques seraient déversées chaque jour dans la baie.
+Celle-ci aurait ainsi la plus forte concentration connue en mercure.
+
+                                                                                 MÉTHODOLOGIE
+
+       Les méthodes utilisées étant classiques, nous n'en parlerons que très brièvement.
+       Numérations des cellules : Les comptages ont été faits au microscope inversé (méthode
+d'Utermôhl) à l'aide de cuves à sédimentation de 10 ml. En raison de la richesse des eaux
+en phytoplancton et de la grande quantité de matière détritique dans la baie de Guanabara,
+il a été nécessaire de diluer, à l'eau distillée, les échantillons d'eau de mer (fixés au formol)
+destinés aux comptages. Pour les échantillons provenant de la baie, le volume d'eau de mer
+était inférieur à 1 ml. Dans les eaux océaniques, beaucoup moins riches, le volume a été
+plus important (jusqu'à 2 ou 3 ml).
+       Mesure des pigments : A u x stations de la baie, filtration de 1 à 2 litres sur filtre en
+fibre de verre W h a t m a n G F / C . Dans les eaux océaniques, la q u a n t i t é d'eau filtrée a été
+de 3 à 5 litres. T r a i t e m e n t du filtre à l'acétone après broyage et centrifugation de l'extrait
+p e n d a n t 10 à 15 minutes à 4 000 r o t a t i o n s / m . Calcul des concentrations en chlorophylle a,
+sans acidification, à l'aide des formules préconisées par le groupe de travail international
+de l'UNESCO (Anonyme, 1966).
+       Mesure de la production primaire : Les flacons utilisés, d'une contenance de 250 ml,
+ont été placés pour l'incubation, en surface et au niveau inférieur de la couche euphotique,
+c'est-à-dire généralement au fond (5 m). Marquage avec 0,5 nd d'une solution de 14 C ayant
+une activité de 7,18 p C/ml. Cette expérience a eu lieu dans la baie de Botafogo (station
+DW 5). L'incubation débutait entre 9 et 10 h pour se terminer entre 13 et 14 h. Cette durée
+de quatre heures paraît suffisante, surtout dans les eaux chaudes et très polluées où il est
+préférable de ne pas augmenter encore l'action des bactéries à l'intérieur des flacons en pro-
+longeant l'expérience. Filtration dès le retour au laboratoire, soit moins de 1 heure après
+la récupération des flacons, sur m e m b r a n e s filtrantes de 0,45 p de porosité.
+       Les comptages des filtres ont été faits à l ' I n s t i t u t océanographique de Paris, en scin-
+tillation liquide 1.
+
+           I. P R I N C I P A L E S CARACTÉRISTIQUES DES M I L I E U X É T U D I É S
+
+       Les deux régions sur lesquelles porte ce travail, baie de Guanabara et secteur océanique
+au large d'Ipanema (fig. 1), sont très voisines mais les conditions du milieu y sont fonda-
+mentalement différentes.
+
+      1. Nous remercions bien sincèrement M m e JOSEPH d'avoir accepté de se charger de ces comptages-
+                                                            -- 332 --
+
+FIG. 1. -- La baie de Guanabara et le secteur océanique voisin. Position des points d'observations et
+      principales sources de pollution (d'après les informations fournies par la F E E M A ) .
+                                                             -- 333 --
+
+FIG. 2. -- Isohalines superficielles d'après OLIVEIRA (1950) et direction du courant dans la baie de Guana-
+      bara. Ces courbes s'incurvent vers la mer pendant la marée descendante, vers la terre pendant la marée
+      montante. Elles sont profondément modifiées en période de pluies. Les flèches indiquent la direction
+      du courant qui entre dans la baie avec les eaux les plus salées.
+
+         A. -- B A I E D E G U A N A B A R A
+
+      Avec une superficie de 400 k m 2 et une profondeur maximale de 54 m, cette baie cons-
+titue un ensemble isolé des influences extérieures car elle ne communique avec l'océan que
+par une entrée de 1 600 m de large. Son diamètre nord-sud est de 26 km, le diamètre est-
+ouest de 28 km. Elle reçoit une dizaine de rivières non périodiques qui lui apportent des
+alluvions et diluent ses eaux. Voisine de 3 4 ° / 0 0 dans le sud de la baie (c'est-à-dire près de son
+entrée), la salinité est beaucoup plus basse dans la partie nord qui est occupée par des eaux
+saumâtres et bordée par des mangroves (fig. 1 et 2). L'amplitude des marées est faible
+(0,5 à 1,3 m) ce qui contribue à faire de la baie un secteur où les eaux sont relativement
+peu renouvelées.
+                                                             -- 334 --
+
+       La vitesse du c o u r a n t de marée est de 0,5 à 1,5 n oe u d à l'entrée de la baie. Vers le nord,
+dans les parages de l'île de Paqueta (fig. 1), elle est de 0,3 à 0,6 noeud.
+
+       La figure 2, e m p r u n t é e à O L I V E I R A (1950), donnera une idée d'ensemble des conditions
+haïmes dans la baie. Les courbes isohalines ont été établies à partir d'un grand nombre de
+mesures faites à des saisons différentes.
+
+       Dans notre travail, les prélèvements de plancton et les observations hydrologiques
+ont été faits en 8 points (fig. 1) d o n t l'emplacement a été choisi de telle sorte qu'ils soient
+le plus possible représentatifs de toutes les conditions qu'on peut rencontrer dans l'ensemble
+de la baie. Les sorties ont eu lieu à raison d'une tous les 10 jours environ, pendant une
+saison qui correspond à l'automne et au début de l'hiver austral.
+
+       Voici les principales caractéristiques du milieu à ces huit stations (fig. 1, 2 et 3) :
+
+       Stations DW 5 et DW 6 : Ce sont les plus proches de l'océan. La première se t r o u v e dans
+la baie de Botafogo, la seconde dans la baie de Jurujuba. La profondeur est de 5 m. Les
+salinités ont été de 33,06 à 34, 73 ° / 0 0 à la station DW 5. Elles sont un peu plus basses dans
+la baie de Jurujuba. Les températures subissent peu de changements : de 23 à 23,5°C au
+mois de mai, elles ont été voisines de 22°C en juin et juillet. Les concentrations en oxygène
+dissous ont été, le plus souvent, comprises entre 3,5 et 4,5 ml/1 avec un m a x i m u m en juillet
+atteignant 7 ml/1 à la station DW 6. Les teneurs en phosphates ont été de 0,20 à 0,60 pg
+at/1, les valeurs les plus élevées a y a n t été trouvées à la station D W 6. Compte tenu de la
+faible profondeur, l'ensemble de la couche d'eau est éclairé. La pollution est surtout due à
+des égouts dans la baie de Botafogo. Quant à la baie de Jurujuba, outre les déchets domes-
+tiques, elle reçoit aussi des résidus industriels et, en particulier, des hydrocarbures. Ces deux
+secteurs ne sont pas directement soumis à l'influence de rivières.
+
+       Stations MC 4 et MC 3 : Ces d e u x stations se situent dans l'axe nord-sud de la baie, face
+au goulet de sortie. C'est sur cet axe s u r t o u t que se manifeste l'onde de flot (fig. 2) par suite
+de profondeurs plus importantes : 20 m à ces deux points. Les observations ont eu lieu en
+surface et au fond de la couche euphotique déterminé à partir de la profondeur de dispa-
+rition du disque de Secchi (d = 2,5 S). Les salinités étaient plus fortes au fond de la couche
+euphotique (jusqu'à 35,28 °/00) qu'en surface (31,87 à 33,91 °/00) par suite de la présence
+d'eaux marines sous-jacentes aux eaux saumâtres superficielles en raison de leur plus forte
+densité. La salinité est, en m o y e n n e , un peu plus faible à la station MC 3 par suite de sa
+position plus interne. Les températures de surface, supérieures à 24°C en mai, ont été de
+22 à 22,5°C en juin et juillet. La différence entre les 2 niveaux étudiés a été en général
+inférieure à 1°C. Les concentrations en oxygène dissous sont de 3 à 4 ml/1. Elles sont plus
+élevées en juin et juillet. M a x i m u m observé : 7 ml/1 à la station MC 3. Les concentrations
+en phosphates sont un peu plus élevées au point MC 3 (0,34 -- 0,40 pg at/1) q u ' a u point
+MC 4 (de l'ordre de 0,25 pg at/1). Les teneurs moyennes sont peu différentes a u x deux
+niveaux. L'épaisseur de la couche éclairée a été de 5 à 6 m. Les eaux sont polluées par des
+hydrocarbures, des résidus de l'industrie chimique, des égouts ou rivières polluées.
+
+       Station DW 8 : Elle est située au sud de l'île de P a q u e t a , au-dessus de fonds de 10 m .
+Les conditions du milieu y sont très proches de celles du centre de la baie mais les salinités
+sont plus basses et très variables : de 23,33 à plus de 32 ° / 0 0 . Les eaux sont également polluées
+par des hydrocarbures et des égouts.
+                                                             -- 335 --
+
+       Stations MCE 1 et DW 1 : Nous sommes ici dans la partie la plus septentrionale de la
+baie sur des fonds inférieurs à 5 m. Par suite de l'arrivée de nombreuses petites rivières,
+la salinité est très faible, les minima se rencontrant à la station MCE 1 : de 28 à 29,5 ° / 0 0 ,
+en moyenne. On constate, par ailleurs, de fortes variations dans le temps : de 26,98 à 31,75°/00
+au point DW 1 pendant la période de nos observations. Les températures, qui sont de l'ordre
+de 24°C au mois de mai, t o m b e n t ensuite à 21-22°C. A la station D W 1, les teneurs en oxygène
+dissous présentent de fortes variations temporelles : de 1,05 à 9,24 m l / 1 . On note aussi,
+dans ces parages, des concentrations en phosphates plus élevées que dans le reste de la baie
+(maxima compris entre 0,75 et 1,07 pg a t / 1 ) . Les e a u x se caractérisent p a r une grande q u a n -
+tité de matière en suspension. La transparence est donc très faible. L'épaisseur de la couche
+euphotique est, en général, voisine de 5 m. Cette partie de la baie est soumise à une pollu-
+tion particulièrement importante : égouts, résidus industriels (métallurgie, industries
+chimique, alimentaire, pharmaceutique, textile, industrie du caoutchouc), hydrocarbures,
+déversement de rivières très polluées. Signalons en outre qu'à plusieurs reprises nous avons
+constaté, surtout dans le secteur situé au nord de l'île do Governador (fig. l j , la présence,
+parfois en grande q u a n t i t é , de la p h a n é r o g a m e flottante Eichhornia (Pontederiaceae) qui
+arrivait dans la baie entraînée par les eaux des rivières. Malgré son état de pollution, toute
+la zone nord-ouest de la baie est le siège d'une pêche intense.
+
+       Station DW 10 : Située au-dessus de fonds de 5 m, au sud de l'île do Governador, cette
+station est dans un secteur également très fréquenté par les pêcheurs. Plus proches de
+l'entrée de la baie, les eaux ont une salinité moins basse ( > 30°/00). C'est ici qu'ont été
+trouvées les concentrations maximales d'oxygène dissous pour l'ensemble de la baie de
+G u a n a b a r a : j u s q u ' à 11,08 m l / 1 à la fin du mois de juin. Comme on le verra plus loin, cette
+forte concentration correspondait à un phénomène d'eaux rouges. Les teneurs en phosphates
+sont élevées par rapport aux autres stations : jusqu'à 1,53 pg a t / 1 le 12 mai. La couche
+euphotique est peu épaisse. En général, elle est de l'ordre de 3 m. Comme dans le nord de
+la baie, les eaux sont ici fortement polluées : égouts, résidus industriels (métallurgie, indus-
+trie du cuir, minerais non métalliques).
+
+       Importance de la matière en suspension
+
+       Une estimation de la quantité totale de matière en suspension dans l'eau a été faite
+à partir des prélèvements effectués au mois de mai (filtration d'un certain volume d'eau
+sur filtre en fibres de verre d o n t l'indice de r é t e n t i o n était supérieur à 100, ce qui signifie
+que des particules inférieures à 5 p peuvent être retenues efficacement).
+
+       Les résultats varient beaucoup suivant les stations. Les minima correspondaient aux
+stations D W 5 et D W 6 avec respectivement 5,6 et 7,2 mg/1 (poids de matière sèche).
+Dans la partie axiale de la baie (stations MC 4 et MC 3), les valeurs sont voisines de 10 m g / 1 .
+Elles sont plus i m p o r t a n t e s dans la partie nord (stations MCE 1 et D W 1) et a t t e i g n e n t
+un maximum de 27 mg/1 au point D W 10.
+
+         B. -- S E C T E U R O C É A N I Q U E AU LARGE D ' I P A N E M A
+
+       Sur cette partie de la côte brésilienne, la circulation océanique est caractérisée par
+un courant qui se dirige vers le sud-ouest. C'est le courant du Brésil, continuation du cou-
+rant sud-équatorial qui atteint la côte brésilienne au niveau du cap Sâo Roque (SIGNORINI,
+1976). Dans cette région, on peut distinguer quatre masses d'eau ( M O R E I R A , 1976) :
+                                       -- 336 --
+
+        OC DW5    DW6    MG4    MC3    DW8        DW 10             MCE I   TEMPERATURES
+                                                                                                   -2 F
+24
+
+22                                                                              m\m
+
+                                                         TRANSPARENCE
+
+                                       B lui m m s a
+
+      ml/1               C      J      fM f J  i
+
+ 61                                                      SALINITES
+
+  4
+
+   °/
+
+      /00
+34|
+
+32
+
+30
+
+28
+
+26
+
+        /ig at/L
+
+1,20.
+
+0,80                                                                PHOSPHATES
+
+0,40-1
+
+        MJ        MJJ       m   MJ J   MJ J              DWI        MJJ     MJJ    MJJ
+
+          DW5       DW6  MJ J     MC3  DW8                            MCEI     ID  2F
+
+                           MC4
+
+FIG. 3. -- Moyennes mensuelles de quelques paramètres physico-chimiques aux huit stations étudiées
+
+dans la haie de Guanabara et aux deux stations au large d'Ipanema de mai à juillet 1978. Résultats
+
+se rapportant aux eaux de surface. Pour la transparence, nous indiquons la profondeur de disparition
+
+du disque de Secchi.
+
+      -- les eaux tropicales (S : > 36 % o ; T : > 20°C) qui sont celles du courant du Brésil ;
+      -- les eaux sub-tropicales (S : 35-36 ° / 0 0 , T : 10-20°C) sous-jacentes aux eaux tropi-
+cales et de direction Nord ;
+      -- les eaux côtières (S : < 35 °/0o, T : > 20°C) formées près du rivage par un mélange
+avec les eaux douces venant du continent ;
+                                                             -- 337 --
+
+       -- les eaux de plate-forme (S : 35-36 ° / 0 0 , T : > 20°C) formées sur le plateau continental
+par mélange des eaux tropicales, sub-tropicales et côtières.
+
+       Au large de Rio de Janeiro, on ne constate pas, comme plus au nord dans les parages
+du Cabo Frio, de phénomènes d'upwelling.
+
+       Deux stations ont été étudiées dans cette zone afin de pouvoir juger si les rejets du grand
+égout sous-marin d ' I p a n e m a (fig. 1) n ' e n t r a î n a i e n t pas un développement plus intense
+du phytoplancton. Prenant en compte les conseils donnés par le personnel de la F E E M A ,
+nous avons déterminé l'emplacement de ces stations de telle sorte que l'une se situe dans la
+zone atteinte par les influences de l'égout (station 1D), l'autre étant plus au large, donc
+moins soumise à la pollution. Cette dernière (station 2F) sera considérée comme point de
+référence. Les caractéristiques hydrologiques de ces deux stations étant très semblables,
+elles ne seront pas considérées séparément comme nous l'avons fait pour celles de la baie.
+La seule différence concerne la transparence, plus importante à la station 2F. L'épaisseur
+moyenne de la couche euphotique est en effet do 26 m à cette dernière station au lieu de
+18 m au point 1D. La quantité de matière en suspension est, évidemment, beaucoup plus
+faible que dans la baie ( < 5 mg/1). Les observations ont été faites en surface et au niveau
+inférieur de la couche euphotique.
+
+       La salinité est de 35 à 35,5 ° / 0 0 en surface. Elle est généralement un peu plus élevée
+dans la couche sub-superficielle. La présence de cette nappe de couverture de faible salinité
+ne peut être imputable qu'à une arrivée d'eau de la baie de Guanabara. Les températures
+ont varié entre 23 et 24°C en mai. Elles sont voisines de 22°C en juin et juillet. Au fond de
+la couche euphotique, elles sont de 2°C environ plus basses au point 2F. La différence est
+plus faible à l'autre station ( < 1°C) puisque la couche euphotique est plus mince et que,
+par conséquent, le prélèvement effectué à son niveau inférieur est moins profond. On peut
+donc considérer que ces eaux ont les caractéristiques d'eaux de plate-forme telles qu'elles
+ont été définies plus haut (mélange d'eaux côtières, tropicales et sub-tropicales). L'influence
+côtière est plus ou moins sensible suivant l'état de la marée, la force et la direction des cou-
+rants locaux. Les concentrations en oxygène dissous ont une valeur moyenne proche de
+5 ml/1 en surface. Elles sont un peu plus faibles en profondeur. L'importance des phosphates
+est ici bien moindre que dans la baie. Comprise entre 0,20 et 0,25 pg at / 1 , elle est la même
+aux deux stations et on ne constate pas non plus de différences entre les deux niveaux
+étudiés. La pollution est due, en partie, aux apports de l'égout sous-marin d'Ipanema,
+à l'influence de la lagune de Freitas qu'un canal relie à l'Océan (fig. 1), mais aussi à une
+arrivée d'eau de la baie de Guanabara.
+
+                                             IL LE PHYTOPLANCTON
+
+       Les estimations quantitatives de phytoplancton consistent ici en comptages de cellules
+sédimentées, en dosages de la chlorophylle a, et en mesures de la production primaire
+« in situ » par la méthode du 14C. Nous examinerons successivement les résultats obtenus
+par ces différentes méthodes, d'une part dans la baie, d'autre part dans les eaux océaniques,
+au large d'Ipanema.
+                  -- 338 --
+
+         A . -- B A I E D E G U A N A B A II A
+
+       1. Numérations des cellules
+
+       Pour la présentation des résultats quantitatifs, les organismes du phytoplancton seront
+séparés en quatre grands groupes : Cyanophycées, Diatomées, Dinoflagellés, Flagellés
+(autres que les Dinoflagellés).
+
+       Cyanophycées
+
+       La possibilité d'adaptation de ces algues à tous les milieux leur permet souvent d'acqué-
+rir une très grande luxuriance en eaux douces et en mer. Leur physiologie a fait l'objet
+de nombreux travaux.
+
+       L'importance quantitative des Cyanophycées est considérable dans la baie de Guanabara,
+surtout dans la partie nord (fig. 4). On les trouve fréquemment à raison de plusieurs dizaines
+de millions de filaments/litre. Elles ont été particulièrement a b o n d a n t e s en m a i et juin
+(40 à 45 millions de filaments/litre). Aux stations proches de l'entrée de la baie, les popula-
+tions sont toujours moins denses ( < 4 millions de filaments/litre). Malgré d'assez fortes
+variations quantitatives dans l'espace et le temps, les Cyanophycées sont restées très abon-
+dantes dans l'ensemble de la baie pendant les trois mois étudiés (fig. 4).
+
+       Aux stations MC3 et MC4, où les comptages ont aussi été faits au niveau inférieur
+de la couche euphotique (tabl. I), les résultats montrent qu'en profondeur, soit entre 5 et
+10 m, les effectifs sont, le plus souvent, moins importants (jusqu'à 10 fois moins). La varia-
+bilité horizontale dans la répartition de ces organismes s'accompagne donc d'une variabilité
+verticale.
+
+               TABLEAU I. -- Effectifs moyens mensuels (en millions de filaments/litre)
+            des Cyanophycées en surface et au niveau inférieur de la couche euphotique
+
+                                      à deux stations de la baie de Guanabara.
+
+   STATION        MOYENNE MAI MOYENNE JUIN MOYENNE JUILLET
+
+       ( Surf.    1,2        23,8  5,1
+M L d \ Prof.
+                  6,0        7,7   5,6
+, , ,, . \ Surf.
+M L 4 { Prof.     3,0        16,1  13,6
+
+                  1,8        3,7   3,2
+
+       Contrairement à ce qui a été observé dans certaines autres régions littorales tropicales :
+Madagascar (SOURNIA, 1968), Côte d'Ivoire (REYSSAC, 1970), où l'importance des Cyano-
+phycées ne devient considérable que dans l'intervalle des poussées de Diatomées, les proli-
+férations de Cyanophycées et de Diatomées sont ici simultanées.
+
+      Diatomées
+
+       Elles ont formé des peuplements très denses à toutes les stations (fig. 4). De fortes
+multiplications ( > 5 millions de cellules/litre) ont été observées dans l'ensemble de la baie,
+                    -- 339 --
+
+DW5  DW6  MC4  MG3  DW8  DW10                             DW1  MCE1  1D  2F
+
+F I G . 4. --· Moyennes mensuelles des effectifs des principaux groupes composant le phytoplancton ainsi
+
+que de la chlorophylle a aux huit stations étudiées dans la baie de Guanabara et aux deux stations au
+
+large d'Ipanema de mai à juillet 1978 (eaux de surface).
+
+particulièrement dans le nord, aux stations MCE 1 et D W 1 (près de 27 millions de cellules/
+litre). Comme les Cyanophycées, les Diatomées sont moins abondantes vers la sortie de la
+baie mais leur nombre reste tout de même supérieur à 1 million de cellules/litre. Des proli-
+férations de l'ordre de 10 millions de cellules, comme celle qui a eu lieu le 2 mai dans l'anse
+de Jurujuba (station DW 6), paraissent exceptionnelles dans cette partie de la baie.
+
+      Comme pour les Cyanophycées, on constate aussi de fortes variations quantitatives
+                                                             -- 340 --
+
+dans l'espace et le temps, les variations temporelles étant différentes d'une station à l'autre.
+       Nous avons indiqué, dans le tableau III, les principales espèces responsables des
+
+« blooms » ainsi que l'importance de leurs effectifs. Certaines de ces espèces, tout en présen-
+t a n t parfois de fortes proliférations très localisées, se rencontraient aussi dans la grande
+majorité des prélèvements, pendant les trois mois étudiés, mais à raison d'un plus petit
+nombre de spécimens. P a r m i elles, il faut citer Skeletonema costatum (Greville) Cleve, espèce
+côtière cosmopolite, déjà signalée comme très abondante dans la baie par F A R I A et C U N B A
+(1917), mais ces auteurs n'avaient fait aucune numération.
+
+       De mai à juillet 1978, le développement le plus intense se situait dans l'anse de Juru-
+juba, au mois de mai, avec plus de 5 millions de colonies/litre (tabl. 111).
+
+       On connaît l'importance de cette Diatomée dans la chaîne alimentaire marine puis-
+qu'elle est consommée par les larves de nombreuses espèces de poissons. On sait également
+que des actions antibiotiques peuvent s'exercer à partir d'organismes phytoplanctoniques
+vis-à-vis des bactéries. S I E B U R T H et P R A T T (1962) ont ainsi mis en évidence, dans les eaux
+littorales, un facteur anticoliforme libéré dans le milieu lors des poussées de Skeletonema
+costatum. Dans les e a u x fortement polluées et riches en coliformes de la baie de G u a n a b a r a ,
+cette particularité mérite d'être signalée et pourrait faire l'objet d'une recherche particu-
+lière.
+
+       Parmi les autres espèces, communes dans l'ensemble de la baie et présentant parfois
+de forts développements localisés, il faut mentionner Cyclotella meneghiniana K ü t z i n g
+et Cyclotella striata (Kützing) Grunow, espèces très tolérantes vis-à-vis des conditions de
+salinité et même adaptées aux eaux saumâtres. Elles ont été signalées en plusieurs points
+de la côte brésilienne et notamment dans la région lagunaire de Canancia, un peu plus au
+sud (25°S) par T E I X E I R A et K U T N E R (1961).
+
+       Des Diatomées a p p a r t e n a n t au genre Cyclotella sont présentes dans presque tous les
+prélèvements. Nous avons pu en dénombrer jusqu'à 13 millions/litre. Dans les comptages
+au microscope inversé, les conditions d'observation ne permettent pas toujours de distinguer
+les Cyclotella d'autres Diatomées a y a n t à peu près le même diamètre valvaire et qui appar-
+tiennent au genre Thalassiosira. Ces dernières, bien que très fréquentes, paraissent cepen-
+d a n t moins a b o n d a n t e s que les Cyclotella.
+
+       D ' a u t r e p a r t , Nitzschia closterium W. Smith, Nitzschia sp., Rhizosolenia fragilissima
+Bergon et Chaetoceros simplex Ostenfeld sont a b o n d a n t e s dans de très nombreuses récoltes.
+
+       Bien (pie ce travail n'ait pas un caractère qualitatif, comme cela a déjà été mentionné,
+nous ajoutons cependant que la variabilité dans la répartition spatiale des Diatomées sur
+le plan quantitatif se retrouve également sur le plan qualitatif. E n effet, si l'on examine
+la succession des principales espèces dans le temps en chaque point de la baie, on voit qu'à
+la même date les espèces responsables des « poussées » sont différentes d'une station à l'autre.
+Les populations sont constituées d'une série d'espèces dominantes qui se succèdent dans un
+ordre différent suivant les secteurs. Ceci n'est d'ailleurs pas surprenant dans la baie de
+Guanabara où les conditions du milieu, surtout en ce qui concerne la nature de la pollution
+(fig. 1), sont très hétérogènes. La répartition par taches de « poussées » composées d'espèces
+différentes semble ici plus imputable à l'influence de substances différentes rejetées dans le
+milieu qu'à des variations de température ou de salinité.
+
+       Si les Diatomées prolifèrent dans l'ensemble de la couche éclairée, leur répartition
+quantitative présente toutefois une forte hétérogénéité verticale (tabl. II). Au fond de la
+                                                             -- 341 --
+
+couche e u p h o t i q u e (stations MC 3 et MC 4 ) , les effectifs dépassent 1 million de cellules/
+litre et des multiplications atteignant 6 à 7 millions de cellules y ont été rencontrées. Toute-
+fois, les Diatomées sont beaucoup moins abondantes qu'en surface où elles peuvent cons-
+tituer des populations de 5 à 1 0 fois plus importantes que celles de la couche sub-super-
+fîcielle. Cette inégale répartition semble aller de pair avec la stratification hydrologique.
+
+       Pour ces organismes, qui constituent avec les Cyanophycées l'essentiel de la biomasse
+phytoplanctonique dans la baie, on constate donc une multiplication massive dans l'ensemble
+du secteur et dans toute la couche euphotique mais aussi une forte hétérogénéité dans le
+temps et l'espace.
+
+                T A B L E A U I I . -- Effectifs moyens mensuels (en millions de cellules/litre)
+               des Diatomées en surface et au niveau inférieur de la couche euphotique
+
+                                      à deux stations de la baie de Guanabara.
+
+   STATION       MOYENNE MAI MOYENNE JUIN MOYENNE JUILLET
+
+,, M r [ Surf.   3,9  10,4   2,6
+m ( j d J Prof.               2,9
+                 9,4  4,0
+        j Surf.             10,2
+M L 4 » Prof.    2,7  9,0     1,0
+
+                 2,5  3,2
+
+       Dinoflagellés
+
+       Dans la majorité des prélèvements, ces organismes sont faiblement représentés si on
+les compare aux Diatomées (fig. 4 ) , mais leur importance est cependant devenue considé-
+rable, à certaines époques puisqu'ils dépassaient 1 0 millions de cellules/litre le 1 2 mai à la
+station DW 1 0 . A cette dernière station, les conditions du milieu paraissent d'ailleurs très
+propices au développement des Dinoflagellés. Parmi les espèces présentes dans la baie, les
+plus a b o n d a n t e s ont été Gonyaulax diacanlha1 (Meunier) Schiller, Gonyaulax catenata
+(Lev.) Kofoid, Prorocentrum micans E h r e n b e r g . Ces espèces ont souvent été signalées d a n s
+les eaux saumàtres et la dernière a provoqué l'apparition d'eaux rouges dans la baie de
+Guanabara ( O L I V E I R A , 1 9 5 0 ) . Toutes trois sont connues dans le monde comme responsables
+de la formation de ces phénomènes.
+
+       Pendant la période de nos observations, les développements massifs de Dinoflagellés
+ont été assez rares (tabl. III). Ils étaient, de plus, très limités dans l'espace. Les Dinofla-
+gellés représentent rarement plus de 1 0 % du phytoplancton. C'est au mois de mai qu'ils
+ont été les plus fréquents, la température plus élevée de l'eau convenant mieux à ces orga-
+nismes thermophiles.
+
+       La proportion des Dinoflagellés a été, en général, un peu plus faible au niveau inférieur
+de la couche euphotique qu'en surface.
+
+       Ainsi, bien qu'ils aient constitué le plus souvent une faible part de la biomasse phyto-
+planctonique, les Dinoflagellés ont cependant joué un rôle important à plusieurs reprises
+en se développant intensément et en contribuant ainsi à la formation d'eaux rouges. Nous
+reviendrons sur ces phénomènes et leurs manifestations dans la baie.
+
+      1. Pour ce Dinoflagellé, SOURNIA (1973) propose un nouveau nom spécifique : Gonyaulax verior.
+                                                             -- 342 --
+
+       Flagellés (autres que les Dinoflagellés)
+
+       Bien que leur proportion soit très variable, les petits Flagellés nus constituent, dans
+la majorité des récoltes, une part importante de la biomasse phytoplanctonique (30 à 35 %
+en moyenne). Les populations ont été particulièrement denses dans le nord de la baie (fig. 4)
+où elles ont dépassé 10 millions de cellules/litre.
+
+       Comme les autres constituants du phytoplancton, ces organismes présentent des
+variations spatiales et temporelles de forte amplitude. Parmi eux, nous soulignerons la
+faible proportion des Coccolithophoridés qui, en général, ne dépassaient pas 5 %. Des
+proliférations de l'ordre de 1 million/litre on été tout à fait exceptionnelles.
+
+       E n revanche, comme nous le verrons dans le paragraphe consacré a u x eaux rouges,
+la baie semble favorable au développement d'un Phytoflagellé dans lequel le Pr. A. H O L L A N D E
+a reconnu une Chloromonadine a p p a r t e n a n t vraisemblablement au genre Chattonella (étude
+taxinomique en cours). Les difficultés d'observations de cet organisme viennent de sa très
+grande fragilité. La fixation provoque en effet l'éclatement de la m e m b r a n e périplastique
+qui limite la cellule. La coloration brun rougeâtre que ces Chloromonadines donnaient à
+l'eau en se multipliant intensément est due à la présence d'une xanthophylle masquant la
+chlorophylle.
+
+TABLEAU I I I . -- Principaux développements des espèces phytoplanctoniques
+ (Cyanophycées exceptées) dans la baie de Guanabara en mai et juin 1978.
+
+  DATE   STATION                   ESPÈCES      E F F E C T I F S (millions
+                                                  de cellules/litre)
+ 2 mai   MC 4     Cyclotella -f- Thalassiosira
+ 2 mai   MC 3     Cyclotella -\- Thalassiosira               4,4
+ 2 mai    DW 10   Cyclotella -f- Thalassiosira               4,9
+ 2 mai   MCE 1    Gonyaulax catenata                       12,6
+                  Gonyaulax diacantha                        1,8
+12 mai   MCE 1    Cyclotella meneghiniana                    0,6
+12 mai   DW 6     Rhizosolenia fragilissima
+12 mai   MC 3     Chaetoceros simplex                        7,1
+12 mai   DW 10    Chloromonadines                            4,6
+                  Gonyaulax diacantha                        0,8
+23 mai   DW 6     Skeletoneina costatum                    19,4
+ 2 juin  MC 3     Skeletonema costatum                       5.4
+         DW 1     Cyclotella meneghiniana                    5,2
+13 juin           Chloromonadines                            2,3
+         MC 4     Nitzschia closterium                     13,1
+13 juin           Rhizosolenia fragilissima                  2,0
+         MC 3     Nitzschia closterium                       2.:Î
+13 juin           Rhizosolenia fragilissima                  3.2
+         MC 3     Nitzschia sp.                               L,8
+27 juin  MC 4     Nitzschia sp.                              1,9
+27 juin  DW 1     Cyclotella meneghiniana                    3.2
+27 juin           Nitzschia closterium                       4,1
+                                                           16,2
+                                                             2,7
+         -- 343 --
+
+      2. Mesure des pigments
+
+       Les analyses ont été faites à toutes les stations sur des échantillons d'eau de surface.
+Les quantités de chlorophylle a sont très importantes (fig. 4), mais principalement dans
+les zones nord et ouest où sont aussi les plus fortes concentrations en cellules : 45 mg m-3
+à la station D W 10, le 12 mai, période correspondant à la formation d'eaux rouges. Pour
+ce même pigment, le m a x i m u m était à la station D W 1, le 6 juillet, avec 47,7 mg m-3.
+
+       Dans la partie axiale de la baie (stations MC 3 et MC 4), ainsi q u ' à proximité de son
+entrée (stations D W 5 et D W 6), les concentrations sont beaucoup moins importantes (fig. 4).
+La distribution quantitative de la chlorophylle a reflète encore l'hétérogénéité de la baie.
+Si on considère les moyennes mensuelles, on voit qu'elles sont très variables d'une station
+à l'autre. L'amplitude de variation de ces moyennes a été la suivante :
+
+      -- en mai, de 4,78 m g m - 3 (station D W 5) à 23,39 m g n r 3 (station D W 10) ;
+      -- en juin, de 4,29 m g m"3 (station D W 5) à 29,15 m g n r 3 (station D W 1) ;
+       -- en juillet, de 4,84 mg m - 3 (station D W 8) à 22,65 mg m 3 (station D W 1).
+
+       On constate également d'importantes variations temporelles dont l'amplitude augmente
+quand on va de l'entrée de la baie à sa partie la plus interne (tabl. IV). Cette amplitude est
+maximale aux stations D W 1, MCE 1 et D W 10 où la chlorophylle a peut être plus de trois
+fois plus abondante à 10 jours d'intervalle.
+
+        TABLEAU I V . -- Valeurs minimales et maximales de la chlorophylle a (mg m"3)
+observées dans les eaux de surface, de mai à juillet 1978, aux 8 stations de la baie de Guanabara.
+
+STATION              VALEUR            VALEUR
+         MINIMALE OBSERVÉE   MAXIMALE OBSERVÉE
+DW 5
+DW 6      2,89               13,01
+MC 4      3,42               10,47
+MC 3      5,39               10,68
+DW 8      1,0                13,90
+DW 10     3,51               13,82
+DW 1     12,15               47,38
+MCE 1     4,80               47,76
+          0,51               16,92
+
+       Des variations du même type ont été constatées par GALVÂO (1978) dans la baie de
+Santos, un peu plus au sud (24°S) et dans d'autres secteurs de même nature ( C A P E R O N
+et coll., 1 9 7 1 ) .
+
+       Dans la baie de Guanabara, un intervalle de temps de 3 h 30 à 4 h séparait la première
+prise d'échantillon d'eau, dans la zone nord de la baie, des dernières qui avaient lieu aux
+stations D W 6 et D W 5 vers la mi-journée. Il faut tenir compte de la variabilité horaire
+dans la concentration de la chlorophylle a en relation avec la variation de la radiation
+incidente ( R Y T H E R et Y E N T S C H , 1 9 5 7 ) . Or, c'est précisément vers la mi-journée que l'accrois-
+                                                             -- 344 --
+
+sèment des pigments est susceptible d'être interrompu dans les régions où l'éclairement
+est intense, de sorte que les grandes différences existant dans la concentration de la chloro-
+phylle entre le fond de la baie et près de son entrée peuvent encore être augmentées par le
+fait que les prises d'eau dans le secteur le moins riche sont faites précisément au m o m e n t
+de la journée où la chlorophylle a est probablement la moins abondante.
+
+       Les quantités de chlorophylle a sont beaucoup plus élevées dans la baie de Guanabara
+que celles trouvées plus au sud, sur la côte brésilienne, dans l'Etat de Sâo Paulo.
+
+       Ainsi, dans un secteur également très côtier et bordé de mangroves comme la baie de
+Lïbatuba (23°30 S), T E I X E I R A (1973) signale des concentrations comprises entre 1,1 et 4,2 mg
+m - 3 . Encore plus au sud, dans la région lagunaire de Cananeia (25°00 S), le même auteur (1969)
+obtient des concentrations allant de 3 à 14 mg m 3 , la plupart étant inférieures à 10 mg m"3.
+Mais ce sont là des zones relativement peu atteintes par la pollution. En revanche, dans la
+baie de Santos où les eaux sont soumises à une forte pollution provenant d'industries ou de
+rejets domestiques, GALVÂO (1978) trouve jusqu'à 55,32 mg m - 3 . Il semble même que, dans
+cette région, la concentration en chlorophylle a puisse atteindre 100 mg m - 3 (GALVÂO,
+ibid.).
+
+       Les principaux pics chlorophylliens correspondaient à des proliférations de Diatomées
+a p p a r t e n a n t a u x genres Cyclotella, Thalassiosira, Nitzschia, Skeletonema ou à des multi-
+plications de Chloromonadines et de Dinoflagellés du genre Gonyaulax, en particulier.
+
+       La quantité de chlorophylle n'est pas en relation avec l'abondance des Cyanophycées
+mais il faut souligner que le procédé d'extraction de pigments utilisé ne permettait proba-
+blement pas de recueillir ceux de ces algues.
+
+       La diversité pigmentaire a été estimée au moyen de l'indice D 430/D 663. Les absorp-
+tions à ces deux longueurs d'onde caractérisent bien l'importance respective de l'ensemble
+des pigments accessoires et de la chlorophylle a, principal pigment assimilateur. Selon
+M A R G A L E F (1960), cet indice irait de pair avec le stade de maturité des populations, les
+valeurs basses permettant de délimiter les zones les plus fertiles. C'est ce que montre le
+même auteur (1971, 1972), dans l'Atlantique africain, au large de la Mauritanie. Dans les
+mêmes parages, au niveau de la baie du Lévrier (21°N), R E Y S S A C (1973) obtient des rapports
+souvent inférieurs à 2,5.
+
+       En raison de la grande richesse en phytoplancton de la baie de Guanabara, on pourrait
+s'attendre à trouver des indices bas. Or, ils sont relativement élevés, sauf pour certaines
+pêches particulièrement riches comme celles faites dans des eaux rouges où les indices
+sont de 2,3 à 3. A plusieurs reprises, ils ont même été inférieurs à 2, comme lors de floraisons
+de Diatomées du genre Rhizosolenia. Cependant, dans la majorité des prélèvements, l'indice
+a été voisin de 5. Il est en moyenne un peu plus faible aux stations D W 10 et DWr 1 où nous
+avons déjà signalé de très denses populations phytoplanctoniques.
+
+       Dans ces eaux très riches en matières détritiques, ce rapport D 430/ D 663 reflète-t-il
+bien la structure du phytoplancton ?
+
+       La diversité pigmentaire que traduit ce rapport élevé va ici de pair avec une diversité
+spécifique que nous avons constatée, mais non chiffrée, dans les numérations cellulaires,
+estimant que cette méthode ne permettait pas d'identifier bon nombre de cellules au niveau
+de l'espèce. Sauf dans des cas assez rares de fortes dominances (Nitzschia, Cyclotella), les
+populations se composaient de trois ou quatre espèces bien représentées. Cette diversité
+spécifique peut donc expliquer en partie la diversité pigmentaire. Dans la baie, le rapport
+                                                             -- 345 --
+
+dépasse souvent 6 et même 7. Si on fait une comparaison avec d'autres régions, on voit
+qu'en Méditerrannée, par exemple, dont on sait la pauvreté des eaux, ce rapport est rare-
+ment inférieur à 3 (TRAVERS, 1971). Il est compris entre 3 et 5 lors des poussées et, en dehors
+des périodes de multiplications cellulaires, il p e u t dépasser 10 et même 20 ( T R A V E R S , ibid.).
+Sur la côte catalane espagnole, les valeurs inférieures à 6 se rencontreraient seulement pen-
+dant la poussée printanière (SAN F E L I U et M U N O Z , 1975). Des rapports si élevés seraient
+dus au fait que les pigments responsables de l'absorption à 430 n m appartiennent surtout
+au tripton (TRAVERS, 1971), ou à une importante proportion d'agrégats organiques (JACQUES,
+1969). C'est ce que nous nous proposons de vérifier dans la baie de Guanabara grâce à un
+traitement par acidification.
+
+      3. Mesure de la production primaire
+
+       Les résultats fournis par cette méthode confirment la grande richesse de la baie. Il
+faut cependant souligner que l'expérience a été effectuée dans les eaux de la baie de Bota-
+fogo que les numérations de cellules sédimentées et les dosages de pigments désignent comme
+les moins riches. On peut donc considérer, à priori, que les quantités de carbone assimilé
+par le phytoplancton en ce même point sont les plus faibles que l'on peut rencontrer dans la
+baie (tabl. V).
+
+T A B L E A U V. -- Quantités de carbone assimilé en surface et au fond à la station D W 5 ( m g C m - 8 ] - 1 ) .
+              Estimations de la productivité de l'ensemble de la couche d'eau (mg C m-2]'-1).
+
+  DATE      mg C m-3 jour      mg C m-2 jour
+
+ 1 mai      Surface   Fond          1 090
+12 mai                              2 997
+23 mai        401,73   35,01
+ 2 juin     1 134,23   64,92          807
+13 juin                             1 295
+27 juin       321,91     2,73       1 382
+ 6 juillet    452,60   66,78        2 420
+13 juillet    500,19   53,51        1 287
+              937,81   31,60        3 647
+              491,86  124,62
+            1 374      85,57
+
+       En surface, les moyennes mensuelles sont supérieures à 600 mg C m - 3 j - 1 , c'est-à-dire
+qu'elles sont du même ordre que les valeurs maximales trouvées dans les eaux les plus riches
+de la côte mauritanienne (baie du Lévrier), dont la fertilité est parmi les plus élevées du
+monde ( R E Y S S A C , 1973, 1975, 1977). En nous limitant à des eaux très côtières comme celles
+que nous étudions ici, signalons que sur le littoral brésilien, T E I X E I R A (1973) indique,
+pour la zone de U b a t u b a , des productions allant de 1,01 à 28,16 mg C m - 3 h 1 , ce qui donnerait,
+en extrapolant à la journée solaire, une quantité maximale de carbone de 337,92 mg C m 3 .
+Les maxima à Ubatuba correspondraient ainsi aux minima dans la baie de Botafogo.
+
+       Dans la région de Cananeia, le même auteur (1969) signale une valeur maximale excep-
+
+                                                                                                                                                                  1, 2 5
+                                                             -- 346 --
+
+tionnelle de 92,52 mg C m - 3 h"1 (soit environ 1 100 mg C m 3 j"1) dans un marigot. Or, de
+telles quantités ne paraissent pas rares dans la baie de Guanabara (tabl. V). Enfin, dans la
+baie de Santos, GALVÂO (1978) indique des variations comprises entre 242 et 2354 mg C
+m 3 j 1 en hiver, entre 524 et 6 344 mg C m 3 j 1 en été. Nos résultats sont comparables à
+ceux de ce dernier auteur qui a travaillé dans un milieu similaire du point de vue du degré
+de pollution.
+
+       Il semble donc qu'on puisse considérer de telles productions comme caractéristiques
+de régions eutrophiques.
+
+       A la limite inférieure de la couche euphotique, les productions sont encore très élevées.
+A partir des résultats obtenus à ce niveau et en surface, on peut faire une estimation 1
+de la production totale de l'ensemble de la couche d'eau en ce point (tabl. V). Celle-ci attein-
+drait 3,6 g C m - 2 j - 1 , c'est-à-dire qu'elle serait de l'ordre de grandeur des máxima mondiaux.
+
+       4. Les eaux rouges dans la baie de Guanabara
+
+       La formation d'eaux rouges dans la baie a été observée depuis longtemps. FARTA et
+C U N H A (1917) sont les premiers à décrire le phénomène dans ces parages. L'espèce respon-
+sable serait le Dinoflagellé Glenodinium trochoideum Stein (rattaché m a i n t e n a n t au genre
+Srippsiella Loeblich par S O U R N I A , 1973). D'après ces a u t e u r s , cette espèce a p p a r a î t fréquem-
+m e n t dans la baie, parfois en grand nombre, et dans ce cas, donne à l'eau une coloration
+rouge. Ils notent que ce phénomène se manifeste principalement dans les couches les plus
+superficielles, dans des endroits où la profondeur est faible et les eaux calmes. Quand la
+prolifération est intense, F A R I A et C U N H A (ibid.) c o n s t a t e n t d ' i m p o r t a n t e s mortalités de
+poissons (Sardinella, Mugil). Ce fut le cas en juin 1913.
+
+       D'autre part, O L I V E I R A (1950) signale aussi de fortes mortalités de poissons (sardines)
+et crustacés en août 1946 et avril 1948. Selon cet auteur, les eaux rouges dans la baie seraient
+aussi provoquées p a r la prolifération de Prorocentrum micans, comme en juin et juillet
+1949 où le phénomène avait duré 7 à 10 jours.
+
+       Il est certain que la baie de Guanabara est un secteur propice à la formation d'eaux
+rouges puisque ces dernières apparaissent principalement dans des eaux chaudes, calmes
+et riches en éléments nutritifs. Le fait que le degré de pollution ait fortement augmenté
+depuis les observations de F A R I A et C U N H A ne peut que favoriser leur apparition. En effet,
+on sait que la pollution peut avoir un effet sur le développement des espèces, comme le
+souligne I W A S A K I (1973) qui constate une étroite relation entre l'apparition des marées
+rouges et le niveau d'eutrophisation des eaux. Des substances métalliques comme le fer
+et le manganèse ou organiques (dérivés d'acides nucléiques, par exemple) provoquent une
+croissance explosive de certaines espèces.
+
+       Nous avons déjà signalé que, pendant la période de nos observations, des phénomènes
+d'eaux rouges s'étaient manifestés à plusieurs reprises. Ils se sont situés dans les parages
+de la station D W 10 (fig. 1) et dans la partie nord de la baie où nous avons observé plusieurs
+taches d'eaux colorées en brun rouge. C'est à la station DW 10 qu'ont été trouvées les
+populations les plus denses (tabl. VI). Le 12 mai, une large tache, très fortement colorée
+en rouge-brun, occupait tout le secteur compris entre la bordure sud de l'île do Governador
+
+      1. Cette estimation, très approximative, est représentée par la moyenne des productions en surface
+et au fond multipliée par la distance (en mètres) séparant les deux niveaux.
+                                                             -- 347 --
+
+et la côte (fig. 1 ) . Malgré la grande abondance des Dinoflagellés ( > 1 0 millions/litre), et en
+particulier de Gonyaulax diacantha ( 5 , 4 millions/litre), il semble que la coloration de l'eau
+soit à attribuer surtout à la pullulation d'un Phytollagellé du groupe des Chloromonadines
+qui atteignait près de 2 0 millions de cellules/litre. Le 2 7 juin, un phénomène identique se
+produisait dans les mêmes parages. La population comprenait de nombreux Dinoflagellés
+( 4 , 4 millions/litre) et 1 7 millions/litre de Chloromonadines. P a r m i les Dinoflagellés, Proro-
+centrum ndcans atteignait 8 0 0 0 0 0 cellules/litre. C'est à cette station que la coloration de
+l'eau a été la plus intense. Les eaux rouges observées dans le nord de la baie étaient moins
+riches en organismes. Ainsi, à la station DW 1 le 6 juillet, on dénombrait 3 , 6 millions de
+Cbloromonadines/litre et, le 1 3 juin, 1,9 millions/litre. Ces organismes sont apparus fréquem-
+ment aux autres stations de la baie mais, ou bien à raison de quelques exemplaires isolés,
+ou bien en quantité trop faible pour provoquer un changement dans la coloration de l'eau.
+
+       Il faut signaler qu'aucune mortalité de poissons n'a suivi l'apparition de ces eaux rouges
+bien que la toxicité des Chloromonadines ait été mise en cause par S U B R A H M A N Y A N ( 1 9 5 4 )
+pour expliquer une importante mortalité de poissons, mollusques et crustacés sur la côte
+ouest des Indes.
+
+       Le fait que nous n'ayons pas constaté de mortalité de poissons dans la baie de Guana-
+bara est probablement dû au fait que les eaux rouges y étaient très localisées, ce qui donnait
+aux organismes marins mobiles la possibilité de s'en éloigner.
+
+      Ajoutons enfin que, malgré leur grande abondance dans la baie, les Cyanophycées
+n'ont pas provoqué de changement dans la coloration de l'eau.
+
+         TABLEAU V I . -- Principales caractéristiques des eaux rouges rencontrées
+                        dans la baie de Guanabara de mai à juillet 1 9 7 8 .
+
+STATION  DATE   NOMBRE TOTAL       PRINCIPAUX          Chloroph. a  INDICE  OBSERVATIONS
+                 DE CELLULES      CONSTITUANTS            (mg/m3)
+                                                                    D 430
+                (millions/litre)
+                                                                    D 663
+
+DW 10    12-05  48                Chloromonadines      45,3         3,34    très forte co-
+
+                                  G. diacantha                              loration
+
+                                  P. micans
+
+                                  Diatomées
+
+DW 10    27-06  45                Chloromonadines      47,3         2,42    très forte co-
+
+                                  Nombreuses espèces                        loration
+
+                                  de Dinoflagellés
+
+                                  (Peridinium, Proro-
+
+                                  centrum)
+
+DW 1     06-07  7                 Chloromonadines      47,7         2,99    faible colora-
+
+                                  Cyanophycées                              t ion
+
+DW 1     13-06  25                Chloromonadines      37,1         4 , 3 0 très faible
+
+                                  Cyanophycées                              coloration
+
+                                  Diatomées
+
+                                                                            1, 25*
+                                                             -- 348 --
+
+         B. -- S E C T E U R O C É A N I Q U E AU LARGE D ' I P A N E M A
+
+      1. Numérations des cellules
+       Elles ont été faites à partir d'échantillons d'eau provenant de la surface et du niveau
+inférieur de la couche euphotique.
+       Les résultats m o n t r e n t que le phytoplancton est beaucoup moins a b o n d a n t que dans
+la baie (fig. 4) malgré la position très côtière des stations et la proximité de l'égout sous-
+marin dont on pouvait attendre une influence sur le développement des organismes. Comme
+dans la baie, c'est en juin que les effectifs sont les plus importants. Ils ont atteint 7,5 millions
+de cellules/litre. Mais de telles abondances sont très rares et, en général, les populations
+ont moins de 1 million de cellules.
+       On constate (fig. 4) que les effectifs au point 2 F sont un peu plus denses q u ' a u point
+1 D bien que cette dernière station soit plus exposée aux influences de l'égout.
+       Le phytoplancton est aussi parfois plus abondant au niveau inférieur de la couche
+euphotique qu'en surface mais, en moyenne, les différences sont faibles (tabl. VII).
+
+      Cyanophycées
+      Contrairement à ce qui avait été observé dans la baie où ces organismes pullulent,
+les Cyanophycées sont ici peu nombreuses : de 1,2 à 1,5 million de filaments/litre en surface,
+mais, généralement, elles ne dépassent pas 1 million. Elles sont un peu plus abondantes au
+fond de la couche éclairée (tabl. VII), la différence avec la surface étant parfois assez grande.
+C'est d'ailleurs à ce niveau profond que les plus fortes proliférations ont eu lieu (jusqu'à
+8,6 millions de filaments/litre).
+       Les différences entre les deux stations peuvent être assez importantes, que ce soit en
+surface ou dans la couche sub-superficielle. Comme dans la baie, c'est p e n d a n t le mois de
+juin que les plus forts développements se sont manifestés (fig. 4).
+
+      Diatomées
+       La proportion des Diatomées a été très variable : de 4 à 72 % des effectifs et, en général,
+de 20 à 40 % . Même dans le cas où leur proportion est élevée, elles ne forment pas d'aussi
+importantes populations que dans la baie.
+       E n surface, le m a x i m u m a été de 1,6 million de cellules/litre mais on compte moins
+de 1 million de cellules/litre dans la majorité des prélèvements, les peuplements étant le
+plus souvent un peu plus denses à la station la plus éloignée de la côte. Aucune floraison
+importante ne s'est manifestée à la station la plus proche de la sortie de l'égout.
+       Au niveau inférieur de la couche euphotique, nous avons, à plusieurs reprises, constaté
+des proliférations de Diatomées aux deux stations (tabl. VII) : jusqu'à 2,7 millions de cellules/
+litre à la station 1D, de 1,6 à 3,8 millions à la station 2 F . Le fait que ces développements
+se produisent aussi dans la zone qui est hors de l'influence des eaux usées de l'égout indique
+bien que ce dernier n'est pas le facteur ou plutôt le seul facteur responsable de ces multi-
+plications.
+
+      Dino flagellés
+       Les comptages font apparaître leur très faible participation à la biomasse végétale
+totale (moins de 4 % ) . Dans les échantillons d'eau examinés, les Dinoflagellés n'étaient
+                                                             -- 349 --
+
+présents qu'à raison de quelques exemplaires isolés. Ils n'ont pas dépassé 1 0 0 0 0 0 cellules/
+litre. Au niveau inférieur de la couche euphotique, ils sont aussi clairsemés qu'en surface.
+
+       Des proliférations intenses donnant lieu à des eaux rouges ont cependant été signalées
+dans cette région. L'espèce responsable, Exuviaella apora 1 Schiller aurait a t t e i n t 8 , 5 millions
+de cellules/litre ( R O D R I G U E S DE B R I T T O , 1978).
+
+       Flagellés
+
+       Ce sont, avec les Diatomées, les principaux constituants du p h y t o p l a n c t o n . Ils repré-
+sentent plus de 5 0 % des effectifs dans la grande majorité des prélèvements. En surface,
+nous avons noté de très forts développements voisins de 5 millions de cellules/litre, le maxi-
+m u m se situant à la station 2 F le 2 9 juin avec 6 , 3 millions de cellules.
+
+       Ces organismes prolifèrent aussi au niveau inférieur de la couche euphotique où, a u x
+deux stations, les effectifs étaient du même ordre qu'en surface.
+
+       Aucun « bloom » de Chloromonadines n'a été rencontré mais ces Phytoflagellés étaient
+cependant présents dans beaucoup de pêches à raison de quelques exemplaires.
+
+       La proportion des Coccolithophoridés est restée, le plus souvent, inférieure à 1 0 % .
+
+      TABLEAU VII. -- Moyennes mensuelles de l'ensemble des cellules sédimentées
+                 en surface et au niveau inférieur de la couche euphotique,
+
+au large d'Ipanema, de mai à juillet 1 9 7 8 (résultats en millions de cellules/litre).
+
+STATION        MOYENNE MAI MOYENNE JUIN MOYENNE JUILLET
+
+    Ensemble du phytoplancton (Cyanophycées exceptées)
+
+2F  Surf.      5,4           4,7                                         1,4
+    Prof.
+               7,7           4,0                                         3,7
+
+     ( Surf.   6,2           2,4                                         0,9
+11) Prof.
+               0,5           3,9                                         0,5
+
+               Cyanophycées
+
+        Surf.  0,2           0,8                                         0,9
+2 F Prof.                                                                 1,7
+               0,2           0,8
+        Surf.                                                            0,04
+1.1) Prof.     0,1           0,4                                         0,5
+
+               0,2           3,7
+
+               Diatomées
+
+        Surf.  0,3           0,8                                         0,8
+2 F Prof.
+               0,3           0,7                                         3,2
+        Surf.
+1D Prof.       0,2           0,3                                         0,2
+
+               0,1           1,0                                         0,3
+
+1. Cette espèce est rattachée par SOURNIA (1973) au genre Prorocenlrum.
+                                                             -- 350 --
+
+       2. Mesures des pigments
+
+       Ces mesures ont été faites dans les eaux de surface.
+       Par comparaison avec la baie, les concentrations en chlorophylle a paraissent très
+faibles puisqu'elles sont rarement supérieures à 1 mg m"3. Les moyennes mensuelles (fig. 4),
+comprises entre 0,5 et 1 mg m 3 sont comparables à celles trouvées dans d'autres régions
+littorales tropicales. En Côte d'Ivoire, par exemple, sur les fonds de 25 m, R E Y S S A C (1970)
+trouve une moyenne annuelle de 0,55 mg n r 3 . Dans les eaux côtières de Madagascar, SOUR-
+NIA (1968) obtient des valeurs comparables.
+       Les variations temporelles aux deux stations ont été relativement importantes si l'on
+considère le court laps de t e m p s étudié : de 0,23 à 1,55 mg n r 3 à la station 1 D, de 0,18 à
+1,47 mg n r 3 à la station 2 F. L'évolution quantitative de la chlorophylle a est la même aux
+deux stations.
+       Le rapport pigmentaire D 430/1) 663 était compris entre 4,65 et 7,23 avec une moyenne
+voisine de 5,5. Il est très semblable aux deux stations. Dans ces eaux beaucoup moins riches
+en matière détritique que celles de la baie, on peut estimer que cet indice est plus représen-
+tatif des caractéristiques structurales du phytoplancton. Il traduirait ainsi une activité
+moyenne des cellules, mais nos résultats sont encore trop limités dans le temps pour cpie
+nous puissions tirer une conclusion définitive.
+       L'ensemble de nos observations permet cependant de constater qu'aucune proliféra-
+tion très abondante de phytoplancton n'a eu lieu dans ce secteur. Les valeurs sont du même
+ordre que celles qu'on obtient généralement dans des eaux côtières tropicales non soumises
+à des affleurements mais recevant des influences continentales fertilisantes. Ici, l'influence
+fertilisante paraît plus imputable à la proximité de la baie de Guanabara qu'à une action
+locale provoquée par l'égout sous-marin. Nos observations et nos conclusions rejoignent
+donc celles déjà faites antérieurement ( R O D R I G U E S D E B R I T T O , 1978), à savoir que les popu-
+lations phytoplanctoniques n'ont pas subi de modifications vraiment significatives
+malgré la quantité de matière organique rejetée dans cette zone par cet égout.
+
+                                                                DISCUSSION ET CONCLUSIONS
+
+       Dans ce premier travail sur la baie de Guanabara (Etat de Rio de Janeiro, Brésil)
+et le secteur océanique voisin, nous avons voulu donner un aperçu de l'importance quanti-
+tative du phytoplancton et de ses variations dans l'espace et le temps dans des milieux
+caractérisés par une forte pollution. Les observations, qui s'échelonnent de mai à juillet
+1978, ont été faites tous les dix jours en huit stations réparties dans l'ensemble de la baie
+et en deux stations situées dans les eaux océaniques à proximité de la sortie de la baie, au
+large d'Ipanema.
+
+       Examinons successivement les résultats obtenus dans chacun de ces deux secteurs.
+
+         BAIE DE GUANABARA
+
+       D'une superficie de 400 km2, cette baie est soumise à une intense pollution provoquée
+par des résidus industriels et domestiques qui ont profondément modifié son milieu.
+                                                            -- 351 --
+
+       Pendant la période de nos observations, la température des eaux a été assez homogène
+(22 à 24°C) mais les salinités, en revanche, ont été très variables suivant les stations et sui-
+vant l'état de la marée. Elles sont voisines de 3 4 ° / 0 0 à l'entrée de la baie alors que la partie
+la plus interne est occupée par des eaux saumâtres ( < 30°/oo). La faible amplitude des
+marées (0,5 à 1,3 m), et l'étroitesse de l'entrée de la baie (1 600 m), font que ce secteur
+est assez isolé des influences du large et que ses eaux sont relativement peu renouve-
+lées.
+
+       Du fait de la très grande quantité de matière en suspension (souvent plus de 10 mg/1),
+la couche euphotique est peu épaisse. Dans la partie de la baie la plus éloignée de l'océan,
+elle est de 1 à 2,5 m alors qu'elle peut dépasser 5 m dans sa partie la plus méridionale.
+
+       La concentration en oxygène dissous a été généralement comprise entre 4 et 6 ml/1.
+       Les eaux les plus riches en phosphates sont celles du nord de la baie où les teneurs
+ont parfois dépassé 1 pg at/1.
+       Les résultats de comptages de cellules sédimentées et des dosages de la chlorophylle a
+traduisent une richesse exceptionnelle en phytoplancton. Des populations dépassant 10 mil-
+lions de cellules/litre sont fréquentes. Les Cyanophycées, qui présentent des développements
+considérables (jusqu'à 45 millions de filaments/litre), constituent, en général, l'essentiel
+de la biomasse phytoplanctonique. Les Diatomées forment aussi des peuplements très
+denses ( > 5 millions de cellules/litre et jusqu'à près de 27 millions dans le nord de la baie).
+Elles a p p a r t i e n n e n t principalement a u x genres Cyclotella, Thalassiosira, Skeletonema et
+Nilzscliia. Bien que les Dinoflagellés aient été peu représentés dans la majorité des récoltes,
+ils ont cependant pris une importance considérable, à plusieurs reprises (près de 11 millions
+de cellules/litre), surtout dans les zones les plus calmes de la baie où ils ont contribué à la
+formation d ' e a u x rouges. Gonyaulax diacanlha, Gonyaulax catenata et Prorocentrum mic.ans
+ont été particulièrement abondants.
+
+       Les conditions naturelles dans la baie (eaux chaudes et calmes) sont déjà propices à
+l'apparition d'eaux rouges mais le risque se trouve encore accru par l'apport d'éléments
+nutritifs dus à la pollution. Ces conditions ont favorisé la pullulation d'un Phytoflagellé du
+groupe des Chloromonadines dont la concentration a été proche de 20 millions de cellules/
+litre. Ce sont surtout ces organismes, et non les Dinoflagellés, qui ont provoqué l'appari-
+tion d'eaux rouges pendant la période étudiée.
+
+       Les conditions exceptionnellement favorables au développement du phytoplancton
+dans la baie font que, même lorsqu'elles sont très denses (plus de 20 millions de cellules/
+litre), les populations sont assez diversifiées du point de vue spécifique. La théorie générale
+qui veut que les peuplements riches en individus soient, en revanche, pauvres en espèces,
+ne se vérifie pas ici. Dans le cas des eaux rouges, par exemple, qu'il est classique de décrire
+comme des communautés monospécifiques ou très pauvres en espèces, nous avons au con-
+traire dans la baie une assez grande diversité spécifique avec un mélange de Chloromo-
+nadines, de Dinoflagellés, de Diatomées et de Cyanophycées, chacun de ces groupes étant
+représenté par plusieurs millions d'individus. Le fait qu'il n'apparaisse pas de phénomène
+de compétition entre les espèces montre que chacune d'elles trouve des conditions optimales
+à sa multiplication. Ceci reflète bien le caractère particulièrement propice du milieu.
+
+       Comme on pouvait s'y attendre, les concentrations en chlorophylle a sont très élevées,
+surtout dans le nord de la baie où elles dépassent fréquemment 20 mg m 3 . La valeur maxi-
+male (47,7 mg m-3) correspondait à un prélèvement fait dans les eaux rouges.
+                                                            -- 352 --
+
+       Le rapport des densités optiques à 430 et 663 nm de longueur d'onde, qui est en général
+voisin de 5, peut paraître élevé pour une région de haute fertilité. Ceci peut s'expliquer
+en partie par une diversification qualitative des pigments qui accompagne la diversification
+spécifique du phytoplancton, mais il semble que ce soit la quantité importante de matière
+détritique en suspension dans l'eau qui en soit surtout responsable. Dans le milieu très
+particulier de la baie, il ne semble pas que cet indice traduise bien les propriétés dynamiques
+du phytoplancton.
+
+       L'importance des populations phytoplanctoniques ressort aussi des résultats des mesures
+de la production primaire (méthode du 14 C « in situ ») obtenus dans la baie de Botafogo.
+Bien que les eaux soient ici les moins riches de toute la baie, la production primaire est
+très élevée : moyennes mensuelles supérieures à 600 mg C m 3 j - 1 . Le maximum observé
+était de 1374 mg C m 3 j - 1 . Des valeurs aussi fortes peuvent difficilement être rapprochées
+des résultats obtenus dans d'autres régions côtières tropicales non soumises à une si intense
+pollution. Nous les considérons comme caractéristiques de milieux transformés ainsi que cela
+a déjà été dit, plus au sud, pour la baie de Santos, dont le degré de pollution est comparable
+à celui de la baie de Guanabara.
+
+       En ce qui concerne les variations temporelles, on constate que l'amplitude augmente
+quand on va de l'entrée de la baie à la zone la plus interne.
+
+       L'abondance exceptionnelle des cellules dans la baie peut être tenue comme caracté-
+ristique d'une région eutrophique.
+
+         SECTEUR OCÉANIQUE AU LARGE D'IPANEMA
+
+       Le but du travail était de voir si le déversement du grand égout sous-marin d ' I p a n e m a
+avait un effet sur le développement du phytoplancton. Il nous paraît toutefois indispensable
+de ne pas dissocier l'étude de ce secteur de celle de la baie de Guanabara, toute proche,
+et dont l'influence sur la zone océanique au large d'Ipanema doit être prise en compte.
+L'égout sous-marin n'est donc pas ici la seule source d'enrichissement susceptible de pro-
+voquer une augmentation de l'activité du phytoplancton.
+
+       Cette partie de la côte brésilienne est occupée par des eaux de mélange (eaux côtières,
+tropicales et sub-tropicales). L'influence côtière se t r a d u i t par une certaine dessalure en
+surface (35-35,5°/00). Les températures sont de 22 à 24°C. Par suite de la faible quantité
+de matière en suspension ( < 5 ml/1), l'épaisseur de la couche euphotique est importante :
+18 et 26 m en moyenne respectivement aux deux stations. Les concentrations en oxygène
+dissous sont généralement proches de 5 ml/1. Les quantités de phosphates sont relative-
+ment faibles si on les compare à celles de la baie : 0,20 à 0,25 pg at/1.
+
+       Aucun phénomène d'affleurement ne se manifeste ici.
+       La densité des peuplements est bien moindre que dans la baie. Dans la majorité des
+prélèvements, ils ne dépassent pas 1 million de cellules/litre. Le plus souvent, les Cyano-
+phycées ont des effectifs du même ordre. Les Flagellés, parmi lesquels ont été rencontrés
+quelques exemplaires de Chloromonadines et les Diatomées sont les principaux constituants
+du phytoplancton. Les proliférations, qui ont un caractère beaucoup plus atténué que
+dans la baie, se sont surtout manifestées au niveau inférieur de la couche euphotique (jusqu'à
+8,6 millions de filaments/litre pour les Cyanophycées et j u s q u ' à 3,8 millions de cellules/
+litre pour les Diatomées.
+                                                             -- 353 --
+
+       A la station la plus soumise au déversement de l'égout, le développement du p h y t o -
+plancton n'était pas plus important qu'à la station la plus éloignée.
+
+       Les Dinoflagellés ont été rares dans l'ensemble des récoltes.
+       Les concentrations en chlorophylle a semblent également très faibles par rapport à
+celles de la baie (moins de 1 mg m 3 ) .
+       Ces résultats quantitatifs sont comparables à ceux qu'on peut obtenir dans des régions
+littorales tropicales soumises à des influences continentales provenant de sources variées.
+Ici, ces influences fertilisantes proviennent de l'égout d'Ipanema, de la lagune de Freitas
+et de la baie de Guanabara.
+       Malgré ces apports, l'abondance des populations phytoplanctoniques ne semble pas
+avoir subi de modifications significatives.
+       Ce travail sur le p h y t o p l a n c t o n , d o n t nous venons de donner les résultats préliminaires,
+doit être poursuivi afin de faire connaître l'évolution quantitative des organismes dans ces
+deux régions au cours d'un cycle annuel.
+
+                                       RÉFÉRENCES BIBLIOGRAPHIQUES
+
+Anonyme, 1 9 6 6 . -- Détermination of photosynthetic pigments in sea-water. Monogr. oceanogr.
+         Methodol. Unesco, 1 : 6 9 p.
+
+C A P E R O N , J., S. A. C A T E L L , et J. K R A N T I , 1 9 7 1 . -- Phytoplancton kinetics in a subtropical estuary :
+         eutrophication. Limnol. Oceanogr., 16 (4) : 5 9 9 - 6 0 7 .
+
+D O T V , M. S., et M. O G U R I , 1 9 5 7 . -- Evidence for a photosynthetic daily periodicity. Limnol. Ocea-
+          nogr., 2 : 3 7 - 4 0 .
+
+F A R I A , J. G., et A. M. C U N H A , 1 9 1 7 . -- Estudos sobre o microplancton da baia de Bio de Janeiro
+         e suas imediaçôes. Mems Inst. Oswaldo Cruz, 9 ( 1 ) : 6 8 - 9 3 .
+
+GALVÂO, S. M., 1 9 7 8 . -- Produçào primaria da baía de Santos, estado de Sâo Paulo. Aspectos
+         sobre a eficiencia fotossintetica num ambiente marinho poluido. Tese mestrado, univ.
+         Sâo Paulo, Inst. oceanogr. : 1-53.
+
+IWASAKI, H., 1 9 7 3 . -- Pollution marine d'origine organique et marées rouges dans la mer Intérieure.
+         Bull. Soc. franco-jap. oceanogr., 11 (2) : 1 1 3 - 1 1 8 .
+
+J A C Q U E S , G., 1 9 6 9 . -- Aspects quantitatifs du phytoplancton de Banyuls-sur-Mer (golfe du Lion)
+         III. Diatomées et Dinoflagellés de juin 1 9 6 5 à juin 1 9 6 8 . Vie et Milieu, B, 20 (1) : 8 1 - 1 2 6 .
+
+M A R C H A N D , M., et E. D U U R S M A , 1 9 7 5 . -- Bésidus de DDT et de polychlorobiphenyles (P.C.B.).
+         Identification et dosage dans les moules et le plancton de la côte nord-ouest méditerranéenne.
+         Bull. Un. oceanogr. Fr., 7 (1-2) : 2 1 - 2 4 .
+
+MARGALEF, R., 1960. -- Valeur indicatrice de la composition des pigments du phytoplancton sur
+         la productivité, composition taxonomique et propriétés dynamiques des populations. Bapp.
+         Commn int. mer Médit., 15 (2) : 2 7 7 - 2 8 1 .
+
+   -- 1 9 7 1 . -- Una campaña oceanógrafica del « Cornide de Saavedra » en la región del aflora-
+         miento del noroeste africano. Investigación pesq., 35 (supl.) : 1-39.
+
+   -- 1 9 7 2 . -- Hidrografía de la región del afloramiento del noroeste de África. Res. Exp. Cient.
+         B\0 Cornide, 1 (supl.) Investigación pesq. : 1 - 2 1 .
+
+MOREIRA, G. S., 1976. -- Sobre o migraçâo vertical diaria do plancton ao largo de Santos, estado
+         de Sao Paulo, Brasil. Bolm Inst. Oceanogr. Sâo Paulo, 2 5 ( 1 ) : 5 5 - 7 6 .
+                                                              -- 354 --
+
+O L I V E I R A , L. H. P., 1950. -- Levantamento biogeografico da baia de Guanabara. Mems Insl. Oswaldo
+          Cruz, 48 : 363-391.
+
+R E Y S S A C , J., 1970. -- Phytoplancton et production primaire au large de la Côte d'Ivoire. Bull.
+          Inst. fond. Afr. noire, sér. A, 32 (4) : 869-981.
+
+   -- 1973. -- Aspect quantitatif du phytoplancton de la baie du Lévrier (Mauritanie). Bull.
+          Mus. natn. Hist, nat., Paris, 3 e sér., n° 149, Ecologie générale 5 : 101-112.
+
+   -- 1975. -- Évolution quantitative du phytoplancton de la baie du Lévrier de septembre à
+          novembre 1973. Bull. Mus. natn. Hist, nat., Paris, 3 e sér. n° 328, Écologie générale 26 :
+          69-79.
+
+   -- 1977. -- Hydrologie, phytoplancton et production primaire de la baie du Lévrier et du
+          banc d'Arguin. Bull. Inst. fond. Afr. noire, sér. A, 39 (3) : 487-554.
+
+R O D R I G U E S DE B R I T T O , E., 1978. -- Monitoragem do emissàrio submarino de esgotos de Ipanema.
+          Notas de aulas (non publié). Curso de extensâo, univ. Santa Ursula, Rio de Janeiro, julho
+          1978 : 58 p. ronéo.
+
+R Y T H E R , J. H., et C. S. Y E N T S C H , 1957. -- The estimation of phytoplankton production in the
+          ocean from chlorophyll and light data. Limnol. Oceanogr., 2 (3) : 281-286.
+
+SAN F E L I U , J. M., et F. MUÑOZ, 1965. -- Hidrografía y plancton del puerto de Castellón, de junio
+         de 1961 a enero de 1963. Investigación pesq., 28 : 3-48.
+
+S i E B U R T H , J. M. N., et I). M. P R A T T , 1962. -- Anticoliform activity of the sea water associated
+         with the termination of Skeletonema costatum blooms. Trans. N. Y. Acad. Sci., ser. 2, 24 :
+         498-501.
+
+S I G N O R I N I , S. R., 1976. -- Contribuiçâo ao estudo da circulaçâo e do transporte de volume da
+         corrente do Brasil entre o Cabo de Sâo Tomé e a Baia de Guanabara. Bolm Inst. Oceanogr.
+         Sao Paulo, 25 (2) : 157-220.
+
+SOURNIA, A., 1968. -- Variations saisonnières et nycthémérales du phytoplancton marin et de la
+         production primaire dans une baie tropicale, à Nossy Bé (Madagascar). Int. Revue ges.
+         Hydrobiol. Hydrogr., 53 (1) : 1-76.
+
+   -- 1973. -- Catalogue des espèces et taxons infraspécifiques de Dinoflagellés marins actuels
+         publiés depuis la révision de J. Schiller. Í. Dinoflagellés libres. Nova Hedwigia, 48 : 1-92.
+
+S U B R A H M A N H A N , R., 1954. -- On the life and ecology of Ilornellia marina gen. et sp. nov. (Chloro-
+         monadine) causing green discoloration of the sea and mortality among marine organisms
+         off the Malabar Coast. Indian J. Fish., 1 : 183-206.
+
+T E I X E I R A , C , 1969. -- Estudo sobre algumas características do fitoplancton da regiâo de Cananeia
+         e o seu potencial fotossintetico. Tese Doc. Univ. Sâo Paulo : 1-43.
+
+   -- 1973. -- Preliminary studies of primary production in the Ubatuba region (Lat. 23°30' S-
+         Long. 45°06' W) Brasil. Bolm Insl. Oceanogr., Sâo Paulo, 22 : 49-58.
+
+T E I X E I R A , C , et M. B. K U T N E R , 1961. -- Contribuiçâo para o conhecimento das diatomaceas da
+         regiâo de Cananeia. Bolm Insl. Oceanogr. Sâo Paulo, 11 (3) : 41-74.
+
+T R A V E R S , M., 1971. -- Le microplancton du golfe de Marseille : étude quantitative, structurale
+         et svnécologique ; variations spatio-temporelles. Thèse Doc. État, Fac. Sci. Marseille, A. 0 .
+         3511 : 1-595.
+
+Y O S H I D A , T., 1973. --Bioconcentration dans les Diatomées marines. Bull. Soc. franco-jap. océanogr.,
+         11 (2) : 99-102.
+
+                                                                                  Manuscrit déposé le 19 juin 1979.
+      Le Comité de Rédaction du Bulletin du Muséum remercie les spécialistes qui ont bien voulu prêter
+leur concours pour le choix et l'examen critique des manuscrits reçus au cours de l'année 1979.
+
+N. H A L L E , MNHN, Laboratoire de Phanérogamie, 16, rue Buffon, 75005 Paris.
+J.-L. HAMEL, MNHN, Laboratoire de Biologie végétale appliquée, 61, rue Buffon, 75005 Paris.
+G. J A C Q U E S , Laboratoire Arago, 66650 Banyuls-sur-Mer.
+S. J O V E T , MNHN, Laboratoire de Cryptogamie, 12, rue Buffon, 75005 Paris.
+J.-F. L E R O Y , MNHN, Laboratoire de Phanérogamie, 16, rue Buffon, 75005 Paris.
+F. MAGNE, Laboratoire de Biologie végétale marine, Université de Paris-VI, 4, place Jussieu,
+
+         75005 Paris.
+D. MOLHO, MNHN, Laboratoire de Chimie appliquée aux corps organisés, 63, rue Buffon,
+
+          75005 Paris.
+                               Achevé d'imprimer le 18 avril 1980
+
+IMPRIMERIE NATIONALE
+
+    9 564 004 5
+                          Recommandations aux auteurs
+
+       Les articles à publier doivent être adressés directement au Secrétariat du Bulletin du
+Muséum national d'Histoire naturelle, 57, rue Cuvier, 75005 Paris. Ils seront accompa-
+gnés d'un résumé en une ou plusieurs langues. L'adresse du Laboratoire dans lequel le
+travail a été effectué figurera sur la première page, en note infrapaginale.
+
+       Le texte doit être dactylographié à double interligne, avec une marge suffisante, recto
+seulement. Pas de mots en majuscules, pas de soulignages (à l'exception des noms de genres
+et d'espèces soulignés d'un trait).
+
+       Il convient de numéroter les tableaux et de leur donner un titre ; les tableaux compli-
+qués devront être préparés de façon à pouvoir être clichés comme une figure.
+
+       Les références bibliographiques apparaîtront selon les modèles suivants :
+
+        B A U C H O T , M . - L . , J . D A G E T , J . - C . H U R E A U et Th. M O N O D , 1970. -- Le problème des
+
+« auteurs secondaires » en taxionomie. Bull. Mus. Hist. nat, Paris, 2 e sér., 42 (2) : 301-304.
+       T I N B E R G E N , N., 1952. -- The study of instinct. Oxford, Clarendon Press, 228 p.
+
+       Les dessins et cartes doivent être faits sur bristol blanc ou calque, à l'encre de chine.
+Envoyer les originaux. Les photographies seront le plus nettes possible, sur papier brillant,
+et normalement contrastées. L'emplacement des figures sera indique dans la marge et les
+légendes seront regroupées à la fin du texte, sur un feuillet séparé.
+
+       Un auteur ne pourra publier plus de 100 pages imprimées par an dans le Bulletin,
+en une ou plusieurs fois.
+
+       Une seule épreuve sera envoyée à l'auteur qui devra la retourner dans les quatre jours
+au Secrétariat, avec son manuscrit. Les « corrections d'auteurs » (modifications ou addi-
+tions de texte) trop nombreuses, et non justifiées par une information de dernière heure,
+pourront être facturées aux auteurs.
+
+       Ceux-ci recevront gratuitement 50 exemplaires imprimés de leur travail.
+
