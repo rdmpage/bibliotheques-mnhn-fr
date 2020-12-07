@@ -205,7 +205,7 @@ foreach ($files as $filename)
 		{
 			$journal 	= 'Bulletin du Muséum National d\'Histoire Naturelle Section B,Adansonia, botanique, phytochimie';
 			$series 	= $m['series'];
-			$issn		= '0240–8937';
+			$issn		= '0240-8937';
 			$volume 	= $m['volume'];
 			$issue 		= $m['issue'];
 			$year 		= $m['year'];
