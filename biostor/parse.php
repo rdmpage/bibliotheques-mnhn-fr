@@ -5,6 +5,7 @@
 //----------------------------------------------------------------------------------------
 
 $filename = '0240-8937.tsv';
+$filename = '0181-0626.tsv';
 
 $headings = array();
 
@@ -54,6 +55,13 @@ while (!feof($file_handle))
 			
 				echo 'UPDATE publications_mnhn SET BHL_Page=' . $obj->PageID . ' WHERE '
 					. 'issn="' . $obj->issn . '" AND volume="' . $obj->volume . '" AND spage="' . $obj->spage . '";' . "\n";
+					
+				if (isset($obj->epage))
+				{
+					echo 'UPDATE publications_mnhn SET epage=' . $obj->epage . ' WHERE '
+						. 'issn="' . $obj->issn . '" AND volume="' . $obj->volume . '" AND spage="' . $obj->spage . '";' . "\n";
+					
+				}
 			}
 			
 			
