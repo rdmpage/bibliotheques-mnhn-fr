@@ -2,3 +2,22 @@
 .DS_Store
 
 junk
+
+*.sql
+*.txt
+
+
+# temp ignore while we clean things up
+html-BMAZO
+html-BMNHN
+html-MNHN_CRYAL
+html-MNHN_REBRY
+html-NARCH
+
+# pdfs
+pdf-NOTUL
+
+# aliases
+pdf-MNHN_CRYAL 
+pdf-MNHN_REBRY
+pdf-REMYC
