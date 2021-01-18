@@ -236,6 +236,7 @@ while (!feof($file_handle))
 				$PageID = str_replace('https?://(www.)?biodiversitylibrary.org/page/', '', $PageID);
 				
 				$obj->url = $obj->{'BHL_Page'};
+				$obj->url = str_replace('https', 'http', $obj->url);
 				
 				if (!isset($bhl_pages[$PageID]))
 				{
