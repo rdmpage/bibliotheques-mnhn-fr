@@ -235,6 +235,8 @@ while (!feof($file_handle))
 				$PageID = $obj->{'BHL_Page'};
 				$PageID = str_replace('https?://(www.)?biodiversitylibrary.org/page/', '', $PageID);
 				
+				$obj->url = $obj->{'BHL_Page'};
+				
 				if (!isset($bhl_pages[$PageID]))
 				{
 					$bhl_pages[$PageID] = array();
