@@ -8,8 +8,22 @@ $basedir = 'pdf-BMBOT';
 
 $basedir = 'pdf-BMBAD';
 
+$basedir = 'pdf-BUMHN';
 
-$files = scandir(dirname(__FILE__) . '/' . $basedir);
+$basedir = 'pdf-BMAZO';
+
+$basedir = '/Volumes/Samsung_T5/bibliotheques-mnhn-fr/pdf-BMNHN';
+$basedir = '/Volumes/Samsung_T5/bibliotheques-mnhn-fr/pdf-BMZOO';
+
+// doesn't seem to work as no OCR text for headers :(
+$basedir = 'pdf-MNHN_CRYAL';
+$basedir = 'pdf-MNHN_CRYMY';
+
+
+//$files = scandir(dirname(__FILE__) . '/' . $basedir);
+
+$files = scandir($basedir);
+
 
 //$files = array('BMBOT_S004_1979_T001_N003.pdf');
 
@@ -18,6 +32,14 @@ $files = scandir(dirname(__FILE__) . '/' . $basedir);
 //$files = array('NOTUL_S000_1920_T004_N001.pdf');
 
 //$files = array('BMBAD_S004_1996_T018_N003.pdf');
+
+/*
+$files=array(
+//'BMZOO_S003_1971_T001_N001.pdf'
+'MNHN_CRYAL_1982_T003_N001.pdf',
+);
+*/
+
 
 
 foreach ($files as $filename)
@@ -44,7 +66,7 @@ foreach ($files as $filename)
 
 		$pages = explode("\f", $text);
 		
-		//print_r($pages);
+		// print_r($pages);
 		
 		//$tsv_rows = array();
 
@@ -89,6 +111,8 @@ foreach ($files as $filename)
 				$page_number = $m['page'];
 			}	
 			*/
+						
+			
 
 			$page_number = str_replace('I', '1', $page_number);
 			$page_number = str_replace('i', '1', $page_number);
@@ -114,6 +138,16 @@ foreach ($files as $filename)
 					$end_page = $m['epage'];
 				}
 			}
+			
+			if (preg_match('/section A, n°\s+\d+\s+:\s+(?<spage>\d+)(-(?<epage>\d+))?/u', $lines[1], $m))
+			{
+				$page_number = $m['spage'];
+				if ($m['epage'] != '')
+				{
+					$end_page = $m['epage'];
+				}
+			}
+			
 			
 
 
