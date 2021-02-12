@@ -44,5 +44,21 @@ SUDOC and other book-like works
 SELECT guid, title, journal, issn, series, volume, issue, spage, epage, authors, year, wikidata, PageID, biostor, oclc, internetarchive FROM `publications` WHERE issn="0428-0709" ORDER BY year, CAST(volume AS SIGNED), CAST(spage AS SIGNED);
 ```
 
+## How to
+
+### Fetch files
+
+From the MNHN site find volumes of a journal, e.g. https://bibliotheques.mnhn.fr/medias/search.aspx?instance=EXPLOITATION&SC=IFD_BIBNUM&QUERY=Cryptogamie%2C+Mycologie#/Search/%7B%22query%22%3A%7B%22ForceSearch%22%3Afalse%2C%22Page%22%3A0%2C%22QueryString%22%3A%22Cryptogamie%2C+Mycologie%22%2C%22ResultSize%22%3A50%2C%22ScenarioCode%22%3A%22IFD_BIBNUM%22%2C%22SearchLabel%22%3A%22%22%2C%22SortField%22%3Anull%2C%22SortOrder%22%3A0%7D%7D
+
+Extract the links, then fetch the HTML `fetchhtml.php` and the PDFs `fetchpdfs.php`.
+
+### Parse
+
+`parse-simple.php` to extract basic metadata
+
+`parse-text.php` to try and get page details from PDFs.
+
+### Export
+
 
 
