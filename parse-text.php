@@ -19,6 +19,16 @@ $basedir = '/Volumes/Samsung_T5/bibliotheques-mnhn-fr/pdf-BMZOO';
 $basedir = 'pdf-MNHN_CRYAL';
 $basedir = 'pdf-MNHN_CRYMY';
 
+$basedir = '/Volumes/Samsung_T5/bibliotheques-mnhn-fr/pdf-MNHN_CRYBL';
+
+$basedir = '/Volumes/Samsung_T5/bibliotheques-mnhn-fr/pdf-MNHN_REBRY';
+
+$basedir = '/Volumes/Samsung_T5/bibliotheques-mnhn-fr/pdf-BMZOO';
+
+
+$basedir = '/Volumes/Samsung_T5/bibliotheques-mnhn-fr/pdf-BUMHN';
+
+$basedir = 'pdf-BMBOT';
 
 //$files = scandir(dirname(__FILE__) . '/' . $basedir);
 
@@ -111,6 +121,22 @@ foreach ($files as $filename)
 				$page_number = $m['page'];
 			}	
 			*/
+			
+			if (preg_match('/BMBOT_S003_/', $filename))
+			{
+				// echo $lines[0] . "\n";
+				
+				if (preg_match('/^(?<page>\d+)\s+/u', $lines[0], $m))
+				{
+					$page_number = $m['page'];
+				}
+				
+				if (preg_match('/\s+(?<page>\d+)$/u', $lines[0], $m))
+				{
+					$page_number = $m['page'];
+				}
+				
+			}
 						
 			
 

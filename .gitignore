@@ -10,14 +10,22 @@ junk
 # temp ignore while we clean things up
 html-BMAZO
 html-BMNHN
+html-MNHN_CRYBL
 html-MNHN_CRYAL
 html-MNHN_REBRY
 html-NARCH
+html-MEAZO
 
 # pdfs
+pdf-BMBOT
 pdf-NOTUL
 
 # aliases
 pdf-MNHN_CRYAL 
 pdf-MNHN_REBRY
 pdf-REMYC
+pdf-BMBOT
+pdf-BMZOO 
+pdf-BUMHN
+pdf-MNHN_CRYBL
+pdf-MNHN_CRYMY

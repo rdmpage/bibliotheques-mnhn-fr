@@ -5,9 +5,12 @@
 	<key>HierarchyData</key>
 	<array>
 		<string>06D0B937-C084-4ED2-B570-CC3C9AA425B2</string>
+		<string>1EC69178-5736-4382-BAC5-4A23FDD23B96</string>
 		<string>873743BA-CBAB-4001-BA89-9CB67EFB1273</string>
 		<string>C3AC1AA9-E772-4E99-86BF-8AE479B2C9BD</string>
 		<string>31472064-6C8B-4A9C-A9ED-0C62906A55B0</string>
+		<string>A0080FE1-C2FB-4EBF-9A70-E35B089F85A8</string>
+		<string>12E59C36-F306-4365-BC29-870BE85CDF25</string>
 	</array>
 	<key>ProjectItems</key>
 	<dict>
@@ -54,6 +57,105 @@
 			</dict>
 			<key>ItemName</key>
 			<string>.gitignore</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>12E59C36-F306-4365-BC29-870BE85CDF25</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9vazADAAAAAAQQMAAAAPoExqDcyq5ISPj/J/uBbgkr
+				/MjvZuyXolwrjhZ1yP7YIAIAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAACwAA
+				AAEBAABEZXZlbG9wbWVudAAVAAAAAQEAAGJpYmxpb3Ro
+				ZXF1ZXMtbW5obi1mcgAAAAkAAAABAQAAUkVBRE1FLm1k
+				AAAAFAAAAAEGAAAQAAAAIAAAADAAAABEAAAAZAAAAAgA
+				AAAEAwAAEGcCAAAAAAAIAAAABAMAAIV0DQAAAAAACAAA
+				AAQDAAAjWA4AAAAAAAgAAAAEAwAAb5pnBQMAAAAIAAAA
+				BAMAANRhfgUDAAAAFAAAAAEGAACUAAAApAAAALQAAADE
+				AAAA1AAAAAgAAAAABAAAQcK2q9BUhVkYAAAAAQIAAAEA
+				AAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAAAwAA
+				AAAAAAAEAAAAAwMAAPUBAAAIAAAAAQkAAGZpbGU6Ly8v
+				DAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAADgBANp
+				AAAACAAAAAAEAABBvt1dYgAAACQAAAABAQAAMjVFNDI4
+				NkQtNzEyQy0zODk5LUI0M0YtNUQzRjZBOEJEMTIxGAAA
+				AAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAAAAABAAAA
+				AQEAAC8AAAAAAAAAAQUAABoAAAABAQAATlNVUkxEb2N1
+				bWVudElkZW50aWZpZXJLZXkAAAQAAAADAwAAhIoBANgA
+				AAD+////AQAAAAAAAAARAAAABBAAAHgAAAAAAAAABRAA
+				AOQAAAAAAAAAEBAAABABAAAAAAAAQBAAAAABAAAAAAAA
+				AiAAANwBAAAAAAAABSAAAEwBAAAAAAAAECAAAFwBAAAA
+				AAAAESAAAJABAAAAAAAAEiAAAHABAAAAAAAAEyAAAIAB
+				AAAAAAAAICAAALwBAAAAAAAAMCAAAOgBAAAAAAAAAcAA
+				ADABAAAAAAAAEcAAACAAAAAAAAAAEsAAAEABAAAAAAAA
+				ENAAAAQAAAAAAAAA8AEAgBQCAAAAAAAA
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Development/bibliotheques-mnhn-fr/README.md</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./README.md</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>README.md</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>1EC69178-5736-4382-BAC5-4A23FDD23B96</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va/gCAAAAAAQQMAAAAD6/rJTh2hLC61BVPQPnBfPK
+				zltv3d+Mfp3OlHWFVomf9AEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAACwAA
+				AAEBAABEZXZlbG9wbWVudAAVAAAAAQEAAGJpYmxpb3Ro
+				ZXF1ZXMtbW5obi1mcgAAAA0AAAABAQAAZmV0Y2hodG1s
+				LnBocAAAABQAAAABBgAAEAAAACAAAAAwAAAARAAAAGQA
+				AAAIAAAABAMAABBnAgAAAAAACAAAAAQDAACFdA0AAAAA
+				AAgAAAAEAwAAI1gOAAAAAAAIAAAABAMAAG+aZwUDAAAA
+				CAAAAAQDAAAkEH4FAwAAABQAAAABBgAAmAAAAKgAAAC4
+				AAAAyAAAANgAAAAIAAAAAAQAAEHCuT94Rq/TGAAAAAEC
+				AAABAAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAIAAAABAMA
+				AAMAAAAAAAAABAAAAAMDAAD1AQAACAAAAAEJAABmaWxl
+				Oi8vLwwAAAABAQAATWFjaW50b3NoIEhECAAAAAQDAAAA
+				4AQDaQAAAAgAAAAABAAAQb7dXWIAAAAkAAAAAQEAADI1
+				RTQyODZELTcxMkMtMzg5OS1CNDNGLTVEM0Y2QThCRDEy
+				MRgAAAABAgAAgQAAAAEAAADvEwAAAQAAAAAAAAAAAAAA
+				AQAAAAEBAAAvAAAAAAAAAAEFAADMAAAA/v///wEAAAAA
+				AAAAEAAAAAQQAAB8AAAAAAAAAAUQAADoAAAAAAAAABAQ
+				AAAUAQAAAAAAAEAQAAAEAQAAAAAAAAIgAADgAQAAAAAA
+				AAUgAABQAQAAAAAAABAgAABgAQAAAAAAABEgAACUAQAA
+				AAAAABIgAAB0AQAAAAAAABMgAACEAQAAAAAAACAgAADA
+				AQAAAAAAADAgAADsAQAAAAAAAAHAAAA0AQAAAAAAABHA
+				AAAgAAAAAAAAABLAAABEAQAAAAAAABDQAAAEAAAAAAAA
+				AA==
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Development/bibliotheques-mnhn-fr/fetchhtml.php</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./fetchhtml.php</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>fetchhtml.php</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 			<key>UserOverrideItemName</key>
@@ -154,6 +256,56 @@
 			</dict>
 			<key>ItemName</key>
 			<string>fetchpdfs.php</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>A0080FE1-C2FB-4EBF-9A70-E35B089F85A8</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9vazQDAAAAAAQQMAAAALg2IWdbKc0J1kW3IDh0VcGT
+				PIVBhK0j6bU3TjdYOH0jJAIAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAACwAA
+				AAEBAABEZXZlbG9wbWVudAAVAAAAAQEAAGJpYmxpb3Ro
+				ZXF1ZXMtbW5obi1mcgAAAA0AAAABAQAAcGFyc2UtdHN2
+				LnBocAAAABQAAAABBgAAEAAAACAAAAAwAAAARAAAAGQA
+				AAAIAAAABAMAABBnAgAAAAAACAAAAAQDAACFdA0AAAAA
+				AAgAAAAEAwAAI1gOAAAAAAAIAAAABAMAAG+aZwUDAAAA
+				CAAAAAQDAABhbtQFAwAAABQAAAABBgAAmAAAAKgAAAC4
+				AAAAyAAAANgAAAAIAAAAAAQAAEHCM3ALQW3ZGAAAAAEC
+				AAABAAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAIAAAABAMA
+				AAMAAAAAAAAABAAAAAMDAAD1AQAACAAAAAEJAABmaWxl
+				Oi8vLwwAAAABAQAATWFjaW50b3NoIEhECAAAAAQDAAAA
+				4AQDaQAAAAgAAAAABAAAQb7dXWIAAAAkAAAAAQEAADI1
+				RTQyODZELTcxMkMtMzg5OS1CNDNGLTVEM0Y2QThCRDEy
+				MRgAAAABAgAAgQAAAAEAAADvEwAAAQAAAAAAAAAAAAAA
+				AQAAAAEBAAAvAAAAAAAAAAEFAAAaAAAAAQEAAE5TVVJM
+				RG9jdW1lbnRJZGVudGlmaWVyS2V5AAAEAAAAAwMAAN6Y
+				AQDYAAAA/v///wEAAAAAAAAAEQAAAAQQAAB8AAAAAAAA
+				AAUQAADoAAAAAAAAABAQAAAUAQAAAAAAAEAQAAAEAQAA
+				AAAAAAIgAADgAQAAAAAAAAUgAABQAQAAAAAAABAgAABg
+				AQAAAAAAABEgAACUAQAAAAAAABIgAAB0AQAAAAAAABMg
+				AACEAQAAAAAAACAgAADAAQAAAAAAADAgAADsAQAAAAAA
+				AAHAAAA0AQAAAAAAABHAAAAgAAAAAAAAABLAAABEAQAA
+				AAAAABDQAAAEAAAAAAAAAPQBAIAYAgAAAAAAAA==
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Development/bibliotheques-mnhn-fr/parse-tsv.php</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./parse-tsv.php</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>parse-tsv.php</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 			<key>UserOverrideItemName</key>

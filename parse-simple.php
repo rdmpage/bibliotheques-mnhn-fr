@@ -160,14 +160,59 @@ $basedir = 'html-BMZOO';
 
 $basedir = 'html-MNHN_CRYAL';
 $basedir = 'html-MNHN_CRYMY';
+$basedir = 'html-MNHN_CRYBL';
 
-$basedir = 'html-MEBBO';
+//$basedir = 'html-MEBBO';
 
 
+$basedir = 'html-MNHN_REBRY';
+
+$basedir = 'html-BMZOO';
+$basedir = 'html-BUMHN';
+$basedir = 'html-BMBOT';
 
 
 
 $files = scandir($basedir);
+
+/*
+$files=array(
+'MNHN_REBRY_1982_TABL_N000.html',
+'MNHN_REBRY_1979_T045_N000.html',
+'MNHN_REBRY_1978_T044_N000.html',
+'MNHN_REBRY_1977_T043_N000.html',
+'MNHN_REBRY_1976_T042_N000.html',
+'MNHN_REBRY_1976_T041_NTAB.html',
+'MNHN_REBRY_1975_T041_N000.html',
+'MNHN_REBRY_1974_T040_N000.html',
+'MNHN_REBRY_1973_T039_N000.html',
+//'MNHN_REBRY_1972_TABL_N000.html',
+'MNHN_REBRY_1971_T038_N000.html',
+'MNHN_REBRY_1970_T037_N000.html',
+'MNHN_REBRY_1968_T036_N000.html',
+'MNHN_REBRY_1967_T035_N000.html',
+'MNHN_REBRY_1966_T034_N000.html',
+'MNHN_REBRY_1965_T033_N000.html',
+'MNHN_REBRY_1963_T032_N000.html',
+'MNHN_REBRY_1962_T031_N000.html',
+'MNHN_REBRY_1961_T030_N000.html',
+'MNHN_REBRY_1960_T029_N000.html',
+'MNHN_REBRY_1959_T028_N000.html',
+'MNHN_REBRY_1958_T027_N000.html',
+'MNHN_REBRY_1957_T026_N000.html',
+'MNHN_REBRY_1956_T025_N000.html',
+'MNHN_REBRY_1955_T024_N000.html',
+//'MNHN_REBRY_1954_TABL_N000.html',
+'MNHN_REBRY_1954_T023_N000.html',
+'MNHN_REBRY_1953_T022_N000.html',
+'MNHN_REBRY_1952_T021_N000.html',
+'MNHN_REBRY_1951_T020_N000.html',
+'MNHN_REBRY_1950_T019_N000.html',
+//'MNHN_REBRY_1949_T018_N000.html',
+);
+*/
+
+//$files=array('MNHN_REBRY_1949_T018_N000.html');
 
 // debug
 
@@ -181,11 +226,53 @@ $files = scandir($basedir);
 
 //$files=array('BMAZO_S004_1979_T001_N002.html');
 
+//$files=array('MNHN_CRYBL_1993_T014_N004.html');
+
+// $files=array('BUMHN_S001_1895_T001_N003.html');
+
+$files=array(
+'BMBOT_S003_1972_T045_N001.html',
+'BMBOT_S003_1972_T046_N002.html',
+'BMBOT_S003_1972_T047_N003.html',
+'BMBOT_S003_1972_T048_N004.html',
+'BMBOT_S003_1972_T071_N005.html',
+'BMBOT_S003_1973_T126_N006.html',
+'BMBOT_S003_1973_T127_N007.html',
+'BMBOT_S003_1973_T128_N008.html',
+'BMBOT_S003_1973_T189_N009.html',
+'BMBOT_S003_1973_T190_N010.html',
+'BMBOT_S003_1973_T191_N011.html',
+'BMBOT_S003_1973_T192_N012.html',
+'BMBOT_S003_1973_T200_N013.html',
+'BMBOT_S003_1973_T201_N014.html',
+'BMBOT_S003_1974_T227_N015.html',
+'BMBOT_S003_1974_T269_N016.html',
+'BMBOT_S003_1974_T270_N017.html',
+'BMBOT_S003_1974_T271_N018.html',
+'BMBOT_S003_1974_T271_N019.html',
+'BMBOT_S003_1975_T276_N020.html',
+'BMBOT_S003_1975_T277_N021.html',
+'BMBOT_S003_1975_T325_N022.html',
+'BMBOT_S003_1975_T326_N023.html',
+'BMBOT_S003_1976_T364_N024.html',
+'BMBOT_S003_1976_T365_N025.html',
+'BMBOT_S003_1976_T383_N026.html',
+'BMBOT_S003_1976_T395_N027.html',
+'BMBOT_S003_1976_T418_N028.html',
+'BMBOT_S003_1977_T442_N029.html',
+'BMBOT_S003_1977_T443_N030.html',
+'BMBOT_S003_1977_T460_N031.html',
+'BMBOT_S003_1977_T461_N032.html',
+'BMBOT_S003_1977_T502_N033.html',
+'BMBOT_S003_1977_T503_N034.html',
+'BMBOT_S003_1978_T521_N035.html',
+
+);
 
 
 foreach ($files as $filename)
 {
-	echo $filename . "\n";
+	echo "-- $filename\n";
 	
 	$references = array();
 	
@@ -396,10 +483,53 @@ foreach ($files as $filename)
 		{
 			echo "-- Bad\n";
 			
-		}				
+		}	
+		
+		// html-MNHN_CRYBL			
+		if (preg_match('/(?<code>MNHN_CRYBL_(?<year>[0-9]{4})_T0*(?<volume>\d+)_N0*(?<issue>\d+))/', $filename, $m))
+		{
+			$journal 	= 'Cryptogamie. Bryologie, lichenologie';
+			$issn		= '0181-1576';
+			$volume 	= $m['volume'];
+			$issue 		= $m['issue'];
+			$year 		= $m['year'];
+			
+			$code 		= $m['code'];
+		}
+		else
+		{
+			echo "-- Bad\n";
+			
+		}		
+		
+		// html-MNHN_REBRY
+		if (preg_match('/(?<code>MNHN_REBRY_(?<year>[0-9]{4})_T0*(?<volume>\d+)_N0*(?<issue>\d+))/', $filename, $m))
+		{
+			$journal 	= 'Revue bryologique et lichenologique';
+			$issn		= '0373-0913';
+			$volume 	= $m['volume'];
+			$issue 		= $m['issue'];
+			$year 		= $m['year'];
+			
+			$code 		= $m['code'];
+		}
+		else
+		{
+			echo "-- Bad\n";
+			
+		}		
+		
 		
 	
+	
+	
 		$html = file_get_contents($basedir . '/' . $filename);
+		
+		// clean HTML
+		
+		// <li><a id="ID0EBAAA">Communications</a></li>
+		
+		$html = preg_replace('/<a id="ID0[A-Z]+">Communications?<\/a>(<ul>|<\/li>)<li>/i', '', $html);
 		
 		$dom = str_get_html($html);		
 		
@@ -408,16 +538,16 @@ foreach ($files as $filename)
 		foreach ($divs as $div)
 		{
 
-			//echo $div->plaintext . "\n\n";
+			//echo  "|" . $div->plaintext . "|\n\n";
 			//echo $div->outertext . "\n\n";
 	
 			
 			
 			if (0)
 			{
-				preg_match_all("/\{ fileName: '([^']+)', index: (?<index>\d+) }/", $div->outertext, $m);
+				preg_match_all("/\{ fileName: '([^']+)', index: (?<index>\d+) }/", $div->outertext, $mm);
 				
-				print_r($m);
+				print_r($mm);
 				
 				
 			
@@ -427,7 +557,7 @@ foreach ($files as $filename)
 				$count = 0;
 				foreach ($div->find('li') as $li)
 				{	
-					//echo $li->plaintext . "\n";
+					echo "-- " . $li->plaintext . "\n";
 			
 			
 					$reference = new stdclass;
@@ -456,6 +586,10 @@ foreach ($files as $filename)
 						$reference->authorstring = preg_replace('/\s+;\s+/u', ';', $reference->authorstring);
 						$reference->authors = authors_from_string($reference->authorstring);				
 					
+					}
+					else
+					{
+						$reference->title = $li->plaintext;
 					}
 				
 					$references[] = $reference;
@@ -506,8 +640,9 @@ foreach ($files as $filename)
 				}
 				else
 				{
-					echo "Badness\n";
-					exit();
+					echo "-- Badness\n";
+					//echo $script->outertext . "\n";
+					//exit();
 				}
 		
 			}
