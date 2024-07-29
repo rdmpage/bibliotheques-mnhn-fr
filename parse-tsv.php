@@ -341,6 +341,7 @@ $filename = "edited-sheets/Cryptogamie. Algologie - Sheet1.tsv";
 //$filename = "edited-sheets/1.tsv";
 
 $filename = "edited-sheets/Notulae Systematicae - Sheet1.tsv";
+$filename = "edited-sheets/Cryptogamie. Mycologie - Sheet1.tsv";
 
 
 $bhl_pages = array();
@@ -393,6 +394,12 @@ while (!feof($file_handle))
 				$authorstring = str_replace (' and ', ';', $authorstring);
 				$obj->authors = explode(';', $authorstring);				
 			}
+			
+			if (isset($obj->title))
+			{
+				$obj->title = str_replace ('&amp;', '&', $obj->title);
+			}
+			
 
 			if (isset($obj->date))
 			{

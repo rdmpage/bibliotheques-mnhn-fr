@@ -60,5 +60,8 @@ Extract the links, then fetch the HTML `fetchhtml.php` and the PDFs `fetchpdfs.p
 
 ### Export
 
+Once data has been cleaned up in Google Docs, save the spreadsheet as a TSV file. The run `parse-tsv.php` to export as RIS file. `parse-tsv.php` translates BHL page links that include  `/item/‘, and also checks for possible duplicate articles by checking that BHL page ids are unique across articles.
+
+
 
 

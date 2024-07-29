@@ -4,8 +4,11 @@
 
 error_reporting(E_ALL ^ E_DEPRECATED);
 
-require_once(dirname(__FILE__) . '/simplehtmldom_1_5/simple_html_dom.php');
+//require_once(dirname(__FILE__) . '/simplehtmldom_1_5/simple_html_dom.php');
 
+require_once (dirname(__FILE__) . '/HtmlDomParser.php');
+
+use Sunra\PhpSimple\HtmlDomParser;
 
 //----------------------------------------------------------------------------------------
 function get_preceding_page($pages, $from = -1)
@@ -171,6 +174,7 @@ $basedir = 'html-BMZOO';
 $basedir = 'html-BUMHN';
 $basedir = 'html-BMBOT';
 
+$basedir = 'html-NANMH';
 
 
 $files = scandir($basedir);
@@ -230,6 +234,7 @@ $files=array(
 
 // $files=array('BUMHN_S001_1895_T001_N003.html');
 
+/*
 $files=array(
 'BMBOT_S003_1972_T045_N001.html',
 'BMBOT_S003_1972_T046_N002.html',
@@ -268,6 +273,7 @@ $files=array(
 'BMBOT_S003_1978_T521_N035.html',
 
 );
+*/
 
 
 foreach ($files as $filename)
@@ -531,7 +537,8 @@ foreach ($files as $filename)
 		
 		$html = preg_replace('/<a id="ID0[A-Z]+">Communications?<\/a>(<ul>|<\/li>)<li>/i', '', $html);
 		
-		$dom = str_get_html($html);		
+		//$dom = str_get_html($html);		
+		$dom = HtmlDomParser::str_get_html($html);
 		
 		$divs = $dom->find('div[id=TableOfContents1]');
 

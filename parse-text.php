@@ -30,6 +30,8 @@ $basedir = '/Volumes/Samsung_T5/bibliotheques-mnhn-fr/pdf-BUMHN';
 
 $basedir = 'pdf-BMBOT';
 
+$basedir = 'pdf-NANMH';
+
 //$files = scandir(dirname(__FILE__) . '/' . $basedir);
 
 $files = scandir($basedir);
